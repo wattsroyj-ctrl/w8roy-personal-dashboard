@@ -150,7 +150,7 @@ async function loadSpace(){
   $("spaceWeather").innerHTML=`<div class="two"><div class="empty"><div class="metric-label">Solar wind speed</div><div class="metric">${safe(speed)} <span style="font-size:13px">km/s</span></div><div class="sub">NOAA SWPC</div></div><div class="empty"><div class="metric-label">Planetary K-index</div><div class="metric">${safe(kp2)}</div><div class="sub">Geomagnetic activity indicator</div></div></div><p class="sub">Values are from NOAA SWPC feeds and may be unavailable temporarily. They are not a band-condition guarantee.</p>`;
  }catch(e){$("spaceWeather").innerHTML='<div class="empty">Space-weather data did not load. Open <a href="https://www.swpc.noaa.gov/" target="_blank" rel="noopener">NOAA SWPC</a> for current conditions.</div>'}
 }
-function initNews(){renderLinks("world",LINKS.world);renderLinks("local",LINKS.local)}
+function initNews(){renderLinks("worldNews",LINKS.world);renderLinks("localNews",LINKS.local)}
 function statsKey(){return "w8roy-stats-"+$("statMonth").value}
 function loadStats(){const d=JSON.parse(localStorage.getItem(statsKey())||"null");if(d){$("qni").value=d.qni;$("qtc").value=d.qtc;$("qtr").value=d.qtr;$("statsSaved").textContent="Saved locally for "+$("statMonth").value+"."}else $("statsSaved").textContent="No totals saved for this month yet."}
 function saveStats(){const d={qni:+$("qni").value||0,qtc:+$("qtc").value||0,qtr:+$("qtr").value||0};localStorage.setItem(statsKey(),JSON.stringify(d));$("statsSaved").textContent=`Saved for ${$("statMonth").value}: QNI ${d.qni} · QTC ${d.qtc} · QTR ${d.qtr} minutes.`}
