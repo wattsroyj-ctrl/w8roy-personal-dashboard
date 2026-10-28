@@ -158,12 +158,13 @@ function newsFallback(target,arr,message){$(target).innerHTML='<div class="empty
 async function loadNewsFeed(target,url,fallback){
  const box=$(target);box.innerHTML='<div class="empty">Loading live headlines…</div>';
  try{
-  // Fetch the RSS XML through a CORS-enabled proxy, then parse it in the browser.
-  const proxy='https://api.allorigins.win/raw?url='+encodeURIComponent(url);
+  // Ask the CORS-enabled proxy for a JSON wrapper, then parse its RSS contents.
+  const proxy='https://api.allorigins.win/get?url='+encodeURIComponent(url);
   const response=await fetch(proxy,{cache:'no-store'});
-  if(!response.ok)throw Error('Feed service unavailable');
-  const xmlText=await response.text();
-  const xml=new DOMParser().parseFromString(xmlText,'text/xml');
+  if(!response.ok)throw Error('Feed service unavailable (HTTP '+response.status+')');
+  const proxyData=await response.json();
+  if(typeof proxyData.contents!=='string'||!proxyData.contents.trim())throw Error('The feed proxy returned no RSS content');
+  const xml=new DOMParser().parseFromString(proxyData.contents,'text/xml');
   if(xml.querySelector('parsererror'))throw Error('Invalid RSS response');
   const nodes=Array.from(xml.querySelectorAll('item')).slice(0,6);
   if(!nodes.length)throw Error('No headlines returned');
@@ -174,7 +175,7 @@ async function loadNewsFeed(target,url,fallback){
     author:node.querySelector('source')?.textContent?.trim()||'Google News'
   }));
   box.innerHTML=items.map(item=>{const title=safe(item.title);const link=safe(item.link);const date=item.pubDate?new Date(item.pubDate):null;const stamp=date&&!isNaN(date)?date.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';return `<div class="item"><a href="${link}" target="_blank" rel="noopener noreferrer">${title} ↗</a><small>${safe(item.author||'Google News')}${stamp?' · '+safe(stamp):''}</small></div>`}).join('')+'<div class="sub">Headlines via Google News RSS · Updated '+new Date().toLocaleTimeString()+'</div>';
- }catch(error){newsFallback(target,fallback,'Live headlines are temporarily unavailable. Use these news links instead.');}
+ }catch(error){console.warn('W8ROY live news feed failed:',error);newsFallback(target,fallback,'Live headlines are temporarily unavailable. Use these news links instead.');}
 }
 function initNews(){loadNewsFeed('worldNews',NEWS_FEEDS.world,LINKS.world);loadNewsFeed('localNews',NEWS_FEEDS.local,LINKS.local)}
 function statsKey(){return "w8roy-stats-"+$("statMonth").value}
