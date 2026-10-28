@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f5f8fc">
+<title>W8ROY Personal Dashboard</title>
+<style>
+:root{--bg:#f4f7fb;--panel:#fff;--ink:#17243a;--muted:#65738a;--line:#dce4ef;--blue:#2456a6;--blue2:#eaf1ff;--red:#a82222;--green:#18794e;--shadow:0 5px 20px rgba(31,55,90,.06)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+header{background:#fff;border-bottom:1px solid var(--line);padding:18px clamp(14px,3vw,34px);display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.brand{display:flex;gap:12px;align-items:center}.logo{width:46px;height:46px;border-radius:13px;background:var(--blue);color:white;display:grid;place-items:center;font-size:23px;font-weight:800}.brand h1{font-size:clamp(19px,2.5vw,27px);margin:0}.brand p{margin:2px 0 0;color:var(--muted);font-size:12px}.header-right{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+button,a.btn{font:inherit;border:1px solid var(--line);background:white;color:var(--ink);padding:8px 11px;border-radius:9px;text-decoration:none;cursor:pointer}button:hover,a.btn:hover{border-color:#9db6df;background:#f9fbff}.primary{background:var(--blue);color:white;border-color:var(--blue)}.primary:hover{background:#174487;color:white}
+main{max-width:1500px;margin:auto;padding:20px clamp(12px,2vw,26px) 36px}
+.topline{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:14px}
+.grid{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:15px;box-shadow:var(--shadow);padding:16px;min-width:0}
+.span-3{grid-column:span 3}.span-4{grid-column:span 4}.span-5{grid-column:span 5}.span-6{grid-column:span 6}.span-7{grid-column:span 7}.span-8{grid-column:span 8}.span-9{grid-column:span 9}.span-12{grid-column:span 12}
+.metric-label,.eyebrow{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.08em;font-weight:750}.metric{font-size:26px;font-weight:800;letter-spacing:-.03em;margin:4px 0}.sub{font-size:12px;color:var(--muted)}h2{font-size:16px;margin:0;font-weight:800}h3{font-size:14px;margin:0 0 8px}p{margin:8px 0}.card-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:12px}.pill{font-size:11px;padding:4px 8px;border-radius:99px;background:var(--blue2);color:var(--blue);font-weight:700}.status{color:var(--muted);font-size:12px}.alert{padding:10px 12px;border-radius:10px;background:#fff5f3;border:1px solid #f0d0cb;margin:8px 0}.alert strong{color:var(--red)}.empty{padding:13px;border-radius:10px;background:#f6f8fb;color:var(--muted);font-size:13px}.list{display:grid;gap:9px}.item{padding-bottom:9px;border-bottom:1px solid #edf1f6}.item:last-child{border-bottom:0;padding-bottom:0}.item a{color:#1c4e98;font-weight:650;text-decoration:none}.item a:hover{text-decoration:underline}.item small{display:block;color:var(--muted);margin-top:3px}.weather-big{display:flex;gap:16px;align-items:center}.weather-temp{font-size:42px;font-weight:800;letter-spacing:-.05em}.weather-icon{font-size:35px}.forecast{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px;margin-top:12px}.forecast div{background:#f5f8fc;border-radius:10px;padding:9px 7px;text-align:center;font-size:12px}.forecast b{display:block;margin:4px 0}.two{display:grid;grid-template-columns:1fr 1fr;gap:10px}.field{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted)}input,select,textarea{font:inherit;color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:9px;background:white;width:100%}textarea{min-height:65px;resize:vertical}.formrow{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:8px 0}.actions{display:flex;gap:7px;flex-wrap:wrap;margin-top:9px}.task{display:flex;gap:8px;align-items:flex-start;padding:8px 0;border-bottom:1px solid #edf1f6}.task input{width:auto;margin-top:4px}.task label{flex:1}.task.done label{text-decoration:line-through;color:var(--muted)}.quicklinks{display:flex;gap:8px;flex-wrap:wrap}.quicklinks a{padding:8px 10px;background:#f5f8fc;border:1px solid var(--line);border-radius:9px;color:#214b88;text-decoration:none;font-size:13px;font-weight:650}.foot{color:var(--muted);font-size:11px;text-align:center;margin-top:18px}
+@media(max-width:1050px){.span-3,.span-4{grid-column:span 6}.span-5,.span-7,.span-8,.span-9{grid-column:span 12}}
+@media(max-width:650px){header{align-items:flex-start}.topline{grid-template-columns:1fr 1fr}.span-3,.span-4,.span-5,.span-6,.span-7,.span-8,.span-9,.span-12{grid-column:span 12}.forecast{grid-template-columns:repeat(2,minmax(0,1fr))}.two{grid-template-columns:1fr}.brand p{max-width:230px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand"><div class="logo">W8</div><div><h1>W8ROY Personal Dashboard</h1><p>Personal command center · Southeast Michigan · Light edition</p></div></div>
+  <div class="header-right"><span class="pill" id="liveStatus">Starting feeds…</span><button id="refreshAll" class="primary">↻ Refresh feeds</button><button id="settingsBtn">⚙ Settings</button></div>
+</header>
+<main>
+  <section class="topline">
+    <div class="card"><div class="metric-label">Local time · Eastern</div><div class="metric" id="localClock">--:--:--</div><div class="sub" id="todayDate">Loading date…</div></div>
+    <div class="card"><div class="metric-label">UTC time</div><div class="metric" id="utcClock">--:--:--</div><div class="sub">Coordinated Universal Time</div></div>
+    <div class="card"><div class="metric-label">Weather · Southeast Michigan</div><div class="metric" id="weatherMetric">Loading…</div><div class="sub" id="weatherUpdated">Live forecast when available</div></div>
+    <div class="card"><div class="metric-label">Dashboard status</div><div class="metric" id="statusMetric">Online</div><div class="sub" id="lastUpdated">Feed status will appear here</div></div>
+  </section>
+  <section class="grid">
+    <article class="card span-7">
+      <div class="card-head"><h2>⛅ Weather & forecast</h2><a class="btn" href="https://forecast.weather.gov/" target="_blank" rel="noopener">NWS forecast ↗</a></div>
+      <div id="weatherMain"><div class="empty">Loading National Weather Service forecast…</div></div>
+    </article>
+    <article class="card span-5">
+      <div class="card-head"><h2>🚨 Active weather alerts</h2><span class="pill">Official NWS</span></div>
+      <div id="alerts"><div class="empty">Checking active alerts…</div></div>
+      <p class="sub">This dashboard is informational and is not an emergency notification system. Always follow official alerts.</p>
+    </article>
+    <article class="card span-4">
+      <div class="card-head"><h2>🌎 World & U.S. news</h2><a class="btn" href="https://news.google.com/" target="_blank" rel="noopener">Open news ↗</a></div>
+      <div id="worldNews" class="list"><div class="empty">Live headlines are opening links to news searches in this starter build.</div></div>
+    </article>
+    <article class="card span-4">
+      <div class="card-head"><h2>📍 Michigan & local</h2><a class="btn" href="https://www.google.com/search?q=Michigan+news" target="_blank" rel="noopener">More news ↗</a></div>
+      <div id="localNews" class="list"></div>
+    </article>
+    <article class="card span-4">
+      <div class="card-head"><h2>📡 Amateur radio & space weather</h2><a class="btn" href="https://www.swpc.noaa.gov/" target="_blank" rel="noopener">NOAA SWPC ↗</a></div>
+      <div id="spaceWeather"><div class="empty">Loading NOAA space-weather data…</div></div>
+      <div class="quicklinks" style="margin-top:12px">
+        <a href="https://www.arrl.org/" target="_blank" rel="noopener">ARRL</a><a href="https://www.qrz.com/" target="_blank" rel="noopener">QRZ</a><a href="https://www.miarc.org/" target="_blank" rel="noopener">MIARC</a><a href="https://www.spaceweather.gov/" target="_blank" rel="noopener">Space Weather</a>
+      </div>
+    </article>
+    <article class="card span-5">
+      <div class="card-head"><h2>📊 SEMTN traffic statistics</h2><a class="btn" href="https://www.semtn.org/" target="_blank" rel="noopener">SEMTN ↗</a></div>
+      <p class="sub">Enter totals from your tracker. Saved in this browser on this device.</p>
+      <div class="two">
+        <label class="field">Month<input id="statMonth" type="month"></label>
+        <label class="field">QNI · Check-ins<input id="qni" type="number" min="0" value="0"></label>
+        <label class="field">QTC · Traffic handled<input id="qtc" type="number" min="0" value="0"></label>
+        <label class="field">QTR · Minutes<input id="qtr" type="number" min="0" value="0"></label>
+      </div>
+      <div class="actions"><button class="primary" id="saveStats">Save totals</button><button id="clearStats">Clear fields</button></div>
+      <div id="statsSaved" class="sub" style="margin-top:8px">No totals saved yet.</div>
+      <p class="sub">Not yet connected to the SEMTN Traffic Tracker automatically.</p>
+    </article>
+    <article class="card span-4">
+      <div class="card-head"><h2>🗓 Calendar & reminders</h2><span class="pill">This device</span></div>
+      <label class="field">Reminder<input id="reminderText" placeholder="e.g., SEMTN net at 7:30 PM"></label>
+      <div class="formrow"><label class="field">Date<input id="reminderDate" type="date"></label><label class="field">Time<input id="reminderTime" type="time"></label></div>
+      <div class="actions"><button class="primary" id="addReminder">Add reminder</button></div>
+      <div id="reminders" style="margin-top:10px"><div class="empty">No reminders yet.</div></div>
+      <p class="sub">Reminders are stored locally; this version does not send push notifications or sync between devices.</p>
+    </article>
+    <article class="card span-3">
+      <div class="card-head"><h2>🛡 Public safety</h2></div>
+      <div class="list">
+        <div class="item"><a href="https://www.michigan.gov/msp" target="_blank" rel="noopener">Michigan State Police ↗</a><small>Official state public safety information</small></div>
+        <div class="item"><a href="https://www.michigan.gov/mdot" target="_blank" rel="noopener">Michigan DOT ↗</a><small>Road conditions and travel information</small></div>
+        <div class="item"><a href="https://www.ready.gov/" target="_blank" rel="noopener">Ready.gov ↗</a><small>Preparedness information</small></div>
+        <div class="item"><a href="https://www.weather.gov/dtx/" target="_blank" rel="noopener">NWS Detroit/Pontiac ↗</a><small>Local forecasts and warnings</small></div>
+      </div>
+    </article>
+    <article class="card span-6">
+      <div class="card-head"><h2>✉ Email highlights</h2><span class="pill">Not connected</span></div>
+      <div class="empty">Email is intentionally not connected in Version 1.0. To protect your privacy, this static site will not ask for an email password or store messages. A future version can use a secure, authorized Microsoft or Google sign-in integration.</div>
+      <div class="quicklinks" style="margin-top:12px"><a href="https://outlook.office.com/mail/" target="_blank" rel="noopener">Open Outlook ↗</a><a href="https://mail.google.com/" target="_blank" rel="noopener">Open Gmail ↗</a></div>
+    </article>
+    <article class="card span-6">
+      <div class="card-head"><h2>🔗 Quick tools & links</h2></div>
+      <div class="quicklinks">
+        <a href="https://www.timeanddate.com/worldclock/" target="_blank" rel="noopener">World clocks</a>
+        <a href="https://www.google.com/search?q=calculator" target="_blank" rel="noopener">Calculator</a>
+        <a href="https://www.arrl.org/nts" target="_blank" rel="noopener">ARRL traffic system</a>
+        <a href="https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service" target="_blank" rel="noopener">FCC Amateur Radio</a>
+        <a href="https://www.noaa.gov/" target="_blank" rel="noopener">NOAA</a>
+        <a href="https://www.fema.gov/" target="_blank" rel="noopener">FEMA</a>
+      </div>
+      <label class="field" style="margin-top:14px">Personal scratchpad<textarea id="scratchpad" placeholder="Temporary notes…"></textarea></label>
+      <div class="actions"><button id="saveNotes" class="primary">Save notes on this device</button><span id="notesStatus" class="status"></span></div>
+    </article>
+  </section>
+  <div class="foot">W8ROY Personal Dashboard v1.0 · Public information feeds only · Personal notes and totals stay in this browser · Always verify critical information at the official source.</div>
+</main>
+<dialog id="settingsDialog" style="border:1px solid var(--line);border-radius:15px;max-width:520px;width:calc(100% - 28px);padding:22px;color:var(--ink)">
+  <h2>Dashboard settings</h2><p class="sub">Set the location used for the weather forecast. Defaults to Southeast Michigan.</p>
+  <label class="field">Weather location / city<input id="locationName" value="Livonia, Michigan"></label>
+  <p class="sub">Version 1.0 uses an approximate Livonia-area point for weather. You can change the location name for your own reference; coordinate editing will be added in a later version.</p>
+  <div class="actions"><button class="primary" id="saveSettings">Save</button><button id="closeSettings">Close</button></div>
+</dialog>
+<script>
+const $=id=>document.getElementById(id);
+const coords={lat:42.3684,lon:-83.3527};
+const LINKS={
+ world:[["Google News · World","https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZ4ZERBU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen","World headlines"],["Google News · U.S.","https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZ4ZERBU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen","National headlines"],["Reuters · World","https://www.reuters.com/world/","International reporting"],["AP News","https://apnews.com/","Breaking news"]],
+ local:[["Google News · Michigan","https://news.google.com/search?q=Michigan&hl=en-US&gl=US&ceid=US%3Aen","State headlines"],["Google News · Metro Detroit","https://news.google.com/search?q=Metro%20Detroit&hl=en-US&gl=US&ceid=US%3Aen","Regional headlines"],["Michigan Public","https://www.michiganpublic.org/","Michigan public radio news"],["Detroit Free Press","https://www.freep.com/","Detroit-area reporting"]]
+};
+function renderLinks(target,arr){$(target).innerHTML=arr.map(x=>`<div class="item"><a href="${x[1]}" target="_blank" rel="noopener">${x[0]} ↗</a><small>${x[2]}</small></div>`).join("")}
+function clock(){const now=new Date();$("localClock").textContent=new Intl.DateTimeFormat("en-US",{timeZone:"America/Detroit",hour:"2-digit",minute:"2-digit",second:"2-digit",hour12:true}).format(now);$("utcClock").textContent=new Intl.DateTimeFormat("en-GB",{timeZone:"UTC",hour:"2-digit",minute:"2-digit",second:"2-digit",hour12:false}).format(now);$("todayDate").textContent=new Intl.DateTimeFormat("en-US",{timeZone:"America/Detroit",weekday:"long",year:"numeric",month:"long",day:"numeric"}).format(now)}
+function safe(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+async function loadWeather(){
+ try{
+  const p=await fetch(`https://api.weather.gov/points/${coords.lat},${coords.lon}`,{headers:{Accept:"application/geo+json"}});
+  if(!p.ok)throw Error("NWS points unavailable");const pd=await p.json();const u=pd.properties;
+  const [fr,hr]=await Promise.all([fetch(u.forecast,{headers:{Accept:"application/geo+json"}}),fetch(u.forecastHourly,{headers:{Accept:"application/geo+json"}})]);
+  if(!fr.ok)throw Error("Forecast unavailable");const forecast=await fr.json();const hourly=hr.ok?await hr.json():null;const periods=forecast.properties.periods||[];const hp=hourly?.properties?.periods||[];const cur=hp[0];const first=periods[0];
+  const temp=cur?.temperature!=null?`${cur.temperature}°${cur.temperatureUnit||"F"}`:first?`${first.temperature}°${first.temperatureUnit||"F"}`:"—";
+  $("weatherMetric").textContent=temp;$("weatherUpdated").textContent="NWS forecast · refreshed "+new Date().toLocaleTimeString();
+  $("weatherMain").innerHTML=`<div class="weather-big"><div class="weather-icon">🌤️</div><div><div class="weather-temp">${safe(temp)}</div><strong>${safe(cur?.shortForecast||first?.shortForecast||"Forecast unavailable")}</strong><div class="sub">${safe(u.relativeLocation?.properties?.city||"Southeast Michigan")}, ${safe(u.relativeLocation?.properties?.state||"MI")} · Wind ${safe(cur?.windSpeed||first?.windSpeed||"—")} ${safe(cur?.windDirection||first?.windDirection||"")}</div></div></div><div class="forecast">${periods.slice(0,4).map(x=>`<div>${safe(x.name)}<b>${safe(x.temperature)}°${safe(x.temperatureUnit)}</b>${safe(x.shortForecast)}</div>`).join("")}</div><p class="sub">Forecast from the National Weather Service. <a href="${safe(u.forecast)}" target="_blank" rel="noopener">Full forecast ↗</a></p>`;
+ }catch(e){$("weatherMetric").textContent="Unavailable";$("weatherUpdated").textContent="Could not load live data";$("weatherMain").innerHTML=`<div class="empty">Weather could not load right now. Check your internet connection or visit <a href="https://forecast.weather.gov/" target="_blank" rel="noopener">NWS Forecasts</a>. Details: ${safe(e.message)}</div>`}
+}
+async function loadAlerts(){
+ try{const r=await fetch("https://api.weather.gov/alerts/active?point="+coords.lat+","+coords.lon,{headers:{Accept:"application/geo+json"}});if(!r.ok)throw Error("Alert feed unavailable");const d=await r.json();const a=d.features||[];
+ if(!a.length){$("alerts").innerHTML='<div class="empty">No active NWS alerts returned for this point at the time of checking.</div>';return}
+ $("alerts").innerHTML=a.slice(0,6).map(f=>{const p=f.properties;return `<div class="alert"><strong>${safe(p.event||"Weather alert")}</strong><div>${safe(p.headline||p.description?.slice(0,180)||"See official alert for details")}</div><small>${safe(p.severity||"")}${p.expires?" · Expires "+safe(new Date(p.expires).toLocaleString()):""}</small><p><a href="${safe(p.web||"https://www.weather.gov/")} " target="_blank" rel="noopener">Official alert ↗</a></p></div>`}).join("");
+ }catch(e){$("alerts").innerHTML='<div class="empty">Live alerts could not be loaded. Check the <a href="https://www.weather.gov/" target="_blank" rel="noopener">official NWS site</a>.</div>'}
+}
+async function loadSpace(){
+ try{
+  const r=await fetch("https://services.swpc.noaa.gov/products/summary/solar-wind-speed.json");if(!r.ok)throw Error();const d=await r.json();const speed=d?.[1]?.[1]||"—";
+  const r2=await fetch("https://services.swpc.noaa.gov/products/noaa-planetary-k-index.json");let kp="—";if(r2.ok){const k=await r2.json();const row=k[k.length-1];kp=row?.[1]||"—"}
+  const r3=await fetch("https://services.swpc.noaa.gov/json/planetary_k_index_1m.json");let kp2=kp;if(r3.ok){const arr=await r3.json();const last=arr[arr.length-1];if(last?.kp_index!=null)kp2=last.kp_index}
+  $("spaceWeather").innerHTML=`<div class="two"><div class="empty"><div class="metric-label">Solar wind speed</div><div class="metric">${safe(speed)} <span style="font-size:13px">km/s</span></div><div class="sub">NOAA SWPC</div></div><div class="empty"><div class="metric-label">Planetary K-index</div><div class="metric">${safe(kp2)}</div><div class="sub">Geomagnetic activity indicator</div></div></div><p class="sub">Values are from NOAA SWPC feeds and may be unavailable temporarily. They are not a band-condition guarantee.</p>`;
+ }catch(e){$("spaceWeather").innerHTML='<div class="empty">Space-weather data did not load. Open <a href="https://www.swpc.noaa.gov/" target="_blank" rel="noopener">NOAA SWPC</a> for current conditions.</div>'}
+}
+function initNews(){renderLinks("world",LINKS.world);renderLinks("local",LINKS.local)}
+function statsKey(){return "w8roy-stats-"+$("statMonth").value}
+function loadStats(){const d=JSON.parse(localStorage.getItem(statsKey())||"null");if(d){$("qni").value=d.qni;$("qtc").value=d.qtc;$("qtr").value=d.qtr;$("statsSaved").textContent="Saved locally for "+$("statMonth").value+"."}else $("statsSaved").textContent="No totals saved for this month yet."}
+function saveStats(){const d={qni:+$("qni").value||0,qtc:+$("qtc").value||0,qtr:+$("qtr").value||0};localStorage.setItem(statsKey(),JSON.stringify(d));$("statsSaved").textContent=`Saved for ${$("statMonth").value}: QNI ${d.qni} · QTC ${d.qtc} · QTR ${d.qtr} minutes.`}
+function getReminders(){return JSON.parse(localStorage.getItem("w8roy-reminders")||"[]")}
+function drawReminders(){const list=getReminders();$("reminders").innerHTML=list.length?list.map((r,i)=>`<div class="task ${r.done?"done":""}"><input type="checkbox" ${r.done?"checked":""} data-done="${i}" aria-label="Complete reminder"><label>${safe(r.text)}<small>${safe(r.date||"No date")} ${safe(r.time||"")}</small></label><button data-delete="${i}" aria-label="Delete reminder">×</button></div>`).join(""):'<div class="empty">No reminders yet.</div>'}
+$("reminders").addEventListener("click",e=>{const i=e.target.dataset.delete;if(i!==undefined){const a=getReminders();a.splice(+i,1);localStorage.setItem("w8roy-reminders",JSON.stringify(a));drawReminders()}});
+$("reminders").addEventListener("change",e=>{const i=e.target.dataset.done;if(i!==undefined){const a=getReminders();a[+i].done=e.target.checked;localStorage.setItem("w8roy-reminders",JSON.stringify(a));drawReminders()}});
+$("addReminder").onclick=()=>{const text=$("reminderText").value.trim();if(!text){alert("Please enter a reminder.");return}const a=getReminders();a.push({text,date:$("reminderDate").value,time:$("reminderTime").value,done:false});a.sort((x,y)=>(x.date+x.time).localeCompare(y.date+y.time));localStorage.setItem("w8roy-reminders",JSON.stringify(a));$("reminderText").value="";drawReminders()};
+$("statMonth").value=new Date().toISOString().slice(0,7);$("statMonth").addEventListener("change",loadStats);$("saveStats").onclick=saveStats;$("clearStats").onclick=()=>{$("qni").value=0;$("qtc").value=0;$("qtr").value=0};
+$("scratchpad").value=localStorage.getItem("w8roy-scratchpad")||"";$("saveNotes").onclick=()=>{localStorage.setItem("w8roy-scratchpad",$("scratchpad").value);$("notesStatus").textContent="Saved on this device."};
+$("settingsBtn").onclick=()=>$("settingsDialog").showModal();$("closeSettings").onclick=()=>$("settingsDialog").close();$("saveSettings").onclick=()=>{localStorage.setItem("w8roy-location-name",$("locationName").value);$("settingsDialog").close()};
+$("refreshAll").onclick=refreshAll;
+async function refreshAll(){$("liveStatus").textContent="Refreshing…";$("lastUpdated").textContent="Refreshing public feeds…";await Promise.all([loadWeather(),loadAlerts(),loadSpace()]);$("liveStatus").textContent="Refresh complete";$("lastUpdated").textContent="Last refresh: "+new Date().toLocaleTimeString();$("statusMetric").textContent="Online"}
+function boot(){clock();setInterval(clock,1000);initNews();loadStats();drawReminders();$("locationName").value=localStorage.getItem("w8roy-location-name")||"Livonia, Michigan";refreshAll();setInterval(()=>{loadWeather();loadAlerts()},10*60*1000);setInterval(loadSpace,30*60*1000)}
+boot();
+</script>
+</body>
+</html>
