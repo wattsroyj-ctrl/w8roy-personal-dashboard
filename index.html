@@ -158,11 +158,22 @@ function newsFallback(target,arr,message){$(target).innerHTML='<div class="empty
 async function loadNewsFeed(target,url,fallback){
  const box=$(target);box.innerHTML='<div class="empty">Loading live headlines…</div>';
  try{
-  const api='https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url);
-  const response=await fetch(api,{cache:'no-store'});if(!response.ok)throw Error('Feed service unavailable');
-  const data=await response.json();if(data.status!=='ok'||!Array.isArray(data.items)||!data.items.length)throw Error('No headlines returned');
-  const items=data.items.slice(0,6);
-  box.innerHTML=items.map(item=>{const title=safe(item.title||'News story');const link=safe(item.link||url);const date=item.pubDate?new Date(item.pubDate):null;const stamp=date&&!isNaN(date)?date.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';return `<div class="item"><a href="${link}" target="_blank" rel="noopener noreferrer">${title} ↗</a><small>${safe(item.author||item.source||'Google News')}${stamp?' · '+safe(stamp):''}</small></div>`}).join('')+'<div class="sub">Headlines via Google News RSS · Updated '+new Date().toLocaleTimeString()+'</div>';
+  // Fetch the RSS XML through a CORS-enabled proxy, then parse it in the browser.
+  const proxy='https://api.allorigins.win/raw?url='+encodeURIComponent(url);
+  const response=await fetch(proxy,{cache:'no-store'});
+  if(!response.ok)throw Error('Feed service unavailable');
+  const xmlText=await response.text();
+  const xml=new DOMParser().parseFromString(xmlText,'text/xml');
+  if(xml.querySelector('parsererror'))throw Error('Invalid RSS response');
+  const nodes=Array.from(xml.querySelectorAll('item')).slice(0,6);
+  if(!nodes.length)throw Error('No headlines returned');
+  const items=nodes.map(node=>({
+    title:node.querySelector('title')?.textContent?.trim()||'News story',
+    link:node.querySelector('link')?.textContent?.trim()||url,
+    pubDate:node.querySelector('pubDate')?.textContent?.trim()||'',
+    author:node.querySelector('source')?.textContent?.trim()||'Google News'
+  }));
+  box.innerHTML=items.map(item=>{const title=safe(item.title);const link=safe(item.link);const date=item.pubDate?new Date(item.pubDate):null;const stamp=date&&!isNaN(date)?date.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';return `<div class="item"><a href="${link}" target="_blank" rel="noopener noreferrer">${title} ↗</a><small>${safe(item.author||'Google News')}${stamp?' · '+safe(stamp):''}</small></div>`}).join('')+'<div class="sub">Headlines via Google News RSS · Updated '+new Date().toLocaleTimeString()+'</div>';
  }catch(error){newsFallback(target,fallback,'Live headlines are temporarily unavailable. Use these news links instead.');}
 }
 function initNews(){loadNewsFeed('worldNews',NEWS_FEEDS.world,LINKS.world);loadNewsFeed('localNews',NEWS_FEEDS.local,LINKS.local)}
