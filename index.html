@@ -151,7 +151,7 @@ async function loadSpace(){
  }catch(e){$("spaceWeather").innerHTML='<div class="empty">Space-weather data did not load. Open <a href="https://www.swpc.noaa.gov/" target="_blank" rel="noopener">NOAA SWPC</a> for current conditions.</div>'}
 }
 const NEWS_FEEDS={
- world:"https://news.google.com/rss/search?q=world+news&hl=en-US&gl=US&ceid=US:en",
+ world:"https://news.google.com/rss/search?q=US+OR+world+news+when:2d&hl=en-US&gl=US&ceid=US:en",
  local:"https://news.google.com/rss/search?q=Michigan+OR+Detroit+OR+Livonia+news+when:3d&hl=en-US&gl=US&ceid=US:en"
 };
 function newsFallback(target,arr,message){$(target).innerHTML='<div class="empty">'+message+'</div>'+arr.map(x=>`<div class="item"><a href="${x[1]}" target="_blank" rel="noopener">${x[0]} ↗</a><small>${x[2]}</small></div>`).join("")}
