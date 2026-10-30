@@ -374,5 +374,6 @@ async function refreshAll(){$("liveStatus").textContent="Refreshing…";$("lastU
 function boot(){clock();setInterval(clock,1000);initNews();loadStats();drawReminders();$("locationName").value=localStorage.getItem("w8roy-location-name")||"Livonia, Michigan";refreshAll();setInterval(()=>{loadWeather();loadAlerts()},10*60*1000);setInterval(loadSpace,30*60*1000)}
 boot();
 </script>
+  <!-- Pages publish refresh: 2026-10-30 -->
 </body>
 </html>
