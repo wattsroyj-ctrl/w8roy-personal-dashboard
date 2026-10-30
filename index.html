@@ -155,37 +155,29 @@ const NEWS_FEEDS={
  local:"https://news.google.com/rss/search?q=Michigan+OR+Detroit+OR+%22Metro+Detroit%22+when:2d&hl=en-US&gl=US&ceid=US:en"
 };
 function newsFallback(target,arr,message){$(target).innerHTML='<div class="empty">'+message+'</div>'+arr.map(x=>`<div class="item"><a href="${x[1]}" target="_blank" rel="noopener">${x[0]} ↗</a><small>${x[2]}</small></div>`).join("")}
-async function loadNewsFeed(target,url,fallback){
+async function loadNewsFeed(target,feedName,fallback){
  const box=$(target);box.innerHTML='<div class="empty">Loading live headlines…</div>';
- // Keep a slow or stalled RSS proxy from holding up the other news panel.
- async function fetchTimed(endpoint){
-  const controller=new AbortController();
-  const timer=setTimeout(()=>controller.abort(),10000);
-  try{return await fetch(endpoint,{cache:'no-store',signal:controller.signal});}
-  finally{clearTimeout(timer);}
+ try{
+  // Headlines are fetched by GitHub Actions and served from this site.
+  // This avoids browser CORS restrictions and unreliable third-party RSS proxies.
+  const response=await fetch('./news.json?refresh='+Date.now(),{cache:'no-store'});
+  if(!response.ok)throw Error('News data not published yet');
+  const data=await response.json();
+  const items=data?.feeds?.[feedName];
+  if(!Array.isArray(items)||!items.length)throw Error('No headlines available for this feed');
+  box.innerHTML=items.slice(0,8).map(item=>{
+   const title=safe(item.title||'News story');
+   const link=safe(item.link||'https://news.google.com/');
+   const date=item.pubDate?new Date(item.pubDate):null;
+   const stamp=date&&!isNaN(date)?date.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';
+   return `<div class="item"><a href="${link}" target="_blank" rel="noopener noreferrer">${title} ↗</a><small>${safe(item.source||'Google News')}${stamp?' · '+safe(stamp):''}</small></div>`;
+  }).join('')+`<div class="sub">Google News RSS · Updated ${safe(new Date(data.updated||Date.now()).toLocaleString())}</div>`;
+ }catch(error){
+  console.warn('W8ROY published news feed unavailable:',error);
+  newsFallback(target,fallback,'Live headlines are being prepared. Use these news links in the meantime.');
  }
- const parseXml=(text)=>{
-  const xml=new DOMParser().parseFromString(text,'text/xml');
-  if(xml.querySelector('parsererror'))throw Error('Invalid RSS response');
-  const nodes=Array.from(xml.querySelectorAll('item')).slice(0,6);
-  if(!nodes.length)throw Error('No headlines returned');
-  return nodes.map(node=>({title:node.querySelector('title')?.textContent?.trim()||'News story',link:node.querySelector('link')?.textContent?.trim()||url,pubDate:node.querySelector('pubDate')?.textContent?.trim()||'',author:node.querySelector('source')?.textContent?.trim()||'Google News'}));
- };
- const parseJson=(data)=>{
-  if(data.status!=='ok'||!Array.isArray(data.items)||!data.items.length)throw Error(data.message||'RSS conversion returned no headlines');
-  return data.items.slice(0,6).map(item=>({title:item.title||'News story',link:item.link||url,pubDate:item.pubDate||'',author:item.author||item.source||'Google News'}));
- };
- const attempts=[
-  async()=>{const endpoint='https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url);const r=await fetchTimed(endpoint);if(!r.ok)throw Error('RSS converter HTTP '+r.status);return parseJson(await r.json());},
-  async()=>{const endpoint='https://api.allorigins.win/get?url='+encodeURIComponent(url);const r=await fetchTimed(endpoint);if(!r.ok)throw Error('AllOrigins HTTP '+r.status);const d=await r.json();if(typeof d.contents!=='string'||!d.contents.trim())throw Error('AllOrigins returned no feed');return parseXml(d.contents);},
-  async()=>{const endpoint='https://corsproxy.io/?url='+encodeURIComponent(url);const r=await fetchTimed(endpoint);if(!r.ok)throw Error('CORS proxy HTTP '+r.status);return parseXml(await r.text());}
- ];
- let items=null;let lastError=null;
- for(const attempt of attempts){try{items=await attempt();if(items.length)break;}catch(error){lastError=error;console.warn('W8ROY news source attempt failed:',error);}}
- if(!items||!items.length){console.warn('W8ROY live news feed failed:',lastError);newsFallback(target,fallback,'Live headlines are temporarily unavailable. Use these news links instead.');return;}
- box.innerHTML=items.map(item=>{const title=safe(item.title);const link=safe(item.link);const date=item.pubDate?new Date(item.pubDate):null;const stamp=date&&!isNaN(date)?date.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'';return `<div class="item"><a href="${link}" target="_blank" rel="noopener noreferrer">${title} ↗</a><small>${safe(item.author||'Google News')}${stamp?' · '+safe(stamp):''}</small></div>`}).join('')+'<div class="sub">Headlines via Google News RSS · Updated '+new Date().toLocaleTimeString()+'</div>';
 }
-function initNews(){loadNewsFeed('worldNews',NEWS_FEEDS.world,LINKS.world);loadNewsFeed('localNews',NEWS_FEEDS.local,LINKS.local)}
+function initNews(){loadNewsFeed('worldNews','world',LINKS.world);loadNewsFeed('localNews','local',LINKS.local)}
 function statsKey(){return "w8roy-stats-"+$("statMonth").value}
 function loadStats(){const d=JSON.parse(localStorage.getItem(statsKey())||"null");if(d){$("qni").value=d.qni;$("qtc").value=d.qtc;$("qtr").value=d.qtr;$("statsSaved").textContent="Saved locally for "+$("statMonth").value+"."}else $("statsSaved").textContent="No totals saved for this month yet."}
 function saveStats(){const d={qni:+$("qni").value||0,qtc:+$("qtc").value||0,qtr:+$("qtr").value||0};localStorage.setItem(statsKey(),JSON.stringify(d));$("statsSaved").textContent=`Saved for ${$("statMonth").value}: QNI ${d.qni} · QTC ${d.qtc} · QTR ${d.qtr} minutes.`}
