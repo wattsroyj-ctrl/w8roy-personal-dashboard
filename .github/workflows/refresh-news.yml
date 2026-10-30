@@ -1,6 +1,10 @@
 name: Refresh dashboard news
 
 on:
+  push:
+    paths:
+      - 'index.html'
+      - '.github/workflows/refresh-news.yml'
   workflow_dispatch:
   schedule:
     - cron: "*/15 * * * *"
