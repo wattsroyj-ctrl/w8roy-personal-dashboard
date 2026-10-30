@@ -324,7 +324,7 @@ async function loadAlerts(){
 }
 async function loadSpace(){
  try{
-  const r=await fetch("https://services.swpc.noaa.gov/products/summary/solar-wind-speed.json");if(!r.ok)throw Error();const d=await r.json();const speed=d?.[1]?.[1]||"—";
+  const r=await fetch("https://services.swpc.noaa.gov/products/summary/solar-wind-speed.json");if(!r.ok)throw Error();const d=await r.json();const speed=d?.[0]?.proton_speed??d?.[1]?.[1]??"—";
   const r2=await fetch("https://services.swpc.noaa.gov/products/noaa-planetary-k-index.json");let kp="—";if(r2.ok){const k=await r2.json();const row=k[k.length-1];kp=row?.[1]||"—"}
   const r3=await fetch("https://services.swpc.noaa.gov/json/planetary_k_index_1m.json");let kp2=kp;if(r3.ok){const arr=await r3.json();const last=arr[arr.length-1];if(last?.kp_index!=null)kp2=last.kp_index}
   $("spaceWeather").innerHTML=`<div class="two"><div class="empty"><div class="metric-label">Solar wind speed</div><div class="metric">${safe(speed)} <span style="font-size:13px">km/s</span></div><div class="sub">NOAA SWPC</div></div><div class="empty"><div class="metric-label">Planetary K-index</div><div class="metric">${safe(kp2)}</div><div class="sub">Geomagnetic activity indicator</div></div></div><p class="sub">Values are from NOAA SWPC feeds and may be unavailable temporarily. They are not a band-condition guarantee.</p>`;
