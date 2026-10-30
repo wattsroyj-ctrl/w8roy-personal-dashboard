@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:59:35.486809+00:00",
+  "updated": "2026-10-30T19:00:33.267915+00:00",
   "feeds": {
     "world": [
       {
@@ -15,10 +15,22 @@
         "pubDate": "Fri, 30 Oct 2026 16:47:00 GMT"
       },
       {
+        "title": "Midterms 2026: Congress Polls and More - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
+        "source": "NBC News",
+        "pubDate": "Fri, 30 Oct 2026 16:00:20 GMT"
+      },
+      {
         "title": "Charlotte-area elementary, middle schools shine in 2027 US News rankings - Charlotte Observer",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHVtT1VsTmlJTndyRFlJZk1NMndRQi1JcTZhblNkc3Y0aHdQTTktSG1GbHNLSTRUOENlRzBKc1VTbXMxSi1nQVY1eE1EMkpXYnZFSU82RVFzak9xMHRoRGc0UWgwNEJENGJNRWtBbFRYNFdzOTFjd2hQQVlmcXE5d0JR0gGCAUFVX3lxTE82RGFxaUpMYVlOSkpQcFlEd3hSR2dmLUxlVkcxenZrU0dXNXhUR0ZiSmZhTmVIVFlwSkc5ZUtGRnJ3dlZLN1V3Z2RXU3FFdVE0cHlhN0FWUE4xWlNUU1kzekUxWkhHVzVIXzcyYWxadm11dzUyRUdobjBQS1k2R21sYUE?oc=5",
         "source": "Charlotte Observer",
         "pubDate": "Fri, 30 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "title": "Pope Leo XIV votes in US midterm elections via mail-in ballot - Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGI4NEdQS2kwQnA1cG1uLWJUaTIzOGQxUVRmenV0SWloUmxqcHdYRXhxejVVdnlUSG9EVTFFcmNmVGc4djQtSVVSVUMwTVpOQWlHOWhSVUlWN2RsZ05KcVprVEY3U3VlSllWRW5IaTl5WC0zQXFiVkdodkZZbm5Rc1ZhUUE0YlhPYms3YmFNczRkS0UxMDZHSw?oc=5",
+        "source": "Vatican News",
+        "pubDate": "Fri, 30 Oct 2026 16:55:26 GMT"
       },
       {
         "title": "Trump on Iran War: It's Going to Get Wrapped up Soon - U.S. News & World Report",
@@ -27,28 +39,16 @@
         "pubDate": "Fri, 30 Oct 2026 11:55:00 GMT"
       },
       {
+        "title": "Government corruption a top issue for US midterm voters, exclusive poll finds - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUhrTVBKeGY5U3MtQWJMeUt0SXlJUzRSbkpHODhYcnJyUE13dmlHWlBGYVVFb3h5X1NqMzMxRjh5UWZaOTZSZFpRX190dTNMMlJZNDF4aEt4UFJYMng0SUxTNnU5REF1S0xvSUN0MklkOTFFQk03Q2JldE1rOGFXZmtjRTBpNFdtVDB2bnhB?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Fri, 30 Oct 2026 13:27:00 GMT"
+      },
+      {
         "title": "Leo XIV Has Become the First Pope in History to Vote in a US General Election - U.S. News & World Report",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN01tbmh1ZmdHVXBMU09KVjFmY1FxUHhXeHFuRFppQTFVRE41cVcyR3ZXdDRwaUZFZURqR2c1VS1OaTk3NUlJeUhsbzVXUWQxOFlPZGRQa3VBUlZ4cmNrMjBRYU52VXVqM1JNSnNJTlhqOG5JSGV1dTF6QjF1R1REbUthR3REZUk1aGlzb1dYbDc3Wks2MWN0dVN1TDAwSVVwakNGODVjZzdRN254Uy1uZGV0RHNGOU5kTWNaMEx4ODNncEk?oc=5",
         "source": "U.S. News & World Report",
         "pubDate": "Fri, 30 Oct 2026 12:59:00 GMT"
-      },
-      {
-        "title": "FBI and US Secret Service Working With Binance After $6.3 Billion Hack, Source Says - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0NPQTd4UldiVmZONkxRZkhPaE1wVU51NjBKT2owWGlNdkJjc0RjbmRUcmpZbFgxTEstTldaYXk4T1lWR1ZGRDdkcDNFa0tGeExIY0NRcW9sbzJSeXhjU2JfOXNiRmc5ZXlHQzh3a3dBYV9FX2JCODkzUmd5cnYwWUs3VWQ3NGRTbzJxQlVBanZXLVJNRzNOM01KQ3g2djdabmNNaFZtS09xVHlCWHA0TkRLclVkNkVfOV85UHVxanUybDVfOVh2UDZ2SGRnZjJqT1BnSQ?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 30 Oct 2026 11:53:00 GMT"
-      },
-      {
-        "title": "US Judge Orders Ethics Investigation Into DOJ Lawyers in Golf Course Dispute - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjZELWNITWZFcmNCWHJaN2tpYkVaTHV2SnI0V1MzVWpnRnFoOWF6WS11R25VekJaajhYWi1YX1d3Mi11YXNsTUJxSzN1ODlwOFZHRjVuYkswVVp0ZlJyeC1oZG91NEt3RkVWSjNPeTNzVk9WelVLRndkQXlJOXNjbE0tQ2otWmkya1lMV3RiN2haRHBJTHRWUENBMXZ5S2NwaXQtdjd0VHhUQ0RWbVk2aC1ucTFjRTJmaV9GcmRSZUxlLUQtMEE?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 30 Oct 2026 18:09:00 GMT"
-      },
-      {
-        "title": "2 Trump Attempts to Change the DC Landscape Play Out in the Courts as Midterms Near - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeHdYeThucExKeEs4VHhVdElZcWtCN3R5S0xVNC1XYkpqLWlVdy1LUXpuNmFPWjBKVWlTUG5qN09GVUNJRWh5cktJU192eFpNMlNsTHFyRmJwaFBFZHVhWDVzUFFEUmxrUjhpeE9Sd3dpdHJ6dDRJMklQX2JIdEhlNnZBeUpFRjJHT0dyMDJoYllNU0dXMDgyTXR3dVJTWnJLTjVENndVc2QzcDdjTXlNVmFMclZVZ0FReUVvZlBKYkxpcklLMDd6Znc4dkIyZ2s4WUJuYVhCbw?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 30 Oct 2026 17:46:05 GMT"
       }
     ],
     "local": [
