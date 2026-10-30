@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T04:17:17.112413+00:00",
+  "updated": "2026-10-30T05:15:14.014667+00:00",
   "feeds": {
     "world": [
       {
@@ -39,25 +39,19 @@
         "pubDate": "Fri, 30 Oct 2026 04:03:00 GMT"
       },
       {
+        "title": "Trump administration opens criminal investigation over alleged noncitizen voting in California - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWC1wMFBaQVBySWhKNlB4NzZaNzFRZm5WQnVmZWgyTk1nbzNVXzdPVkV0T2x4QWw0X0ZhaWxoNW1YUnNtYmd2UnNBS0FSWW5XQ0dwb1NycVNjanpZcDdzZE5vckpaS3VZU0Jwd2ppdHhRLWo1MTBsMEE3NFdXa19hRTRpRy05dmZhN2I1TkdqV1dPM1VmLTBaZHljcUNpN1dnRE0tVmZKZkNtM3FWbGtKTQ?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT"
+      },
+      {
         "title": "10 artificial intelligence graduate programs from U.S. News' list of 22 - qz.com",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jbjFjYnVvMWhkNXQyT0NPR0VDc3ZBZklwUmc1TDN0ZGluSmxwVGhYR053WGJsZ2FmNWJ0dE9DbnZvSDlrY0xoUURfX0E5WWxpUWx1U2V5dGREZGFVbHlPcU1hSXNPOTQ?oc=5",
         "source": "qz.com",
         "pubDate": "Thu, 29 Oct 2026 19:32:59 GMT"
-      },
-      {
-        "title": "Virginia Midterm Elections 2026: Key Races, Candidates and Past Results - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkLWRDem9pazRtRXphOUZUcDl4OWdzaFlBZFVZOHVMbE5vemhjU24zR0tJQkdNcy1UcDdMdkRJZFZ5TmI0bWFKemxMQlZ1eGRSZk8tNWswVDVPQi1ScjFSUExZdi1RanNYeS1mZEFIVDBWQQ?oc=5",
-        "source": "NBC News",
-        "pubDate": "Fri, 30 Oct 2026 00:00:21 GMT"
       }
     ],
     "local": [
-      {
-        "title": "Lions vs. Vikings practice report: Oct. 29 - Detroit Lions",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVm45aDY3SDE2WnlDQ1E5Ri1IRTRqSWx1RGc5SnA4Nl9fbXZhQWVSYTRJN0d3cE5leEtNOE5KVUprbVN5eVFXaGhUMU1JTnFVUWotX1JCblBhc3pZWUpScHJiYzBsc0hEVzNUZ2ZVTDM3LXY3ZDRXbUdQb3pEMDdkV0dEZ2tfdzhSdDB3Yk1PZ2N2UDNoUzdaTkFB?oc=5",
-        "source": "Detroit Lions",
-        "pubDate": "Thu, 29 Oct 2026 22:41:57 GMT"
-      },
       {
         "title": "El-Sayed and Stevens to make rare joint appearance as Democrats seek unity in Michigan Senate race - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWRmVENUbWVMY0dndWNDRTZKNUFJS2ExVTQxRXR1X05lQ0ZKS3dYaHBHMEtwMy1XTUxUMjRZeFM5Z0pLeThyVHZ4V2M2ZmhLaHN4cy1DYVI5dXNjMzlqUW5NUGJfNEF6anQzc2FvZG1qV0U1VlZvc21mcU9sZTkyTmRCNElfSkhNeXQwbzdUdVBvemhDWFk0bEtCNF9CLXpCREc0?oc=5",
@@ -71,10 +65,10 @@
         "pubDate": "Fri, 30 Oct 2026 02:19:11 GMT"
       },
       {
-        "title": "Shawn Horcoff Press Conference | Oct. 29, 2026. - NHL.com",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakgtV2pGWnk2TWpqaXp4ai1MQ0hIWEtjd2FBMUVfWlJxSTNSbWt6LTJwQnVoRkdZWlBDUktiZTltZDZRUVBDV1JFeDF3QlZ4ejRIWm1uWVhXMk4wcUx5OHJLQUU2RV83UkpuZE5vZWI3R1ZZQkV6SlNBNUZkei02V1JweTRNN2pSSUdPMFVNMFY1TlZKVmc?oc=5",
+        "title": "Chicago Blackhawks - Detroit Red Wings - Oct 29, 2026 - NHL.com",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LSmVCRHUzTmotMDFLZHFfcDNYNWxnMWdjeHJBNkY1Z19lNzVhd3JZbUtnZWVNYjA3U2w3R3JMSE5jMkdrT0Q3aG5SRVRoOXZJZEdhWi0wN3M3ZXFIQnhPVnNKMk9JNlBJVTM5clJWbFk?oc=5",
         "source": "NHL.com",
-        "pubDate": "Thu, 29 Oct 2026 23:21:55 GMT"
+        "pubDate": "Fri, 30 Oct 2026 04:02:03 GMT"
       },
       {
         "title": "Watch Moritz Seider talk Detroit Red Wings, Dylan Larkin quitting team - Detroit Free Press",
@@ -83,22 +77,28 @@
         "pubDate": "Fri, 30 Oct 2026 03:11:07 GMT"
       },
       {
-        "title": "Here’s How You Can Celebrate Halloween in Metro Detroit - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMlVqYUp5SUF2bDg1dV9LRGxQaXlQVVdmX0tIeGswUlo3NkhiY0RCalQycURaUWhOSDhnZzJxcXdTZGZPMjZ4Sy1QSzd5RkpIaDVIWGlwUmxYby0tUUVfdFRXVkUxOF9Od3duRW80bXJfcG5PMF91ZVcyVWxCeFdPSENRRHdKUU5BRy00Qk9rVldEMkZPaGV6M2luQ0JLWUYtSWhtVTR5U0RfNGN2?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Thu, 29 Oct 2026 20:21:51 GMT"
-      },
-      {
-        "title": "Michigan Voters Split on Candidate Solutions to Data Center Proposals - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaXFCLTg4LUFDaXdQWWlBTGdqaXlOTDVjdG55dDk0QlNsNlhMTU5RVWhwaEk5YzgxRjZFQXRBUlZlTUlMbmJvQ1VBbDdpcmJjWkVmNHNiRFhsX3BocVVPQ0VOVnZ6MktQRzNTMEFhZkZxaGpFdk01ci1nN3pueElEVkRSVThLREU?oc=5",
-        "source": "The New York Times",
-        "pubDate": "Thu, 29 Oct 2026 22:32:20 GMT"
-      },
-      {
         "title": "An ugly, Islamophobic turn in Michigan’s Senate race - NBC News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXc4WHRDaVVDNWFsc2hSblB1OEZ0Q1lqVXl1OWw0YWlVLUYtLXpveWxFRloxTnpnbFd6MFhBSGlZNk5CV0JfN0N5TmNFYktlWktWRU9QQWtxcm9CeWNtZXFtRm9tZnRMN25TTi1YcUlwWkVJT0NncHZLZHN1MDFfaUZNcnYtTWlSSHk3NW9jdWsxQnBBMG1Fdk1INkU5aXhncjZHUg?oc=5",
         "source": "NBC News",
         "pubDate": "Thu, 29 Oct 2026 22:00:40 GMT"
+      },
+      {
+        "title": "Detroit police officers injured after suspect flees traffic stop, hits patrol cars - ClickOnDetroit | WDIV Local 4",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOER0QWo0MDEydlp1bUV6UkZDVDhfMl9sVzUtWWdsX1FNRndBRkJIaWJSeXliLTJSdHlMa3VLQzJ5Y1RfeXZWb2x5OXcwUnVmVzRBLUExcndQRUxnRjVYcXJUeTJiRTYtRHcxTWZyTlV2TDlZYU5rbXBNX1dlbTJWV1hEb3pwWGZNS0V6Z0RzcDBwakdtRDNKVVY3VXZTelZ0TmdUUTR1SmxScTh1RnV6V1ctNXJGdTlBVzJ1akIzb0dvTEkyN3lXd1FBb2hvMHpS?oc=5",
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "pubDate": "Fri, 30 Oct 2026 03:44:03 GMT"
+      },
+      {
+        "title": "Soccer vs Central Michigan on 10/29/2026 - Box Score - Ball State University Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcTZseWlUZEo4ZnI3MHJ0OXNyTlhsaHpFYzdtV3hEXzdwQUQ4Nm5MMllxTVpYejBxeVRJdDBkNEJNSVFZX0tEZnRhZzhkb0dqSk1HcndhdGplRnA1RWRZ?oc=5",
+        "source": "Ball State University Athletics",
+        "pubDate": "Fri, 30 Oct 2026 04:52:30 GMT"
+      },
+      {
+        "title": "Watch - University of Michigan Athletics - University of Michigan Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MMHJHS0JZc1ZKa0hGd3ZaNVk5R01xd0tZQlU3TkhuRnhpUHNrVk9KeHA5YjVJT2lrdWxaNXJTaWwzYmFsVmI4alZmM3lOVEY1MXB4Q2tFaXVFMFdIb1hfcXBMZVJ4QQ?oc=5",
+        "source": "University of Michigan Athletics",
+        "pubDate": "Fri, 30 Oct 2026 03:02:49 GMT"
       }
     ]
   }
