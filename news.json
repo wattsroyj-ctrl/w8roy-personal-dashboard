@@ -1,12 +1,24 @@
 {
-  "updated": "2026-10-30T16:42:11.533525+00:00",
+  "updated": "2026-10-30T17:26:00.660851+00:00",
   "feeds": {
     "world": [
       {
-        "title": "Trump on Iran War: It's Going to Get Wrapped up Soon - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDNVM2IwTW9uMlNyUE5NNEJic2ttQTY5STVlSS1kdWpvdkdnRld3QjFoLXd1WGx0VmptdE9ZMk9UOWxzS2VDQlllb0ZIZG44a2pCZWtqM1J6WDBiWlBHTmt0anBFVzdIaVZZWmJUTS02Y1RFRUVSRmx0aVdtcHV6TXh0LS1qVzVGbDAtWGVYTHB4YnhJcmNqaXhxQk5ScWx2bmhWNGtSNA?oc=5",
+        "title": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Fri, 30 Oct 2026 16:47:00 GMT"
+      },
+      {
+        "title": "Leo XIV Has Become the First Pope in History to Vote in a US General Election - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN01tbmh1ZmdHVXBMU09KVjFmY1FxUHhXeHFuRFppQTFVRE41cVcyR3ZXdDRwaUZFZURqR2c1VS1OaTk3NUlJeUhsbzVXUWQxOFlPZGRQa3VBUlZ4cmNrMjBRYU52VXVqM1JNSnNJTlhqOG5JSGV1dTF6QjF1R1REbUthR3REZUk1aGlzb1dYbDc3Wks2MWN0dVN1TDAwSVVwakNGODVjZzdRN254Uy1uZGV0RHNGOU5kTWNaMEx4ODNncEk?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Fri, 30 Oct 2026 11:55:00 GMT"
+        "pubDate": "Fri, 30 Oct 2026 12:59:00 GMT"
+      },
+      {
+        "title": "Pope Leo XIV votes in US midterm elections via mail-in ballot - Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGI4NEdQS2kwQnA1cG1uLWJUaTIzOGQxUVRmenV0SWloUmxqcHdYRXhxejVVdnlUSG9EVTFFcmNmVGc4djQtSVVSVUMwTVpOQWlHOWhSVUlWN2RsZ05KcVprVEY3U3VlSllWRW5IaTl5WC0zQXFiVkdodkZZbm5Rc1ZhUUE0YlhPYms3YmFNczRkS0UxMDZHSw?oc=5",
+        "source": "Vatican News",
+        "pubDate": "Fri, 30 Oct 2026 16:55:26 GMT"
       },
       {
         "title": "Charlotte-area elementary, middle schools shine in 2027 US News rankings - Charlotte Observer",
@@ -15,34 +27,22 @@
         "pubDate": "Fri, 30 Oct 2026 11:00:00 GMT"
       },
       {
-        "title": "Government corruption a top issue for US midterm voters, exclusive poll finds - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUhrTVBKeGY5U3MtQWJMeUt0SXlJUzRSbkpHODhYcnJyUE13dmlHWlBGYVVFb3h5X1NqMzMxRjh5UWZaOTZSZFpRX190dTNMMlJZNDF4aEt4UFJYMng0SUxTNnU5REF1S0xvSUN0MklkOTFFQk03Q2JldE1rOGFXZmtjRTBpNFdtVDB2bnhB?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Fri, 30 Oct 2026 13:27:00 GMT"
-      },
-      {
-        "title": "Fake priests fill the void as Mexico faces clergy shortage - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcFExU3IzV0hqRVctRnF0cDJLUFFfN0hGRktMeVQyc0tmVUNrRHd5MVQ4R3RsVG1HS0xET0FjV0NnNU40RnYxLXR5bDhQMC1EczI4?oc=5",
-        "source": "Reuters",
-        "pubDate": "Fri, 30 Oct 2026 11:55:51 GMT"
-      },
-      {
         "title": "Enfield Village School Rises Again in US News & World Report Ranking - John Guilfoil Public Relations",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWlqSmU0Zm9JcnZ2eEk5RmNhYWNwQ214YmFJUEdLNWJNaHVrRjNYQ1lLSk5TSDFReWt3Tk5uSWlNTlAtU2xFVzUwT1gxcnBqbE9nNldyQWFRdWVHNFdabVFldU5DWVBLeFRPWDMxZ1ExTE5DR1Y0WGxYTTR2Nkk1Sk9iNHZQU0RMc1FKZkhESWhVTmpGMlpOZ01NNS1lSVJHS1E?oc=5",
         "source": "John Guilfoil Public Relations",
         "pubDate": "Fri, 30 Oct 2026 15:57:12 GMT"
       },
       {
-        "title": "Midterms 2026: Congress Polls and More - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
-        "source": "NBC News",
-        "pubDate": "Fri, 30 Oct 2026 13:00:23 GMT"
+        "title": "FBI and US Secret Service Working With Binance After $6.3 Billion Hack, Source Says - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0NPQTd4UldiVmZONkxRZkhPaE1wVU51NjBKT2owWGlNdkJjc0RjbmRUcmpZbFgxTEstTldaYXk4T1lWR1ZGRDdkcDNFa0tGeExIY0NRcW9sbzJSeXhjU2JfOXNiRmc5ZXlHQzh3a3dBYV9FX2JCODkzUmd5cnYwWUs3VWQ3NGRTbzJxQlVBanZXLVJNRzNOM01KQ3g2djdabmNNaFZtS09xVHlCWHA0TkRLclVkNkVfOV85UHVxanUybDVfOVh2UDZ2SGRnZjJqT1BnSQ?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Fri, 30 Oct 2026 11:53:00 GMT"
       },
       {
-        "title": "Open access fees could deepen global research inequalities - University World News",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JeS1EcFVzNndvVEl2b2tnRmpKaUVfaW9lMmE4WTJxcE9QcDN3Z1RLbUV2ZnRVR2tSQUZlSU1MQ3JjMTQyRGw5Q0tERzdiZEVzajRSZHpscEczdU5yaFBIdG85QnFIQ2l5U09MbUdTd3NPYmhKY0Mw?oc=5",
-        "source": "University World News",
-        "pubDate": "Fri, 30 Oct 2026 13:51:56 GMT"
+        "title": "Government corruption a top issue for US midterm voters, exclusive poll finds - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUhrTVBKeGY5U3MtQWJMeUt0SXlJUzRSbkpHODhYcnJyUE13dmlHWlBGYVVFb3h5X1NqMzMxRjh5UWZaOTZSZFpRX190dTNMMlJZNDF4aEt4UFJYMng0SUxTNnU5REF1S0xvSUN0MklkOTFFQk03Q2JldE1rOGFXZmtjRTBpNFdtVDB2bnhB?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Fri, 30 Oct 2026 13:27:00 GMT"
       },
       {
         "title": "Trump Escalates Legal Challenges Against States as Election Day Nears - U.S. News & World Report",
@@ -59,16 +59,16 @@
         "pubDate": "Fri, 30 Oct 2026 15:28:00 GMT"
       },
       {
-        "title": "Poll shows Democrats gaining in Texas and Michigan Senate races; Maine and Kansas tight - Spectrum News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUU44cHRGcWxXby1Qa2M5V0pJMVgzRllzSFA2aDVpS2NyRFVnUDBhMWh5WUpWQmFIUXdtVTdnRjk1ai05VDZ0OUgyLU1DODFRNERBNURJZ0hMSGNRT1FtMnFEM21za3lRb0xCVGQ5RGNTYk5GRDEwWGptTHZsclNQeF9qc0dpbks1cDdNcmFpa0YyY3dkMGZ4Vnl6RHRnMmxMMGQ2Z3lSMTBkanB6bHgw?oc=5",
-        "source": "Spectrum News",
-        "pubDate": "Fri, 30 Oct 2026 14:08:00 GMT"
-      },
-      {
         "title": "Detroit Lions Injury Updates: Pacheco, Branch, Joseph, Harper - Sports Illustrated",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUZPOXBqN3dWZHhVay14UTlaYWdRWFlob1VKcXN0MnJMRWVBOVZueU9pNjZfd3JhWHZQdnRyblU1UGRhNWVGUFMyUE5NcFFIbndxUGdvOEdiRzkxUTBzQ2tGMl94b01zaWtJTDRlaFVjbzk1bTVjLTBaclltblFydDRnR0YzY1dJR1AyOEEyV2ZWZmZhcXUw?oc=5",
         "source": "Sports Illustrated",
         "pubDate": "Fri, 30 Oct 2026 16:21:10 GMT"
+      },
+      {
+        "title": "Poll shows Democrats gaining in Texas and Michigan Senate races; Maine and Kansas tight - Spectrum News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUU44cHRGcWxXby1Qa2M5V0pJMVgzRllzSFA2aDVpS2NyRFVnUDBhMWh5WUpWQmFIUXdtVTdnRjk1ai05VDZ0OUgyLU1DODFRNERBNURJZ0hMSGNRT1FtMnFEM21za3lRb0xCVGQ5RGNTYk5GRDEwWGptTHZsclNQeF9qc0dpbks1cDdNcmFpa0YyY3dkMGZ4Vnl6RHRnMmxMMGQ2Z3lSMTBkanB6bHgw?oc=5",
+        "source": "Spectrum News",
+        "pubDate": "Fri, 30 Oct 2026 14:08:00 GMT"
       },
       {
         "title": "Tigers-Red Sox Tsung-Che Cheng trade makes Detroit's intentions clear for 2027 - Motor City Bengals",
@@ -77,16 +77,10 @@
         "pubDate": "Fri, 30 Oct 2026 15:31:38 GMT"
       },
       {
-        "title": "Central Michigan Gymnastics Announces 2027 Schedule - Central Michigan University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHROeWVWeWlISmFMM3d2bHMzb3Z5NDJMNWNUNGtNYU1WMGo3SU5LVWNQaWdPSW1xem1wVk43LWwtRG9ES2xKeUgtOFNfU1pfb2hDTUI2LVhIcF8tekRROXk0MEU2V2RGY243a1VDUE5lUGFJYTJmSUlXcTJOclBobFNfWjBYOUdwYlhhZW9wSEdGbXpSSmxv?oc=5",
-        "source": "Central Michigan University Athletics",
-        "pubDate": "Fri, 30 Oct 2026 13:12:26 GMT"
-      },
-      {
-        "title": "Dylan Larkin's Detroit standoff gets uglier as chaotic timeline is exposed - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzVwalN0aFh0NGxyeE1aUDdvZ0tvMGFnVmF1UFZLY2tmVlB6YV95UUFmbUlqNlRKdXJxdnhROHB5MzdpYVd3MDI4ejJxOHh2eVFfT1hyc2JacFFQLXpuaWM2ZkFWc3ZSWEZQazlSc1dwX3puRUNWWHdOYmI1d1lOMFpYWThiOWM3QTFpOQ?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Fri, 30 Oct 2026 13:31:56 GMT"
+        "title": "Stevens to campaign with El-Sayed, expects him to condemn ads - The Detroit News",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON3l6Z29WUDYtOHlhaTZjeVYzcTVtVFdVdG8wLXF1SE1jWVQzV1FkdGx4MEZfVWEtdzVLdXZGMlh5MEU2d2s2UVZ4RU02RTFPNGg1X1dIZW9NaGF3empZQTY2Uk44ZXRQWFMtc2dXalBQNFRURGFOY3dIMFRHdFZKbzRGNnJ4SUFCQlZ0RXpiMGZBOFBRN1NNRzhMeEJoc2NlTTc1a0xtMVc0bUhMNVlxVkNfbFFGdUktbHFkOGpXX2lsck5PVEE?oc=5",
+        "source": "The Detroit News",
+        "pubDate": "Fri, 30 Oct 2026 15:18:00 GMT"
       },
       {
         "title": "EMU is Motor City MACtion Ready for Nov. 4 - Eastern Michigan University Athletics",
@@ -95,10 +89,16 @@
         "pubDate": "Fri, 30 Oct 2026 14:51:26 GMT"
       },
       {
-        "title": "Wolverines Run Past Rochester Christian in Exhibition Contest - University of Michigan Athletics",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0RqSnZ3d0xoN0ROVkxBVVlrTG5HTVo2bW9Td1lWaHZlc3d0dk93TnVLS2N4dFdJMENPZ2hsajBEd0FhLWVtUmNMNEdhSl93WnNKeW5GWTk1MFo3Qk81U3E1bnR2VWF3amZ2OTNhcEh5cXZ4SjRYWmduZkpvSlo2TldhYkQ5Yko3YXA3UnlnVC0zUEFIQU9OTXhiRDdSOHhIN0NIZG1NNXdVUklLM1dscFJkVEV0UQ?oc=5",
-        "source": "University of Michigan Athletics",
-        "pubDate": "Fri, 30 Oct 2026 02:03:25 GMT"
+        "title": "Warren police, Detroit Lions surprise 12-year-old bicyclist injured in serious crash - ClickOnDetroit | WDIV Local 4",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSlZvdTdXdDFJNXIyVnJjeEdHckxJaW5LakFSUzI4YlBJT2NmZERhWnlCY09FX3FYUXB5ZUhydFl6UUJha3U1TTRHRFE2cXZrUjIyYTU1cXpPb3BJUUEwdU8yNFRIS2szZkFYMnhyVXVpWWcyTG5NblhQSmhvb1FjTUFnVk84LW95T2hqV0R6bms2aVN0RUh2OHpxTVlzd0RTSmpXZ1hqZmF6ZmRadXFpRDV2RXJEaFoyVGo0dFdCbnVrUW5GSzZWMUI0aEE1aHFWNVI4?oc=5",
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "pubDate": "Fri, 30 Oct 2026 17:02:45 GMT"
+      },
+      {
+        "title": "Dylan Larkin's Detroit standoff gets uglier as chaotic timeline is exposed - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzVwalN0aFh0NGxyeE1aUDdvZ0tvMGFnVmF1UFZLY2tmVlB6YV95UUFmbUlqNlRKdXJxdnhROHB5MzdpYVd3MDI4ejJxOHh2eVFfT1hyc2JacFFQLXpuaWM2ZkFWc3ZSWEZQazlSc1dwX3puRUNWWHdOYmI1d1lOMFpYWThiOWM3QTFpOQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 30 Oct 2026 13:31:56 GMT"
       }
     ]
   }
