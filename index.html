@@ -102,6 +102,103 @@ dialog{box-shadow:0 18px 55px rgba(12,32,65,.25)}
  header{background:#102344}
 }
 
+
+/* Command Blue 2.0 — stronger visual identity, layout and feeds unchanged */
+:root{
+ --bg:#e4ebf5;
+ --panel:#fff;
+ --ink:#0d2345;
+ --muted:#4d6382;
+ --line:#c3d2e7;
+ --blue:#1557c0;
+ --blue2:#e4edff;
+ --shadow:0 9px 26px rgba(12,38,80,.13);
+}
+body{
+ background:linear-gradient(135deg,#e9eff8 0%,#dce6f3 100%);
+}
+header{
+ background:linear-gradient(105deg,#081a36 0%,#12376d 62%,#174fa4 100%);
+ border-bottom:4px solid #f2b544;
+}
+.logo{
+ background:linear-gradient(145deg,#3478ed,#1749a5);
+ border:2px solid #f2b544;
+ box-shadow:0 0 0 4px rgba(255,255,255,.08),0 5px 14px rgba(0,0,0,.25);
+}
+.brand h1{letter-spacing:-.025em;text-shadow:0 2px 8px rgba(0,0,0,.18)}
+main{padding-top:22px}
+.card{
+ border:1px solid #c5d5eb;
+ border-radius:16px;
+ box-shadow:0 9px 26px rgba(12,38,80,.13);
+}
+.card-head{
+ margin:-16px -16px 15px;
+ padding:12px 15px;
+ border-radius:15px 15px 9px 9px;
+ background:linear-gradient(100deg,#12366d,#1c58ad);
+ border-bottom:3px solid #f2b544;
+ min-height:49px;
+}
+.card-head h2{color:#fff;font-size:15px;letter-spacing:.01em}
+.card-head .btn{
+ background:#fff;
+ color:#12366d;
+ border-color:#dce7f7;
+ font-weight:650;
+}
+.card-head .pill{
+ background:#f8e7b9;
+ color:#654500;
+}
+.topline .card{
+ background:linear-gradient(145deg,#fff 0%,#f1f6ff 100%);
+ border-top:4px solid #1b5bc2;
+}
+.topline .metric-label{color:#315782}
+.topline .metric{color:#10366f;font-size:28px}
+.topline .card:last-child{border-top-color:#e0a52e}
+.topline .card:last-child .metric{color:#17623f}
+.weather-big{padding:8px 5px 12px}
+.weather-temp{color:#124b9e}
+.forecast div{
+ background:linear-gradient(145deg,#edf4ff,#dfeaff);
+ border:1px solid #c7d9f7;
+ border-bottom:3px solid #3975d1;
+ border-radius:11px;
+}
+#alerts .empty{
+ background:#edf3fc;
+ border-left:4px solid #2b67bd;
+}
+#spaceWeather .two>div{
+ background:linear-gradient(145deg,#edf4ff,#e0eaff);
+ border:1px solid #cbdcf5;
+ border-radius:12px;
+}
+#spaceWeather .metric{color:#124b9e}
+.item a{color:#104da8;font-weight:750}
+.item{border-bottom-color:#dce6f3}
+.quicklinks a{
+ background:linear-gradient(145deg,#f2f6ff,#e2ecff);
+ border:1px solid #bfd2f1;
+ border-bottom:3px solid #2865bd;
+ color:#123f83;
+}
+button.primary,.actions .primary{
+ background:linear-gradient(105deg,#1b5bc2,#123d85);
+ border-color:#174a9f;
+ box-shadow:0 3px 8px rgba(21,70,145,.18);
+}
+button.primary:hover,.actions .primary:hover{background:#0e3475}
+.pill{font-weight:800}
+.metric{letter-spacing:-.035em}
+.card.span-5:nth-of-type(7){border-top-color:#d7a02d}
+@media(max-width:650px){
+ .card-head{margin:-16px -16px 14px;padding:11px 13px}
+}
+
 </style>
 </head>
 <body>
