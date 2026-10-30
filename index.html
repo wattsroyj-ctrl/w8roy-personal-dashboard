@@ -152,11 +152,18 @@ async function loadSpace(){
 }
 const NEWS_FEEDS={
  world:"https://news.google.com/rss/search?q=US+OR+world+news+when:2d&hl=en-US&gl=US&ceid=US:en",
- local:"https://news.google.com/rss/search?q=Michigan+OR+Detroit+OR+Livonia+news+when:3d&hl=en-US&gl=US&ceid=US:en"
+ local:"https://news.google.com/rss/search?q=Michigan+OR+Detroit+OR+%22Metro+Detroit%22+when:2d&hl=en-US&gl=US&ceid=US:en"
 };
 function newsFallback(target,arr,message){$(target).innerHTML='<div class="empty">'+message+'</div>'+arr.map(x=>`<div class="item"><a href="${x[1]}" target="_blank" rel="noopener">${x[0]} ↗</a><small>${x[2]}</small></div>`).join("")}
 async function loadNewsFeed(target,url,fallback){
  const box=$(target);box.innerHTML='<div class="empty">Loading live headlines…</div>';
+ // Keep a slow or stalled RSS proxy from holding up the other news panel.
+ async function fetchTimed(endpoint){
+  const controller=new AbortController();
+  const timer=setTimeout(()=>controller.abort(),10000);
+  try{return await fetch(endpoint,{cache:'no-store',signal:controller.signal});}
+  finally{clearTimeout(timer);}
+ }
  const parseXml=(text)=>{
   const xml=new DOMParser().parseFromString(text,'text/xml');
   if(xml.querySelector('parsererror'))throw Error('Invalid RSS response');
@@ -169,9 +176,9 @@ async function loadNewsFeed(target,url,fallback){
   return data.items.slice(0,6).map(item=>({title:item.title||'News story',link:item.link||url,pubDate:item.pubDate||'',author:item.author||item.source||'Google News'}));
  };
  const attempts=[
-  async()=>{const endpoint='https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url);const r=await fetch(endpoint,{cache:'no-store'});if(!r.ok)throw Error('RSS converter HTTP '+r.status);return parseJson(await r.json());},
-  async()=>{const endpoint='https://api.allorigins.win/get?url='+encodeURIComponent(url);const r=await fetch(endpoint,{cache:'no-store'});if(!r.ok)throw Error('AllOrigins HTTP '+r.status);const d=await r.json();if(typeof d.contents!=='string'||!d.contents.trim())throw Error('AllOrigins returned no feed');return parseXml(d.contents);},
-  async()=>{const endpoint='https://corsproxy.io/?url='+encodeURIComponent(url);const r=await fetch(endpoint,{cache:'no-store'});if(!r.ok)throw Error('CORS proxy HTTP '+r.status);return parseXml(await r.text());}
+  async()=>{const endpoint='https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url);const r=await fetchTimed(endpoint);if(!r.ok)throw Error('RSS converter HTTP '+r.status);return parseJson(await r.json());},
+  async()=>{const endpoint='https://api.allorigins.win/get?url='+encodeURIComponent(url);const r=await fetchTimed(endpoint);if(!r.ok)throw Error('AllOrigins HTTP '+r.status);const d=await r.json();if(typeof d.contents!=='string'||!d.contents.trim())throw Error('AllOrigins returned no feed');return parseXml(d.contents);},
+  async()=>{const endpoint='https://corsproxy.io/?url='+encodeURIComponent(url);const r=await fetchTimed(endpoint);if(!r.ok)throw Error('CORS proxy HTTP '+r.status);return parseXml(await r.text());}
  ];
  let items=null;let lastError=null;
  for(const attempt of attempts){try{items=await attempt();if(items.length)break;}catch(error){lastError=error;console.warn('W8ROY news source attempt failed:',error);}}
