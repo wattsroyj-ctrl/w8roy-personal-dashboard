@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-31T10:57:09.423278+00:00",
+  "updated": "2026-10-31T16:00:25.408604+00:00",
   "feeds": {
     "world": [
+      {
+        "title": "Best value colleges in New York, according to U.S. News - Lohud",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdk5yMDNBZDIzdlY0YUM1VTNZdkdZZUNBN1RaXzctRHl5NkpkVUtiUm0xQ2RZMGR5bHJxaGtxZElma0FRZXphYnF0WmhaRzFpd2cyTWw3OHEzaHhQQ0hPN2FsQndHSFA4V19WQVNGTHI5MlhjRDl3bnQzdFI5REZ2aVJnT0tqNnFMNU1KaU5kamVsSkFfbVYyRVVod1pLMHhLZXJHUA?oc=5",
+        "source": "Lohud",
+        "pubDate": "Sat, 31 Oct 2026 13:08:01 GMT"
+      },
       {
         "title": "As Trump fans the flames of a world on fire, can diplomacy take back control? - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdlJIY2VudWJ2dEgyclhKU1RKbXB2LTJjTVdCVGtNbmI5OFNxUW44SWQ1QWpEQnRtNy1UaHZrMXo4T3Y0UkJiWUdYb25rZDFtLXZoLU5XdUZoVDVUTXM4d1hMQ2YxMElXSjZSenk0Tlp6bVBKNWh5WVl0Q3gzS3lTUTRjMWQtSy1wNk1waER6T1dlbngzaHJCbGlfeXlRbGNrUHNrSVB3UDRvd2phdEZZNmlaSVRYVjRZVTZPeTJ5bTk?oc=5",
@@ -9,60 +15,78 @@
         "pubDate": "Sat, 31 Oct 2026 10:04:00 GMT"
       },
       {
+        "title": "US Campaign for Control of Congress Enters Final Weekend - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzA4QVFWZ05Wd1ZPUXkwcThRdGhFVFRNUExpT2g5Q2tPSjBlX2dMOWFyMENfTmkwZEJoUHFtT1lEVlVtZk5OUjkwX0w1ODljSW1zNTNJSFI1YjlCWHRvTkRQZHQxMnpydDBRcUt5eHRnZS1KaWk4NEctd0lJSVFhckhmd1FrVVNBSllSQTFHR0txSlJYWnNNbjBvTkJWb0FQa0VLT3RIZXd4dGFOMXVv?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 31 Oct 2026 10:17:34 GMT"
+      },
+      {
         "title": "Midterms 2026: Congress Polls and More - NBC News",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
         "source": "NBC News",
-        "pubDate": "Sat, 31 Oct 2026 09:00:20 GMT"
+        "pubDate": "Sat, 31 Oct 2026 13:00:20 GMT"
       },
       {
-        "title": "Power Bills and Data Centers Cast Rare Spotlight on Utilities in US Midterms - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEs0NU1STTdPamN1ZTQ4RG1fUjI4S3JnVURoeTdMb1h6Ukt3eTNjT0NILXlIbVBrRUMwencxc2pOcU5CQ0g4RmRiRmt1R1huREVjYndPejZPZlRpemRoVVdEaTdMMk9icW1ZY1hsME84OHlUejRGVk9IR2RMZklLemtBcERfNko3Sk9qLUNsLW9FX1QwY0x6ZTZLU3dWRFR5YnNPUGktWEJGWjRCVGlCMHhIaFQ3dTFyQURzUXRVZTNFRkFtUWhWWXhqbnNiZw?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Sat, 31 Oct 2026 10:08:00 GMT"
-      },
-      {
-        "title": "Iran War is One ‘TACO’ Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pYmdDNHlwVE5HeWF0T2FkRDQ0SmhVeUxwVDZ6YXd2bGxXZldGYTR2aEN2bVY3d3Rad1NaYXFQYzJGNzJTVl9HNDhtd21ENmMxelBpSHY2M3cxbjRHUGZ6dzVyZVRaalV6WDZKSXVyNWd1TEFncWlN?oc=5",
-        "source": "EnergyNow.com",
-        "pubDate": "Fri, 30 Oct 2026 22:29:43 GMT"
-      },
-      {
-        "title": "Brazil’s ugly election: ‘Lula’s Army’ storms to victory - The Week",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2E2YUhEYTZyeHBZMC1zR2JLRjNFTEFTVEFabzEySnloUFYyTFRsbjVzZXBlMWV5RGNTWmtmaTAta0l3NVRNWkppcnJ3SDlkeF9aSmQxY19reFFxRV9pNDJqVEoyRzZyOE9aNFhnVHVFd3VsZUY1M2NoSFVBYXZvNWlaYkdZMi1s?oc=5",
-        "source": "The Week",
-        "pubDate": "Sat, 31 Oct 2026 06:45:00 GMT"
-      },
-      {
-        "title": "Trump beware: US voters are concerned about government corruption - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkktQ20yVXZkZ2JqdzN1Z3kyYWNPekhMOFFBMjFGckVKSzB5ampMRnJCLS1SV1o5UUdEWk0ta2xuOVE3ejE4MXBqclp4V2kyV0EtenQ2Yjd4LWxQOWhIZ1V1U0NjUVExX01wblpZSWMtVTVfYmhDbEhpRml4bnNtdFV0Yy1zVWdvVFJQX3FzWTU3bnBqQWc?oc=5",
+        "title": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2psY0NCQ3BhTnk2VWZZNTFNbkZTU0Qzc2xBQjhNOTYwb0hyQ3I4REFiOGxhUGdiSXVwbkF5RDdJUFEyRnFYUDF4U2ZPMVR1M2M0RWNPeThzWWdESHBIMUt6QUxLOENFSnpPalJITkwxNjJ2azNEdWpaRDllalE0WThHQTNRTHY4YUE?oc=5",
         "source": "The Guardian",
-        "pubDate": "Sat, 31 Oct 2026 10:01:00 GMT"
+        "pubDate": "Sat, 31 Oct 2026 13:50:00 GMT"
       },
       {
-        "title": "2026 Senate Battleground Polls: Midterm Primary Trends - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVUJocWhHTDlYQ1pMMkt0bWZ2VnNsWXZiOFdsVERnQVRERDFvV0FyanpkRWpKWVlNU3kzT18wcURiWjRWcm8xV01SS3FqV3hWYXcyUFlSZ1lsRzdWcnVDenBWUTY2MGpiWEZZbnpiQS1reDVBZ0ZpclBzWExSZw?oc=5",
-        "source": "NBC News",
-        "pubDate": "Sat, 31 Oct 2026 08:51:57 GMT"
-      },
-      {
-        "title": "Three Planes Carrying Residents Evacuated From Oleshky Arrive in Belarus, News Agency Reports - U.S. News & World Report",
+        "title": "Residents of Russian-Controlled Ukrainian Town Arrive in Belarus - U.S. News & World Report",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVXpUY1J2QzQ0dC1SX3ZiT3VkbnR4TVhVRjllcW1LRDAtQXRKdEM1ekJjTUFia3ZZRk82WDZ2N2ZqaGtjbU9oLU8tT084X3EwR3c2TGxCS0hKYkxseGZ3WmtDVXd1NVJuMzN5eGZPS25DbjBNbGVOSHZ5ekY1WU1Va2szRnNON0JiZ1Nlc3V3dUd5SEJIV0dFVG5iZjlwS2R6dkQ2SzYzMVAtZkZta3R2eXNMRVBUb3h3SWR1MXJUUDZWNFhSanVvSThRQTlSZjFYb1pVaUtWQkhJSC1GWjdv?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Sat, 31 Oct 2026 08:28:14 GMT"
+        "pubDate": "Sat, 31 Oct 2026 09:56:31 GMT"
+      },
+      {
+        "title": "Days away from a national verdict on Trump 2.0, we check in with nine voters across the political spectrum - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGhzSDlORFZkUWtiYjZrb1MzSklWc1JfcUxxemdUT1l1a2NpTWRUbkRvVjRIZkhtVVRDY0VXZjRiZGpsSmFkN3hnQzBaLWZTSGJPZWNfaTR2YXpiYWZ6MWtndHM1V2Z5Y3BaUks1X1QtLWo0RzR3aXBjeDhvVzZPRTRpaE9ldWhzS2szQldMVFFSWUFaSzJCU0g5aHR4MVlURXc3QThWTXgyOWkwb1BEWVlkOA?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Sat, 31 Oct 2026 13:58:00 GMT"
+      },
+      {
+        "title": "Congo's Ebola Deaths Top 5,000 as Fear of Continent-Wide Spread Mounts - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmxoN212WkdabXh6UVBpeU5hbjNHTDVCV0duUktvM0NZZnFadFhCY0dRbmt1OHhiaHRYUFl3Tmg0bVVJb1JoYUhsNElJTHBtU1hjQUdQRi0xa0pOa0hKSml3RnR1NGJ6bF9laG5nSHE1SEM5YW1FMEJud3dRU2ZJSFlod2RRa1ctOEtuckdlVDFCTDJyT19xMC1fR1NjRHhfVUNLZHpxVEQ4QWVMeGlqYWdQN19IVkh6aDlIX01hM0dNQQ?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 31 Oct 2026 08:19:00 GMT"
       }
     ],
     "local": [
       {
-        "title": "100 years later, Harry Houdini's death still haunts Detroit - NPR",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkRGRVctWlZ4THlNMF9MUkxNTjNqMWU0UThKb2dvQjl5TjBIV2R1TDNWSFphcFd6MFJ3OXdSM1FXeGRWTEF1NEZ4SFJhSmVidkk4LXpCc3gzMS03WkxXRTgzY3RfQ3pIOWw4Ni1CN0tDY1R0eDFvYXF4SWp2UXBQWnJsOEhZSEw1RzFiUUI5NEJ2Nk1J?oc=5",
-        "source": "NPR",
-        "pubDate": "Sat, 31 Oct 2026 09:00:00 GMT"
+        "title": "In Michigan’s Senate race, everything is on the table — including football - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYXpwOFJEdklxVHViRnYzTjVtcHlOcS1Ub1JvbUFEZjN4TzhYWEFOai1BMzZ4eFR4b0hmX1RWSXM0NlA4djVkc2JldFdXOVhGUmhERTg1NktmY0IyRl9yaHNuOGsweXdEalZ1R29HZVAwRGdJazVUdHVSd3V5VGdqT1c4dTdXb1lOTDNnckprVWZNMzVmWHQtaEFUQWc4Ry16X2tRdEtuUnNlajRBQnpydjZsLXVZNTFsZmFrMzBBeEU?oc=5",
+        "source": "NBC News",
+        "pubDate": "Sat, 31 Oct 2026 11:30:00 GMT"
       },
       {
-        "title": "Senior Detroit fire chief placed on unpaid leave after Shelby Township crash, arrest - WXYZ Channel 7",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGpUQzhvT2ZHLUZRWVZYWThJVU1XazFvUEV4dXhydk1NTDZfalNha3NtUGFMcnEzNzFteUV3Q0ZwRHpCVWRoUV9zTm11blZqUEFUQkJETDFOdXBmQ0laRzFWQmh1dFVqN255aW8xU0g0YldJSU1kQTJCcnFtY1p2T0t4NmY3SlR2cXJNUzBfWlZuMTFSWVFZRUYxNHc3d2hjeEFGcTREZDRBbGl6Tnc?oc=5",
-        "source": "WXYZ Channel 7",
-        "pubDate": "Sat, 31 Oct 2026 06:25:57 GMT"
+        "title": "Michigan’s messy Senate race spells trouble for Dems in 2028 - Politico",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWFTV0k4WnFIWXV1QlJkb1VINFZqTGs1ZUdrYTFXbDJIZk1LVVFGMmlCMWRMUE45dUxNdy1GakpTZHZINkw3cWd5Mm02dml3MmRCUVRsWU1ueU1zLWMyNnp3VG9YemZJYjlRYnpMQzN2SGpuVGZ2S29wZVYwUjFUUm5jQ0gzVl9jZzE5VnVkVUo0ZUxFekRVT3NaWEVGSVdk?oc=5",
+        "source": "Politico",
+        "pubDate": "Sat, 31 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "title": "OTB Staff Picks 2026: Rutgers vs Michigan - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTlra3Q0Nl9qT0pudVJrNzdMRnVtVUxoeWJ4T29NQUUydEZjREh6QWVsVHVHQzRQOTFBNmhvYVJmbWs0ZlFuY1VldkFEVUFZMDVodmhFSEFMWU5WQWUtMTJUQWhCMTBLLXhRSGhYMDJxQTY4WnBJRl9pQlRzM2t3NVlTRQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Sat, 31 Oct 2026 13:30:00 GMT"
+      },
+      {
+        "title": "Michigan vs. Rutgers: How to watch, prediction, odds and spread - Wolverines Wire",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc3VXUUR3VFR3U3BNcGdQNGw0UFUxS3B2WFRJa1NHWW83MmNMdWJMeHV6dzFaY0RfLVJyaW9PUUs2RHhJSE5iOUpZd0l0WEtzT1dsMzFiMWFycUpfSjlOdXVUVEVDU2Q3Ry0tNWJTcVZvVy1xa0lzZGF4bDM1Y1VqSldFNEQwWDQ2UlZFeWppMHJZbmh0NmhxQjFEMExCdzNaSmJmMklpNkpHVTJKTGhYR3hLMWhPRkJDV2x1VEVDTGJmS3daNU9iZVZjRFVwUEsyRzIzd1JnWU1ybDNNcm9BakhtOUwzQTRqYkpKVThTbmVYQUEydVdr?oc=5",
+        "source": "Wolverines Wire",
+        "pubDate": "Sat, 31 Oct 2026 14:03:00 GMT"
+      },
+      {
+        "title": "What channel is Michigan football vs Rutgers? Week 9 time, TV channel - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSE5sbDlEWjMwREpsWlExUlBZQV8yeENLeHdTN2FpNmpTeExvQjZBejh0NlBlaC1GbjljQnYyLVdVQUdZQ0tQajBxel94MUZaWnhsYkZpb1VTVUdLNDRYRlJTMlFsNTdzNktPNnM4dVFUaUI0SzZpRTdTQnd3RWU4Y3BVVVE4d1JwRHJiN2NQenE4Qm1VNzcyWldlMTNzOFVTWkVNaG9Ed2dyNnlnY2tLWTBSMldiXzVTRV9hazltUG1idFgxeXdrUDdlTFRqa2lXYUh6Q1dLTVRJZmdzamc?oc=5",
+        "source": "Detroit Free Press",
+        "pubDate": "Sat, 31 Oct 2026 14:40:00 GMT"
+      },
+      {
+        "title": "Could Dolphins Corner Be Answer to Detroit Lions Secondary Concerns? - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaDVUV1ZYUmVLWGhNWFZySTA5WVBma2RBWS1rbHVPSWs4MzNhS0gxQWhiSEp0Nk82UHdVMk5UcG1UaTZ5R3pRYm4weXVxMUd1NUttT3BtVkYtRDd5VEw5V3BOTkpVOXh4QWM4V25xRjgyTjA2aE16eHVUcWdOdUlDYlc3WXN1U2UwZV9VYmpRRTdlczdQb0t5MlJLeV9nb2c4Tmpv?oc=5",
+        "source": "Sports Illustrated",
+        "pubDate": "Sat, 31 Oct 2026 13:02:17 GMT"
       },
       {
         "title": "Statewide MHSAA playoff scores in the first round – the Michigan high school football district semifinals. See link below ⬇️ 📸 Junfu Han, Detroit Free Press - Facebook",
@@ -71,34 +95,10 @@
         "pubDate": "Sat, 31 Oct 2026 10:00:17 GMT"
       },
       {
-        "title": "No. 19 Wisconsin earns 2-1 win over Michigan - Wisconsin Badgers",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmMyVVdoZFM4eEpuaHhSZG5MNVpLT2hoQUZWMG9HekREX0hxelpZZnFPQzE5YzdvbFdNQXBuaENncFFrVFBscnpZbUdodWFDSG1sZXdmNHpNdTNiV2NWUnhqazFlVzFTa3JjejZwdUdzNm9vODA1ek9TR3pOTnJfNm44QVFkU3RybXFWcjVVQzVmWEF6Vk01aA?oc=5",
-        "source": "Wisconsin Badgers",
-        "pubDate": "Sat, 31 Oct 2026 03:48:35 GMT"
-      },
-      {
-        "title": "Why 20 states, including Michigan, are suing Dollar General over its price tags - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdjNYQzBhbXhVRHR1QS1KV2tVRU83UGhLSUFQenA3b25LcTc3T0RTUEZqV00wS0RlV1N2SU1fenFYUE0xTGEtZjRKX2h0ZEdMRjEzZlJuOEVtSmVfOS01Q200MUlFbllGSGs3TlZING41SExsYnd1bTg0YjRpZ25Bd09rUFNiYkkyQ3lUVzNsLTkzSmxvQUFUVzhjTDMwbC1IUF9XWV9sQ0ZfZ1RjOGo5XzlKbGcxQmNTdlV4MWVTVXk5M2dSNVIxbG5uTQ?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Sat, 31 Oct 2026 09:00:01 GMT"
-      },
-      {
-        "title": "Elmquist Scores Late Goal as Michigan Falls to Wisconsin - University of Michigan Athletics",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlBRdHZvaGd1TGpVOEVkTmpYdlNqX3RfY3NyTTR6dUhaTFlOS0VteGw4empuaFNlLTh1aDJ6UFZlclZkenptMWV1WjdOX3c2ZmNfclp6NG9XUUphT3AwVlN3bjJtbXcyTzc2MGM0NExFOXgwNFM2bzJ5Z2J5VlFMZGVBczdnRE5xeEdQQWJib3p2SURGczl5bFMxamtuOXpVbElVeDBYRQ?oc=5",
-        "source": "University of Michigan Athletics",
-        "pubDate": "Sat, 31 Oct 2026 03:49:49 GMT"
-      },
-      {
-        "title": "Will Detroit Lions get in on trading frenzy? They'll look 'at everything' - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUVoOVB4cTZaVnluOERIV2c1NGUxZlZMZDFUaDZYZ21UVm40WnNWUm1yRVZXTENSa2pyVDAtX2lTaHRIQUFvS2g3SnBwMGswMXJXQ0Q2YUVEaWxZV0tNeWxEMThoQnFMQzBJSDFYOHlpRUQ4YmRPOXludVp4LS10Y1p2b3oxQWxZTGM3WG9yS1Q5eHVicG5iSmVxVDlZclZOMUxCdHZpVm1wSzFs?oc=5",
-        "source": "Detroit Free Press",
-        "pubDate": "Sat, 31 Oct 2026 02:04:00 GMT"
-      },
-      {
-        "title": "Michigan Midterm Elections 2026: Key Races, Candidates and Past Results - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VWE96aXR0S3I2YjZPYWRXb21UM1lCZXoxbFdDenBTUzdjMmJHUjljRTdFc3hHQm9DTlBiSXIzRGg1c1U4N05MbHk0OFhtSVNpc2RNcWZhMzdpRldLWE5jYzd0cEZQRV8zR1d1VUtWWWlYQQ?oc=5",
-        "source": "NBC News",
-        "pubDate": "Sat, 31 Oct 2026 09:30:21 GMT"
+        "title": "How to Watch Michigan vs. Rutgers: TV Channel, Live Stream, Time - FOX Sports",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEs3WC1IM0dTN1VtTmR6TWY4Q19sN2h1UmdKRTR2MTcxQV9PLWowZHNKV19SNHI5RWNBMng0QkhtYW1HcU4yMUtoeEYyOE1aQUJGNzZEaDhOOU56cERVaVNPcWFCMVhqOU9SSnJ0WGVqczBWWmtKQ2RCVnc0UXFrOWRlSWlhUF9yZmZCR1NFZFJJeDJfRzJsSTFXRF81Nk1mcV80MkxtRDN2QlFFU3RDSTAzYlVVczdHUHEwY3dNYVk?oc=5",
+        "source": "FOX Sports",
+        "pubDate": "Sat, 31 Oct 2026 13:35:13 GMT"
       }
     ]
   }
