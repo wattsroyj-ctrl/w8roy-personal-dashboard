@@ -1,13 +1,7 @@
 {
-  "updated": "2026-10-30T23:29:31.708079+00:00",
+  "updated": "2026-10-31T00:07:26.857280+00:00",
   "feeds": {
     "world": [
-      {
-        "title": "US Gasoline Prices Tumble for Sixth Straight Week - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXl2cVQ3MXFsOXJ5Sjhac0hCMHBFSE8zYVdTWTkyTHd5MlhTdE1WaFpuS3VyREdkSW51OUNwaFhPZ3B6cEZrTUhIRW4tSjBpY2VoeXhfMjlSZFBKVWszdDhfYlJFTDE1ZmpfVjJQc2lZNnVWZjQySXZyeS1GcmlPMF9QanRqRkU?oc=5",
-        "source": "EnergyNow.com",
-        "pubDate": "Fri, 30 Oct 2026 21:56:54 GMT"
-      },
       {
         "title": "10 Steps to Tackle a Low GRE Score | Applying to Graduate School | U.S. News - U.S. News & World Report",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3kwd1MwZy1BWWxNMUdZdjA3OUNDajZGSmFKSkFqTHd6Q0hKOUUxcXFseDBKUDljUWRSQldEakxfdTFzNWFkMktPMGhxS3dfUldNV1dHUVcxanBoa1NmVHRmWGk2Um1tYWFYUDNCWVZHMWZ6SnB6M3psVDYyU3VaaVdqb2hoLUQ3QjZfWU0tenh3MFEyOFVsaDJNdw?oc=5",
@@ -15,7 +9,7 @@
         "pubDate": "Fri, 30 Oct 2026 21:41:00 GMT"
       },
       {
-        "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal - UN News",
+        "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day - UN News",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Za2hHdnpsM3QzSElwS1E0TUlCUzh3NmpvZnFIeGozMTRNeWwxaFh0T1MxLXN3c2Uydlo2N1VnSWZHdDRjOXZKS0xCNVlPRVFDMVlrcThzdw?oc=5",
         "source": "UN News",
         "pubDate": "Fri, 30 Oct 2026 20:15:28 GMT"
@@ -31,6 +25,12 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PQW1DTlAtZVBvWnlKRFBVSUExNjVXRndiNkh2X3RZdVRhQnFiYmtxWXBhWHlITHVfR2l5bk1NZVJUWGY0NTBqMktOVHdrZXZKZmN5VVBLZU5NbHBSaThRYW9WRDNlRDg?oc=5",
         "source": "qz.com",
         "pubDate": "Fri, 30 Oct 2026 21:04:07 GMT"
+      },
+      {
+        "title": "Local 10 World News @6:30 PM - WPLG Local 10",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVpYTEp6Z1Jya0tVelc2TEU1VnBKSHMydGxULTRJYlBmYzdPMUFwY3ZBQktzbzQ4dXF4Z3RfOWQwTmtpUDhvUXZhNFBZekRTOUtfNGdObUJfdzB6VFZfMlJiRW5OSlEwUmZVRTNMMzJLVnBZa1l2aDJ5TTJNVUlNYzROeHZoUQ?oc=5",
+        "source": "WPLG Local 10",
+        "pubDate": "Fri, 30 Oct 2026 23:08:14 GMT"
       },
       {
         "title": "‘The status quo sucks’: affordability and Trump loom over final stretch of Maine’s tight Senate race - The Guardian",
@@ -59,10 +59,22 @@
         "pubDate": "Fri, 30 Oct 2026 21:21:20 GMT"
       },
       {
+        "title": "Detroit Tigers 31-HR Slugger Suddenly Emerges as Top MLB Trade Candidate - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSGM2OW9SX05ZS3RZaFV1Nmx3MjRuVjA1bzAzbnR0U2lzSnd4UTNmajVkMWRPVGliNTV3ZlBWcDJ1TkhxNko5YnM4Q3NEXzh5YnZKbGpzWGxPbTh2YTRaSG0tTk1mZ20xS0lvTmxIYk1NQTFlaDVub2t0ZGI4S2l3Zjl4WQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 30 Oct 2026 22:49:28 GMT"
+      },
+      {
         "title": "How Michigan’s Midterm Senate Race Could Influence the 2028 Democratic Presidential Primary - The New York Times",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlFuTnd5T2VnaXFrMUpMR0cxM1JiNG93czctR25acGYtRzhCVTZiOUlnYmlfRFc1Tm1ES3c5VHBiQTZTY2dDYk5hVkExWEtBU3g1Z0w3WG1HMXh5UHRGZnBzRmNKSmZsM3BuZ1h2YS1KVUxDM0hFeWRGTHRYNTlRU1V0WjZqcUhEckhZZXh4bGVBVXhMMWxGTGVyUFkzREpi?oc=5",
         "source": "The New York Times",
         "pubDate": "Fri, 30 Oct 2026 20:50:45 GMT"
+      },
+      {
+        "title": "Lions vs. Vikings injury report: Oct. 30 - Detroit Lions",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTRFMXlzcEM2ZTlQZjJKVFg0Qzlvbml0SFhIdzVYVmZ0dE80RXJIVHBnWFNscnpleEZudUlIM2tRdmJhbWE1S1dUZ2U3NGYyN20yZDBTSGhRLTRJQVViNnJJU1JFeTNBU3QtZVBCazhzOFJmWnBxSnBRMjZFa1U3YVFDUjR1QWV4OGRJVDdmbzBfV3d0Si11ZHFQRGc2U1Zkb1g0?oc=5",
+        "source": "Detroit Lions",
+        "pubDate": "Fri, 30 Oct 2026 19:32:36 GMT"
       },
       {
         "title": "Detroit Lions Rule CB Questionable Against Vikings - Sports Illustrated",
@@ -71,34 +83,22 @@
         "pubDate": "Fri, 30 Oct 2026 19:41:57 GMT"
       },
       {
-        "title": "Michigan Mailbag: Will the Wolverines move on from Kyle Whittingham? - Maize n Brew",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaHMtMW5ma1ZDVDk3ZnlOOXFyTy1oa3ZOWUJRaEQ3WE5YUVQwaDJ3WG9jVUtjTWpWN3dFa0NIUVBLVk9jWnBvQVRkUGpQMGYzWFlmc0NHcV9naktzMHdLTkVUbWhkUzRBajhKdFZ3YzVZR05xc0w4X28tSDJpcWxPNlgzVkU3cklkbDBsWWI2NUZMUzRQamU0WWo0ZUZ0d1pVY2E2ZWdLcURyQkFsSzBtbXpDMHdzSndmUmEtSjhwSURYa0lremhVRnJIaHdkZXhRTGZMTVQxSXdkTXFzM3Nv?oc=5",
-        "source": "Maize n Brew",
-        "pubDate": "Fri, 30 Oct 2026 16:00:00 GMT"
+        "title": "United Automobile, Aerospace and Agricultural Implement Workers of America - UAW",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmtncUpTMk1Ed3pzaWxCd2JuRHBGdjgzb3JDRUQ4SURkMmV6WFVZUG1uai12aTk5V2FhaHViN3VlMV9JWGxKNndOOWk3eGtNbVVKSmJKYTM4WVRkdG5Xa2cwbldlUkVYVGtCU3JjXzlXdi1uYjVacW45Ymt6V0FETVlnVld1MzQ2cWNyd2RVaVU?oc=5",
+        "source": "UAW",
+        "pubDate": "Fri, 30 Oct 2026 22:49:15 GMT"
       },
       {
-        "title": "Will Detroit Lions get in on trading frenzy? They'll look 'at everything' - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUVoOVB4cTZaVnluOERIV2c1NGUxZlZMZDFUaDZYZ21UVm40WnNWUm1yRVZXTENSa2pyVDAtX2lTaHRIQUFvS2g3SnBwMGswMXJXQ0Q2YUVEaWxZV0tNeWxEMThoQnFMQzBJSDFYOHlpRUQ4YmRPOXludVp4LS10Y1p2b3oxQWxZTGM3WG9yS1Q5eHVicG5iSmVxVDlZclZOMUxCdHZpVm1wSzFs?oc=5",
-        "source": "Detroit Free Press",
-        "pubDate": "Fri, 30 Oct 2026 18:57:00 GMT"
+        "title": "Detroit organization promotes urban farming amid food insecurity - Gray TV",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUdsb2hTT0x1NWMzOFBIVzcyOWVkaENPM3hGZjVyZEFRSE9vWnhTQ1VqTHZaSG5pMTFzbnZNMzdoRG5JZDNHTlAxUkE0aWI2NmM1elZhUWVBVkI2cE1HUjBkaTFjbnZOTVRYRkdrNjlXenRjcXlMUndCa2tpUmdxOXZoajd5Q0R5YWpORHRxazQxdW1LODJ2WDBTdHZMYTdtT1JFaWJ0SkxzSlZkMXJvNm5R?oc=5",
+        "source": "Gray TV",
+        "pubDate": "Fri, 30 Oct 2026 23:00:00 GMT"
       },
       {
-        "title": "Anti-Muslim rhetoric crescendos at the end of the heated Michigan Senate race - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlFURjhwcXA4N1N2VTYzdUFfNTRwMWRHWXJzTjBlMnU5V2VNYmxKSkNaR25XX1JweGtaRGQ1SFhYWWxkeFowb0FIRmJxLVdVZVZkOEs3TkIyTUNZM1VSdjVOVEZEZVJzTGh4N3FpWUppOVVKZ3p1YlZYTUl4Z3dWaldBTl9SLXdpOTZRNWY2eGZIN0hjRUV1N19EV3ZJbDd4SzFrcnpycF9UeV9GWFRaTmVBWWpaYjFqRkpsVkx3?oc=5",
-        "source": "NBC News",
-        "pubDate": "Fri, 30 Oct 2026 16:54:27 GMT"
-      },
-      {
-        "title": "AP Decision Notes: What to expect in Michigan on Election Day - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGsxQW5DemFMVFNkeER4Nm5iV3J1TGVWdTRQVGQyUU9PZkhRSDdvVXlyaW40ZkRkNzVhNk1yaC13Ykh5dUNrU1Zub2Rwdm5qckZWU0czUjM0WHg2dndEM2FaaUhzVmtTb204WVdPSEpOWmd2LXJkdEc5cG51NEoyT0V4a1pzTkN6eXBaTkNUU0wwbl9oanpKbTRlalFyT1dRNTVaVGQ5eWxIYTV4RC1Z?oc=5",
-        "source": "AP News",
-        "pubDate": "Fri, 30 Oct 2026 20:00:00 GMT"
-      },
-      {
-        "title": "Staff voice: Seeing the bigger picture through smaller stories - MSUToday",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtc1BTNGQ2dUl2dDhEQllLaVFqQmtDS1VpbXJ5WW5pcVo1WHFfRmhZa2hKYm1fbDRwcm1fS1JqR3RRZU1OMWc0MVlpdkdFZTd5Yk9DNTFFcndVSkE4amdRSnNEdlM2c0VSVkJtMkJRQkIwMTRsMkkw?oc=5",
-        "source": "MSUToday",
-        "pubDate": "Fri, 30 Oct 2026 20:05:05 GMT"
+        "title": "Michigan to Open National Title Defense Against Oakland - University of Michigan Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDUzdGxLcDdWVXU4Uk5jVzNtTjVFSXRQSzUzZlA3WW0tRHoyMktXcG9aaWlLZ1JScXlELVBDTk1JdUZDdXViOHpEbjhMODNEdDBlVzFSdjdwMTU2YmRPRnFMZTFPSVlkUlVLTG1Zc3FlUG9BMFlJMDl6OE45RUlaZjZmYl9sSHVHSHlkbGM0SWFRemtVdFdXVTFQM1ozUnVnRzhyZjVVMWw0OEU?oc=5",
+        "source": "University of Michigan Athletics",
+        "pubDate": "Fri, 30 Oct 2026 23:59:36 GMT"
       }
     ]
   }
