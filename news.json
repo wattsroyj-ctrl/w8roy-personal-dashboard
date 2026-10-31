@@ -1,30 +1,18 @@
 {
-  "updated": "2026-10-31T16:00:25.408604+00:00",
+  "updated": "2026-10-31T20:00:11.115670+00:00",
   "feeds": {
     "world": [
       {
-        "title": "Best value colleges in New York, according to U.S. News - Lohud",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdk5yMDNBZDIzdlY0YUM1VTNZdkdZZUNBN1RaXzctRHl5NkpkVUtiUm0xQ2RZMGR5bHJxaGtxZElma0FRZXphYnF0WmhaRzFpd2cyTWw3OHEzaHhQQ0hPN2FsQndHSFA4V19WQVNGTHI5MlhjRDl3bnQzdFI5REZ2aVJnT0tqNnFMNU1KaU5kamVsSkFfbVYyRVVod1pLMHhLZXJHUA?oc=5",
-        "source": "Lohud",
-        "pubDate": "Sat, 31 Oct 2026 13:08:01 GMT"
-      },
-      {
-        "title": "As Trump fans the flames of a world on fire, can diplomacy take back control? - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdlJIY2VudWJ2dEgyclhKU1RKbXB2LTJjTVdCVGtNbmI5OFNxUW44SWQ1QWpEQnRtNy1UaHZrMXo4T3Y0UkJiWUdYb25rZDFtLXZoLU5XdUZoVDVUTXM4d1hMQ2YxMElXSjZSenk0Tlp6bVBKNWh5WVl0Q3gzS3lTUTRjMWQtSy1wNk1waER6T1dlbngzaHJCbGlfeXlRbGNrUHNrSVB3UDRvd2phdEZZNmlaSVRYVjRZVTZPeTJ5bTk?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Sat, 31 Oct 2026 10:04:00 GMT"
-      },
-      {
-        "title": "US Campaign for Control of Congress Enters Final Weekend - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzA4QVFWZ05Wd1ZPUXkwcThRdGhFVFRNUExpT2g5Q2tPSjBlX2dMOWFyMENfTmkwZEJoUHFtT1lEVlVtZk5OUjkwX0w1ODljSW1zNTNJSFI1YjlCWHRvTkRQZHQxMnpydDBRcUt5eHRnZS1KaWk4NEctd0lJSVFhckhmd1FrVVNBSllSQTFHR0txSlJYWnNNbjBvTkJWb0FQa0VLT3RIZXd4dGFOMXVv?oc=5",
+        "title": "How Does Saint Louis University Rank Among America's Best Colleges? - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5d3Jra0pKNjE4Z0FNQVRJeGxmT2pBNHB6SG1SNURSaEJyLW5Zc1BMcUl2dWx2MmtqNXl0ZXJ0ODBoeWE0bW4xOGVMOU5wZ0dESXM4MVN3ZDR4TlN5VDJPLXJLSE5WV3dTbGdSaHVJVGhfZw?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Sat, 31 Oct 2026 10:17:34 GMT"
+        "pubDate": "Sat, 31 Oct 2026 08:38:53 GMT"
       },
       {
-        "title": "Midterms 2026: Congress Polls and More - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
-        "source": "NBC News",
-        "pubDate": "Sat, 31 Oct 2026 13:00:20 GMT"
+        "title": "Best value colleges in New York, according to U.S. News - The Journal News | lohud.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdk5yMDNBZDIzdlY0YUM1VTNZdkdZZUNBN1RaXzctRHl5NkpkVUtiUm0xQ2RZMGR5bHJxaGtxZElma0FRZXphYnF0WmhaRzFpd2cyTWw3OHEzaHhQQ0hPN2FsQndHSFA4V19WQVNGTHI5MlhjRDl3bnQzdFI5REZ2aVJnT0tqNnFMNU1KaU5kamVsSkFfbVYyRVVod1pLMHhLZXJHUA?oc=5",
+        "source": "The Journal News | lohud.com",
+        "pubDate": "Sat, 31 Oct 2026 13:59:00 GMT"
       },
       {
         "title": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says - The Guardian",
@@ -33,72 +21,84 @@
         "pubDate": "Sat, 31 Oct 2026 13:50:00 GMT"
       },
       {
-        "title": "Residents of Russian-Controlled Ukrainian Town Arrive in Belarus - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVXpUY1J2QzQ0dC1SX3ZiT3VkbnR4TVhVRjllcW1LRDAtQXRKdEM1ekJjTUFia3ZZRk82WDZ2N2ZqaGtjbU9oLU8tT084X3EwR3c2TGxCS0hKYkxseGZ3WmtDVXd1NVJuMzN5eGZPS25DbjBNbGVOSHZ5ekY1WU1Va2szRnNON0JiZ1Nlc3V3dUd5SEJIV0dFVG5iZjlwS2R6dkQ2SzYzMVAtZkZta3R2eXNMRVBUb3h3SWR1MXJUUDZWNFhSanVvSThRQTlSZjFYb1pVaUtWQkhJSC1GWjdv?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Sat, 31 Oct 2026 09:56:31 GMT"
+        "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+        "source": "NBC News",
+        "pubDate": "Sat, 31 Oct 2026 18:28:20 GMT"
       },
       {
-        "title": "Days away from a national verdict on Trump 2.0, we check in with nine voters across the political spectrum - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGhzSDlORFZkUWtiYjZrb1MzSklWc1JfcUxxemdUT1l1a2NpTWRUbkRvVjRIZkhtVVRDY0VXZjRiZGpsSmFkN3hnQzBaLWZTSGJPZWNfaTR2YXpiYWZ6MWtndHM1V2Z5Y3BaUks1X1QtLWo0RzR3aXBjeDhvVzZPRTRpaE9ldWhzS2szQldMVFFSWUFaSzJCU0g5aHR4MVlURXc3QThWTXgyOWkwb1BEWVlkOA?oc=5",
+        "title": "US Campaign Enters Final Weekend as Alaska, California Ballot Fights Heat Up - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzA4QVFWZ05Wd1ZPUXkwcThRdGhFVFRNUExpT2g5Q2tPSjBlX2dMOWFyMENfTmkwZEJoUHFtT1lEVlVtZk5OUjkwX0w1ODljSW1zNTNJSFI1YjlCWHRvTkRQZHQxMnpydDBRcUt5eHRnZS1KaWk4NEctd0lJSVFhckhmd1FrVVNBSllSQTFHR0txSlJYWnNNbjBvTkJWb0FQa0VLT3RIZXd4dGFOMXVv?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 31 Oct 2026 14:29:58 GMT"
+      },
+      {
+        "title": "How Trump and his allies seek to interfere in the US midterm elections - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkl2NzcxQzJaWTM4S0NiaXAzNkw1QWdLd1ZPa19tOTloZWRFQVZSR1FqVzZ3SGY1QTdILUU2NkJZcVBmWG84bmdoZEd6eHVxQTF1LTN2WUY5dExBWmFGSExDUDRzOXY3ZlN0eXBsSnNIa2JwdkNBODJVZWlrRjZnd2VaZy1UblpOYkw2NzF4ZGNpS2hQWWJYOVp5TVlQbF9CSnh6aVdPN1A4Zw?oc=5",
         "source": "The Guardian",
-        "pubDate": "Sat, 31 Oct 2026 13:58:00 GMT"
+        "pubDate": "Sat, 31 Oct 2026 15:00:00 GMT"
       },
       {
-        "title": "Congo's Ebola Deaths Top 5,000 as Fear of Continent-Wide Spread Mounts - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmxoN212WkdabXh6UVBpeU5hbjNHTDVCV0duUktvM0NZZnFadFhCY0dRbmt1OHhiaHRYUFl3Tmg0bVVJb1JoYUhsNElJTHBtU1hjQUdQRi0xa0pOa0hKSml3RnR1NGJ6bF9laG5nSHE1SEM5YW1FMEJud3dRU2ZJSFlod2RRa1ctOEtuckdlVDFCTDJyT19xMC1fR1NjRHhfVUNLZHpxVEQ4QWVMeGlqYWdQN19IVkh6aDlIX01hM0dNQQ?oc=5",
+        "title": "US Judge Dismisses Trump's Lawsuit Against Wall Street Journal With Prejudice - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVVhakpDQ1kwR2pVQ1hPTEZWT3padGYxZjRsNUJHd0VzSHg4VVBGT2xRcXRnNGJuZXlZVXVkcjNjSnhYUjl4Z2xyOVNUd1FPcGVMZXE2OGtUQ1FLdE5lbTVhU3BWRVJxSng3RFZXTjd3V2MwZkwxN2ZiVlVWYlFZbEFhazVtTjFkU2liaW9YRFVxc2lnOEl3UEI1amNtMEhrcnBUYkc1eU45RmlKeldYWENlQV9ZMWlWRlVJTVBtTTQxYnVMaTJWdmc5V0NNQQ?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Sat, 31 Oct 2026 08:19:00 GMT"
+        "pubDate": "Sat, 31 Oct 2026 19:34:00 GMT"
+      },
+      {
+        "title": "As Trump fans the flames of a world on fire, can diplomacy take back control? - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdlJIY2VudWJ2dEgyclhKU1RKbXB2LTJjTVdCVGtNbmI5OFNxUW44SWQ1QWpEQnRtNy1UaHZrMXo4T3Y0UkJiWUdYb25rZDFtLXZoLU5XdUZoVDVUTXM4d1hMQ2YxMElXSjZSenk0Tlp6bVBKNWh5WVl0Q3gzS3lTUTRjMWQtSy1wNk1waER6T1dlbngzaHJCbGlfeXlRbGNrUHNrSVB3UDRvd2phdEZZNmlaSVRYVjRZVTZPeTJ5bTk?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Sat, 31 Oct 2026 10:04:00 GMT"
       }
     ],
     "local": [
+      {
+        "title": "El-Sayed campaign wants Stevens to stay away after day of back-and-forth sniping - Politico",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmp6ZkYyZTFHVXB5NzhGaENaN2tQZXBlUWxKcG1aYVVMZ3dBOUJhZTNhdmNmVEk4dmFuVm1STFFNa05uZElRdGhYYUhxcVVLUDQtb1RfTDV2a0dmQlN2M2xVMGtOZ2c5eXYyWVdmSVNqV05TTTlGY0pIVDg5dnhaSDVjS0RwVkVNQU44aA?oc=5",
+        "source": "Politico",
+        "pubDate": "Sat, 31 Oct 2026 00:46:00 GMT"
+      },
+      {
+        "title": "Lions vs. Vikings: How to watch, listen and follow - Detroit Lions",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0J1bGlBRF9saDJUcHMwUUZNaWxhRzRBMUhBS0NFSUlNb1JyN3VfMlAtTGpIb0VKclhhTEllQk0zdFdrMGx1MWlSVGcwMUFYUzNDR1B5bEhjZUo4ODJENkNNU2RhZ2dXVjcwN0h0LXJ3SlctU3N4dmxFd0pNNW9Mc1dCQXVoamE3?oc=5",
+        "source": "Detroit Lions",
+        "pubDate": "Sat, 31 Oct 2026 15:04:20 GMT"
+      },
+      {
+        "title": "Michigan football has big injury questions heading into Rutgers game - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVllyTDR5SmRudXRzQTNqUnB2blFFMS0wUlpwYXgxT256aDZGblFtajZzd08zNkRPVXBNV0dKTnBZcDFGNHF1RlZ0Y185Y211NFo0RUk1Um9jN0o3RFNxVUYtZ25ZaUtyM0JqTTBQVDNkNXVsRHpfX3pKU1BRVWR3TE5ybFBqV1BlT2xVbF82NTM?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Sat, 31 Oct 2026 14:46:22 GMT"
+      },
+      {
+        "title": "News & Notes: Motor City MACtion Wednesday Night Versus Eastern Michigan at Ford Field - Central Michigan University Athletics",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ29IUllERFg3anJsLXJPcmJxUTZPZENSeXp6UHYxdWdyY1dHdEFienFQLU94OWZScWFZTGFVRDNlc1prWERabW5vZ01zbkwwLVhUY1lVVEVTZTROal9IV3RPeTB3a2RaclQ4ZDZaUnNaVWtxXzdHNENpMTBlTjVmcjlqUEtlbG8wcUFpLVo4WGlNR0lKTWV6LVY5eGlid21PVHBCZFR3U1FJTjlEQXEzRkI1aENKWmx5NXdLdG9XTVpBMS1fN0RGTmhQdThyUQ?oc=5",
+        "source": "Central Michigan University Athletics",
+        "pubDate": "Sat, 31 Oct 2026 16:28:54 GMT"
+      },
+      {
+        "title": "El-Sayed Senate campaign asks Haley Stevens to stay away in Michigan - MS NOW",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWd1elhMcDgyRTFDNGJyUklWc1F5aXFHRkxtOFpiYjYySTh3d0RPRWNER0ZWYTlIQ3ZCYU5vMUVoLTVRQ3VtMGZtLU03MERlU3Z2dnBKdS1ITFZXYWFsUkxRQ1FKdTJDQkYteTVDT1lSclBPWUxhR1JMQzdQUUpqcS1WYw?oc=5",
+        "source": "MS NOW",
+        "pubDate": "Sat, 31 Oct 2026 17:34:33 GMT"
+      },
+      {
+        "title": "100 years later, Harry Houdini's death still haunts Detroit - NPR",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkRGRVctWlZ4THlNMF9MUkxNTjNqMWU0UThKb2dvQjl5TjBIV2R1TDNWSFphcFd6MFJ3OXdSM1FXeGRWTEF1NEZ4SFJhSmVidkk4LXpCc3gzMS03WkxXRTgzY3RfQ3pIOWw4Ni1CN0tDY1R0eDFvYXF4SWp2UXBQWnJsOEhZSEw1RzFiUUI5NEJ2Nk1J?oc=5",
+        "source": "NPR",
+        "pubDate": "Sat, 31 Oct 2026 09:00:00 GMT"
+      },
+      {
+        "title": "Game Thread: Michigan Football at Rutgers - Maize n Brew",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWnhYWXBmbEtkSVFpeXVrVHA2VVBneW5Od0RfdXlRNmdoc0JVTUozSlVlY09qWGx6TGUwWFdxblVjcHBqQUFwZzBBLTJVNWY3dEVzUGFDWVg0NXl6N0dQeG5XMTJrcFlxQU8yYTF5WFVtNUR2ODd0OHFCV2dQSDhETWdaalg2TnM5b1BrZ3ZyTkF1WGt1U2tzVkdyUHFic2JQLUc3RmNBelJUWE1i?oc=5",
+        "source": "Maize n Brew",
+        "pubDate": "Sat, 31 Oct 2026 15:30:00 GMT"
+      },
       {
         "title": "In Michigan’s Senate race, everything is on the table — including football - NBC News",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYXpwOFJEdklxVHViRnYzTjVtcHlOcS1Ub1JvbUFEZjN4TzhYWEFOai1BMzZ4eFR4b0hmX1RWSXM0NlA4djVkc2JldFdXOVhGUmhERTg1NktmY0IyRl9yaHNuOGsweXdEalZ1R29HZVAwRGdJazVUdHVSd3V5VGdqT1c4dTdXb1lOTDNnckprVWZNMzVmWHQtaEFUQWc4Ry16X2tRdEtuUnNlajRBQnpydjZsLXVZNTFsZmFrMzBBeEU?oc=5",
         "source": "NBC News",
         "pubDate": "Sat, 31 Oct 2026 11:30:00 GMT"
-      },
-      {
-        "title": "Michigan’s messy Senate race spells trouble for Dems in 2028 - Politico",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWFTV0k4WnFIWXV1QlJkb1VINFZqTGs1ZUdrYTFXbDJIZk1LVVFGMmlCMWRMUE45dUxNdy1GakpTZHZINkw3cWd5Mm02dml3MmRCUVRsWU1ueU1zLWMyNnp3VG9YemZJYjlRYnpMQzN2SGpuVGZ2S29wZVYwUjFUUm5jQ0gzVl9jZzE5VnVkVUo0ZUxFekRVT3NaWEVGSVdk?oc=5",
-        "source": "Politico",
-        "pubDate": "Sat, 31 Oct 2026 11:00:00 GMT"
-      },
-      {
-        "title": "OTB Staff Picks 2026: Rutgers vs Michigan - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTlra3Q0Nl9qT0pudVJrNzdMRnVtVUxoeWJ4T29NQUUydEZjREh6QWVsVHVHQzRQOTFBNmhvYVJmbWs0ZlFuY1VldkFEVUFZMDVodmhFSEFMWU5WQWUtMTJUQWhCMTBLLXhRSGhYMDJxQTY4WnBJRl9pQlRzM2t3NVlTRQ?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Sat, 31 Oct 2026 13:30:00 GMT"
-      },
-      {
-        "title": "Michigan vs. Rutgers: How to watch, prediction, odds and spread - Wolverines Wire",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc3VXUUR3VFR3U3BNcGdQNGw0UFUxS3B2WFRJa1NHWW83MmNMdWJMeHV6dzFaY0RfLVJyaW9PUUs2RHhJSE5iOUpZd0l0WEtzT1dsMzFiMWFycUpfSjlOdXVUVEVDU2Q3Ry0tNWJTcVZvVy1xa0lzZGF4bDM1Y1VqSldFNEQwWDQ2UlZFeWppMHJZbmh0NmhxQjFEMExCdzNaSmJmMklpNkpHVTJKTGhYR3hLMWhPRkJDV2x1VEVDTGJmS3daNU9iZVZjRFVwUEsyRzIzd1JnWU1ybDNNcm9BakhtOUwzQTRqYkpKVThTbmVYQUEydVdr?oc=5",
-        "source": "Wolverines Wire",
-        "pubDate": "Sat, 31 Oct 2026 14:03:00 GMT"
-      },
-      {
-        "title": "What channel is Michigan football vs Rutgers? Week 9 time, TV channel - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSE5sbDlEWjMwREpsWlExUlBZQV8yeENLeHdTN2FpNmpTeExvQjZBejh0NlBlaC1GbjljQnYyLVdVQUdZQ0tQajBxel94MUZaWnhsYkZpb1VTVUdLNDRYRlJTMlFsNTdzNktPNnM4dVFUaUI0SzZpRTdTQnd3RWU4Y3BVVVE4d1JwRHJiN2NQenE4Qm1VNzcyWldlMTNzOFVTWkVNaG9Ed2dyNnlnY2tLWTBSMldiXzVTRV9hazltUG1idFgxeXdrUDdlTFRqa2lXYUh6Q1dLTVRJZmdzamc?oc=5",
-        "source": "Detroit Free Press",
-        "pubDate": "Sat, 31 Oct 2026 14:40:00 GMT"
-      },
-      {
-        "title": "Could Dolphins Corner Be Answer to Detroit Lions Secondary Concerns? - Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaDVUV1ZYUmVLWGhNWFZySTA5WVBma2RBWS1rbHVPSWs4MzNhS0gxQWhiSEp0Nk82UHdVMk5UcG1UaTZ5R3pRYm4weXVxMUd1NUttT3BtVkYtRDd5VEw5V3BOTkpVOXh4QWM4V25xRjgyTjA2aE16eHVUcWdOdUlDYlc3WXN1U2UwZV9VYmpRRTdlczdQb0t5MlJLeV9nb2c4Tmpv?oc=5",
-        "source": "Sports Illustrated",
-        "pubDate": "Sat, 31 Oct 2026 13:02:17 GMT"
-      },
-      {
-        "title": "Statewide MHSAA playoff scores in the first round – the Michigan high school football district semifinals. See link below ⬇️ 📸 Junfu Han, Detroit Free Press - Facebook",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVHU4V3RTaFFNbTY0OFktU1RIdUV2ZGgxSWU3ekVCODMzOGo2T0dINENONmFyZFJNU05sbmxKQ0g1TDd6SWhYNGkzYUY1VWlEWGtPSUVvMVJBN1lhS2c1SGVRallPVkptWmV2MTM5VllaUVFXQm9EMkZRcVVrakJnYVFNVS14MnJibUxmTzVBQ2RCN2lkbnpOdjFqamFVSU51S3pOcUw0NFFYWjFSVXFiSEtMYVIxNmw0SThUR0lEWjVlYl9KeVQ4eWR6SkstUXlabi1DRUp3YmIxZEQtSFk4?oc=5",
-        "source": "Facebook",
-        "pubDate": "Sat, 31 Oct 2026 10:00:17 GMT"
-      },
-      {
-        "title": "How to Watch Michigan vs. Rutgers: TV Channel, Live Stream, Time - FOX Sports",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEs3WC1IM0dTN1VtTmR6TWY4Q19sN2h1UmdKRTR2MTcxQV9PLWowZHNKV19SNHI5RWNBMng0QkhtYW1HcU4yMUtoeEYyOE1aQUJGNzZEaDhOOU56cERVaVNPcWFCMVhqOU9SSnJ0WGVqczBWWmtKQ2RCVnc0UXFrOWRlSWlhUF9yZmZCR1NFZFJJeDJfRzJsSTFXRF81Nk1mcV80MkxtRDN2QlFFU3RDSTAzYlVVczdHUHEwY3dNYVk?oc=5",
-        "source": "FOX Sports",
-        "pubDate": "Sat, 31 Oct 2026 13:35:13 GMT"
       }
     ]
   }
