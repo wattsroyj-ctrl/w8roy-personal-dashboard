@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-06T02:44:47.973516+00:00",
+  "updated": "2026-11-06T09:56:59.443272+00:00",
   "feeds": {
     "world": [
+      {
+        "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+        "source": "NBC News",
+        "pubDate": "Fri, 06 Nov 2026 00:14:15 GMT"
+      },
+      {
+        "title": "New Limits on Federal Student Loans Are Steering Many Borrowers Toward Private Lenders - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNEs2Nzl0WXNPRkJKY0k1eHJfcVItb0RQYTZHbFExTV9Fb1l4ejR2QUplNktlbTEyWDZac2MzcDhiYjVVLTY3WXA5UzZWYUlySnY5Q1IwQ01laVV3NkNwcFVFRm4xbnZpbi1IejN2TUt2MlNvbnE2bzFYVVJhOUJRVHVFblVMckRPaFJfc1VrUnN5R0I3UnlVaUxzYVEyeUZZcUtYakJ0VkdZWGgzTDlFWW8tV2NrbmRJdml5SjZ1WXlIVlgtVUJzM1BSVTNjUkpoT21Z?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Fri, 06 Nov 2026 08:06:00 GMT"
+      },
+      {
+        "title": "US Gasoline Prices Tumble for Sixth Straight Week - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXl2cVQ3MXFsOXJ5Sjhac0hCMHBFSE8zYVdTWTkyTHd5MlhTdE1WaFpuS3VyREdkSW51OUNwaFhPZ3B6cEZrTUhIRW4tSjBpY2VoeXhfMjlSZFBKVWszdDhfYlJFTDE1ZmpfVjJQc2lZNnVWZjQySXZyeS1GcmlPMF9QanRqRkU?oc=5",
+        "source": "EnergyNow.com",
+        "pubDate": "Thu, 05 Nov 2026 22:29:05 GMT"
+      },
       {
         "title": "US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3JNZUJfT2tOWnM2N2FQUXI5SVBPdXZhcGFPc0lzNmR1UlJWV1FHLS11SzZac0pudkJNMVFLbEJfTVVtZnFQZl9ndEg4YzJINlYtdnotRGNQekNYMkZTSXNmLWpXU1cydUx5UzlvSWZmUm9fakgwVDQwOU1LUmw0dmZfeGZnc2pzOXBwaw?oc=5",
@@ -15,40 +33,22 @@
         "pubDate": "Thu, 05 Nov 2026 21:26:39 GMT"
       },
       {
-        "title": "Constant 'Food Noise' Plagues 1 In 5 Americans - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUo1MWlsWnNtUm9JOUFGalphVUNBSU5aajlJdXE3SE1kTzFReXZTblVKbVBJTHRWdDAwUzF4T21JcnJGY1pwTVUwUW5vOWVoMTJOeHRoWkVFdUJwZnFReW5ELUMwekxqTVN5WDlRRGhUd0NqRkd3bkY0eHVQWEhiZkh1aHRzTy1aei1xeFFTYnlESU8zY3JyZUtrSHhQcjFjYTE3dE1qTQ?oc=5",
+        "title": "San Angelo ranks No. 15 on U.S. News’ 2027 best places to retire - myfoxzone.com",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakMtRERnZTNtM054NVJXNXN2M1JQM1ZoSXYyN1QybWV2SktaaWNzRlYyWXRHak5zLVlkMFN3ODhyNVVaMVFtcE9aS3hyWU5pMWtxNTN1TENwQXhxY2J1QWdKN1hfTjJmRWRwNTlxeU13VDlZZ3NyNS1BN2R4X2xxVGV1Um8ycGlCTFpvYUV6ZlRHTU9ZS2Q2ME5nb3hmM3JSWDhPZ2N1RG55YmlRSWhMaE1iaUFncVdmR3hNeGE4Q0lwZWtSb0diY2xQV0NhbGJMangwSFZIaw?oc=5",
+        "source": "myfoxzone.com",
+        "pubDate": "Fri, 06 Nov 2026 04:49:14 GMT"
+      },
+      {
+        "title": "As Congress Returns to Democrats, One Likely Casualty Emerges: Trump's District of Columbia Projects - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzRPTnlfVzYwUHMtalFpTklvdkM1ZnNUbTFXZHJ0NFU1d29OU2hCaVdWcTd3MFVyTFZsVmIxeTg2bnY0ZUtJY01VOE5yYUJqUmtvazNyOFRhNmxNdG5Ral93MFRzbGpmQjZpRndlUkNYdEdNaDh5c1hYckIxS0d5bGxqX1ZzVktLMFdZN09YLTRoXzVQOUJKZWRjbHZFak1qSmk1aXkxX2YzbnN1bWxkOFhyZWlnd2VBTkZsVnJLdkNoMm1wVWI0bmRFZy1wOHc0dHBaY3J6UDFkNWNCbmZZTFpvUU02aGsybHc?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Thu, 05 Nov 2026 15:47:57 GMT"
-      },
-      {
-        "title": "Iran War is One ‘TACO’ Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pYmdDNHlwVE5HeWF0T2FkRDQ0SmhVeUxwVDZ6YXd2bGxXZldGYTR2aEN2bVY3d3Rad1NaYXFQYzJGNzJTVl9HNDhtd21ENmMxelBpSHY2M3cxbjRHUGZ6dzVyZVRaalV6WDZKSXVyNWd1TEFncWlN?oc=5",
-        "source": "EnergyNow.com",
-        "pubDate": "Thu, 05 Nov 2026 16:49:27 GMT"
-      },
-      {
-        "title": "Five Ripon schools earn U.S. News Best Schools recognition - Ripon Commonwealth Press",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2sxS3FHQUZJa05BVm5VcjRfZmVOLXZVWVBVTjhtalByWVBzaFJXcFdQNmVFOVBtYnNEb0picVhQcWRhNy1nRWJDcVdid2g3YXJheWxLTVhKNC1tTnJ1aEZmTTY0TE0xUTVnV19aYTR6TXlMbjUzSlhfR1RLN0I3ZmRpRDJLdXFrb0ZJazAwcmR4aW1aaXVTMHAxVXZGcGlUYVNoZVd0X0FmSDJOM1JubEpLLUxFRjFLNnRlS0JRRURRUEJHLTg5aHNtVzNONTAwazFfNTRn?oc=5",
-        "source": "Ripon Commonwealth Press",
-        "pubDate": "Thu, 05 Nov 2026 22:00:00 GMT"
-      },
-      {
-        "title": "When to Apply to College - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dMamg4QUhaaVk1RHZUeEJDRHZFdnlqdkRNb1FpR08zVEtNdjh5cTg3aHhWSEVkSVhSRnJHdEZKbzM0LTJuUFJ6WWdldXpFS1JQdXNqdE9tR21Iemd6bTNtTnh4NFpZcXh5bEFDRE5BWmRwWXNrR1lnaXVabHFCVUpqdndzc3JXT3hSamtMRGZCTjA?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Thu, 05 Nov 2026 22:36:00 GMT"
+        "pubDate": "Fri, 06 Nov 2026 05:01:00 GMT"
       },
       {
         "title": "US midterm voters responded in a thunderous voice. This is just the beginning | Betsy Reed - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGhvY1lkN3BWdE80WUp0dUdxRHFOT1FucklWY1ZjWjExamFSblRhbEhEVHhDWjJfNF9xcjlJMXFhSHkzOGNLZWhiY2w0cWJMNzdpOGJCUXRTSnVDT1FkMWlhS2x0LWtJZ2owYTV2bVNWMXhTMEJkejJtMXFYYW52Qk9WaGY?oc=5",
         "source": "The Guardian",
         "pubDate": "Thu, 05 Nov 2026 22:09:00 GMT"
-      },
-      {
-        "title": "Explainer-What You Need to Know Ahead of New Zealand's Election - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXN1Z0wtaTFQS0pVZmNiazJ6TnAyc3BORVVsdkJtWmJyTlRZLUZ6RmpEb0o4eHMyOTIwTHpsRUVpSTZOamhGajB1QkotVFlqRkdpa01XMkdXYVdqeFc5UmVLTGhTT2ZBd1J1MXVndlNmYVZSLXBWZlFOM1NQRVZsRE1qdExOMzhNSXJ2MzhxMDdmdzJORF9Ea003ZTRUWGRkX25NLWh0U3daRWF0Zk1ZZkxrSHdNdTA?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 06 Nov 2026 02:02:00 GMT"
       }
     ],
     "local": [
@@ -56,7 +56,13 @@
         "title": "Michigan Makes History, Knocks Off No. 2 UConn in Season Opener - University of Michigan Athletics",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkRiekpHaks1QldqZmg3bDNocGE0RXZKVUdSamdaMkVXc3F4cEhYQXd1d1hpUV85cEN5SDNOWEF1cUdSZVB0Sl9NZlhCVmtsU0VLakprbkY0b01kRDBuekRtQWNEUVdFQXlRMnlqQ3AzMDBLMWNpdlN5aVR4RWVIVEVYcHc4VnFPcURETlEzRUpQeTFwVkpacmJIVEpvWW5lWFRsMVltTkdmc2VXaGMxM2xuQkk?oc=5",
         "source": "University of Michigan Athletics",
-        "pubDate": "Fri, 06 Nov 2026 01:50:48 GMT"
+        "pubDate": "Fri, 06 Nov 2026 04:52:05 GMT"
+      },
+      {
+        "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkZtX1pFRE9hei01bjNucXJJeDVQRXlybi1EdzBscUh6OTZyN2s0OU5vNWM0ZXJZTGNtczhpRE50dnphVndlSS1uWE9YT1dQdmJWYVF0VTdJenFPYTJjYUVoZ2lsREdfcjdOVXRrbl9VMEhTaXVhcGRVSjlteUVldEw3UzBWbEJlbjF4MG1yNDlDMTJmbEFXZ0ZFS1o?oc=5",
+        "source": "The New York Times",
+        "pubDate": "Fri, 06 Nov 2026 08:47:54 GMT"
       },
       {
         "title": "Central Michigan Men's Basketball Announcement - Central Michigan University Athletics",
@@ -65,10 +71,22 @@
         "pubDate": "Thu, 05 Nov 2026 23:36:50 GMT"
       },
       {
-        "title": "Live updates: UConn women fall to Michigan in top-5 showdown - CT Insider",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1NKU3pnNklQNlVtUDNlX0hSVVc3dDRINFhoVzVpYmlMcUNDbjZIWFBRS0tDYTRYUzh3clJoVzFmbG51Rk1EZU5NZU4zOENPWFJXSHYxb3oyR3hXNWpGcTJ3elN0ZTJab1VuQkdQQlRtZ1k4QU9raC1Objh1bXNUZm02UldVaDMtaDhfRWpXSjZLb2JXaDVwYW1OX2JvWl9EOGZPb1pETnlvUXBYZS1kTzVqNXU2Tm14bnhlS1ZmSnpnZ0pi?oc=5",
+        "title": "2026 Michigan Midterm Election Results - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzdVd0QWRXZVllV2lQR0pxamw0TWZ2ZjhBNlY4aGh2TmVETUhGSHlQdm1nV2pqVkhyZmZzWVJaUTNUdmttZXM0VF96OHFMR0dQdEdrNnhBSHVlTDZISHd4c0s3aE9MQU1BdEdoOQ?oc=5",
+        "source": "AP News",
+        "pubDate": "Fri, 06 Nov 2026 02:56:40 GMT"
+      },
+      {
+        "title": "No. 5 Michigan halts No. 2 UConn's win streak in program's highest-ranked win - ESPN",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQURicld2dTFyaGhBaHlPR2hvaWJETnRjc0s5cE12WWNFekNTQTFiTWpLWWdfRTIzLTQ1cmtvR21TaEdqSFlLanpIY25ZOVBVdEdhX1J4Q2hhRDFnanB4Nlc4RzJiNnRLRVdLWG1TQ3dPckVHS2c4MXg2cGdyQXdhOUdWWk5uMU5DZFNvWWpMZ0ZTSThpN2N6bXRCLXBCbzNxT0RLdEJZc21BTzY3LWJxekxKQWtPa2VMMjExREpUVkc?oc=5",
+        "source": "ESPN",
+        "pubDate": "Fri, 06 Nov 2026 02:03:00 GMT"
+      },
+      {
+        "title": "UConn women's basketball team fails first test of season, losing at Michigan - CT Insider",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRVJSdS1rdnhvZ28tU0N1VDFHb09CNUVIQUk5RURINk9XbUY2bmxPTTJKa0hKSzFOSDV2Y3psVXo4VF8zanVNZ19kVFJjV1NaNjB2UkxTT3RILVJ4TlV3TXNZSDd1WEhxeXVzUVdEOEVFRmp6SHE5Q0RlWUhMZmVZbE11UEhqTUdZa2RjaGhfN3dBRV9LREJPaWpWMmFxelctQV8tcHF4bFRjenhEcmJ2LXJKa0t6OGl2SlVzclJyTGI?oc=5",
         "source": "CT Insider",
-        "pubDate": "Fri, 06 Nov 2026 01:46:28 GMT"
+        "pubDate": "Fri, 06 Nov 2026 04:50:33 GMT"
       },
       {
         "title": "Lions at Dolphins practice report: Nov. 5 - Detroit Lions",
@@ -77,28 +95,10 @@
         "pubDate": "Thu, 05 Nov 2026 21:03:13 GMT"
       },
       {
-        "title": "Instant Takeaways From Michigan Women's Basketball's Dominant Win Over No. 2 UConn - Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFRydTJXcTR5LXRuem5EV1F4OW1SSGhObnNqTHhPTkJjSzF4OXFwVmRMYTBzZHM2MG44dHJpNkJ2d3A5dEF6aE5LTjdlbExtd0x6V2tSTkJqUklHdmJ1NWNlRnpCMG0yRFpqQnVWalBVcFluS1JmNWVGZjFTOFhObGJFOFNxMjdteWVvNy16WVI5NERxVHdqS1JaWmIydVdKUU1ub2F0UXI4aXB1TWpFeUlISDFwdHI4cURDZjBUUFM3bFBwYVpBU2Y3blQtZw?oc=5",
-        "source": "Sports Illustrated",
-        "pubDate": "Fri, 06 Nov 2026 01:31:04 GMT"
-      },
-      {
-        "title": "A Joyous Election in Michigan - Progressive.org",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmN0d2NfOHpnZk5lYWVLblVxcWd5N2pmQ3RHNmZJd0Q5aDVpclU1b0dheDZubFNZVGVlQ0NHWThoYUZ4YXZRQzFYVHdjSllOSURhRWRSbGVUSmdzeWRiNHdISkYxWUQ3a0lHSmRmaTg5eUY3blJ5UF9Lenp3b1FqTzRVUkI?oc=5",
-        "source": "Progressive.org",
-        "pubDate": "Thu, 05 Nov 2026 23:46:40 GMT"
-      },
-      {
-        "title": "Metro Detroit weather takes chilly turn, more rain before brighter weekend - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczNSdEZqUVNoTWs3STdYT1pQeFIzYmxzOFNkM2M2Y29tSHRGWHdqNzBDeTRoUHR4R3VoVk1LMjIxY2ZPeThvcURmRXVQU2l4bTVTN1pMUWFkVExEajBxekEtQ0NiTnZlNnBzUUZVdjhVdDJSSmQ3LU93Q3gxdXVwc2VDUE01NGpQZndzVXdiZjlHVUZKc3dCLUhVem02Wjl6MXEzeS02SHVQazVJVTRGT1pOdHB6Uk55OWZLNFVpM29TZw?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Fri, 06 Nov 2026 01:32:41 GMT"
-      },
-      {
-        "title": "Michigan football players confident they can win final four games - Wolverines Wire",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa3k2Q25TdEUwU0pMcFJ5bFlSZG16VlM4aUVmVXZ2S2lUZHU2V2lzdldVeE9kQ2Rzc0Y2MWx4aDlPak93eFdGYVpJcGJUSVd0NTBCWUgzWUh3WGdnV3RNQ3JfbGRGRW5xeGVlVFJKTTU1VW1RSVBsM0lEckRWeFc1cmpGMGp1eWZ5bU4yVVpnUDd4aHEySjE2Q2o4Rm9TYXh4M3NLbDlfVmdWWUtoQ08xWkE1VmtfbXRKRXBqRks3bWJnOUt1WFZucWNiYXJFeldoNGpja2FIQmhIZ0lLVWlYUzM5Ym44QTFQemZUemgyZV9pQUVnS2c?oc=5",
-        "source": "Wolverines Wire",
-        "pubDate": "Thu, 05 Nov 2026 20:27:00 GMT"
+        "title": "No. 7 Badgers outlast Michigan State in four sets - Wisconsin Badgers",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFlCR0lQRFRfWW5TNzU0bDF4RHBCS3o5RTI0QXQwQVRsT0szMUs4b1ZSdDhia0ItbHh5Z1BCWHU1dUxVRTBfM0VYMzdEamtIV0tNZkN4bG9Gc1BrWXgybVg3eDNwU21udW1IQnNwdXBfaHdudFQweF9qTzlDT3I5ZXJwMUUtbzM0NlBLU3lzWXpvVGYzSnlUTXJHRWg?oc=5",
+        "source": "Wisconsin Badgers",
+        "pubDate": "Fri, 06 Nov 2026 04:14:57 GMT"
       }
     ]
   }
