@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-05T22:24:18.303676+00:00",
+  "updated": "2026-11-06T02:44:47.973516+00:00",
   "feeds": {
     "world": [
+      {
+        "title": "US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3JNZUJfT2tOWnM2N2FQUXI5SVBPdXZhcGFPc0lzNmR1UlJWV1FHLS11SzZac0pudkJNMVFLbEJfTVVtZnFQZl9ndEg4YzJINlYtdnotRGNQekNYMkZTSXNmLWpXU1cydUx5UzlvSWZmUm9fakgwVDQwOU1LUmw0dmZfeGZnc2pzOXBwaw?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Thu, 05 Nov 2026 20:58:00 GMT"
+      },
+      {
+        "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31 - UN News",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VMF80YThDRlY4d2dkNEpLSVYtZVg0M2tvUmNXZDVxalJKbUViaEZFeVdsbFJnYlkwd1JxczBHSHI5aTVadHpxZzBvR3dFT1M0VGJIM1ppUQ?oc=5",
+        "source": "UN News",
+        "pubDate": "Thu, 05 Nov 2026 21:26:39 GMT"
+      },
       {
         "title": "Constant 'Food Noise' Plagues 1 In 5 Americans - U.S. News & World Report",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUo1MWlsWnNtUm9JOUFGalphVUNBSU5aajlJdXE3SE1kTzFReXZTblVKbVBJTHRWdDAwUzF4T21JcnJGY1pwTVUwUW5vOWVoMTJOeHRoWkVFdUJwZnFReW5ELUMwekxqTVN5WDlRRGhUd0NqRkd3bkY0eHVQWEhiZkh1aHRzTy1aei1xeFFTYnlESU8zY3JyZUtrSHhQcjFjYTE3dE1qTQ?oc=5",
@@ -15,43 +27,49 @@
         "pubDate": "Thu, 05 Nov 2026 16:49:27 GMT"
       },
       {
-        "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31 - UN News",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VMF80YThDRlY4d2dkNEpLSVYtZVg0M2tvUmNXZDVxalJKbUViaEZFeVdsbFJnYlkwd1JxczBHSHI5aTVadHpxZzBvR3dFT1M0VGJIM1ppUQ?oc=5",
-        "source": "UN News",
-        "pubDate": "Thu, 05 Nov 2026 21:26:39 GMT"
-      },
-      {
-        "title": "US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3JNZUJfT2tOWnM2N2FQUXI5SVBPdXZhcGFPc0lzNmR1UlJWV1FHLS11SzZac0pudkJNMVFLbEJfTVVtZnFQZl9ndEg4YzJINlYtdnotRGNQekNYMkZTSXNmLWpXU1cydUx5UzlvSWZmUm9fakgwVDQwOU1LUmw0dmZfeGZnc2pzOXBwaw?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Thu, 05 Nov 2026 20:58:00 GMT"
-      },
-      {
         "title": "Five Ripon schools earn U.S. News Best Schools recognition - Ripon Commonwealth Press",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2sxS3FHQUZJa05BVm5VcjRfZmVOLXZVWVBVTjhtalByWVBzaFJXcFdQNmVFOVBtYnNEb0picVhQcWRhNy1nRWJDcVdid2g3YXJheWxLTVhKNC1tTnJ1aEZmTTY0TE0xUTVnV19aYTR6TXlMbjUzSlhfR1RLN0I3ZmRpRDJLdXFrb0ZJazAwcmR4aW1aaXVTMHAxVXZGcGlUYVNoZVd0X0FmSDJOM1JubEpLLUxFRjFLNnRlS0JRRURRUEJHLTg5aHNtVzNONTAwazFfNTRn?oc=5",
         "source": "Ripon Commonwealth Press",
         "pubDate": "Thu, 05 Nov 2026 22:00:00 GMT"
       },
       {
-        "title": "University of Minnesota named among Best Colleges in 2027 U.S. News & World Report rankings - MessageMedia.co",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNi1BNktMWGpXZVlKUi1MWV9waTJ3N0ZQQ01KLW5LTS02X09iVVBsd09paklYZUJmUmdFUnhXRHhDSk9sU0RvUmZwRUdKaHkzYVpKMkZEUWhtZE00NXloSmNlWG5IamtVTWxPQ01jQ3IzUlVaV2podmZIQV9BSzJVclhvWnAwclljVHBSM3laTmxJVDlhMjFpVXg5RzFKNUJwRzNKM2tMNDJUSTUxal9FZ1c1cjZsMHE3cTZ1WTFhSzRmVEJqVW9feWF2ZkFVY1ppRHBYNVlrZ2RvZFZqcmNzMWxCSGwzelJaWlF6cG9VeUVscEtscC1aS2lpeWo3WTN4MllGcnBMTUhqSnJIZGZoY0ZSWkx0VzVHbFRDODhR?oc=5",
-        "source": "MessageMedia.co",
-        "pubDate": "Thu, 05 Nov 2026 17:12:00 GMT"
+        "title": "When to Apply to College - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dMamg4QUhaaVk1RHZUeEJDRHZFdnlqdkRNb1FpR08zVEtNdjh5cTg3aHhWSEVkSVhSRnJHdEZKbzM0LTJuUFJ6WWdldXpFS1JQdXNqdE9tR21Iemd6bTNtTnh4NFpZcXh5bEFDRE5BWmRwWXNrR1lnaXVabHFCVUpqdndzc3JXT3hSamtMRGZCTjA?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Thu, 05 Nov 2026 22:36:00 GMT"
       },
       {
-        "title": "You Don’t Need to ‘Save the World’ to Craft a Strong College Application - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDF6SzFOdGZHeWVKSnIybEZqNC1TaXFvT1NwV3FGZ1QtSm01X3BnRjNISlZiOFpLU3BpS0ZFZUVDbWVLN0lIUlZyZ2poRkJ4RHFOZHd4ZnpDemRYTHc2a0hwbVJ1VUF4NTBINk5UbFFIVFk2WUc3QmNuVlhMZTI2Tk95LTRydjRxdmh6aXdyZmQzRUMxUXBuTDlqNDBqc0VCZE5IXzNfcTBKWjZUanRrcmZqaTZkUGlaOTFFcjJCMExjX0h4ZkY5V3dNdXM?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Thu, 05 Nov 2026 17:31:00 GMT"
+        "title": "US midterm voters responded in a thunderous voice. This is just the beginning | Betsy Reed - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGhvY1lkN3BWdE80WUp0dUdxRHFOT1FucklWY1ZjWjExamFSblRhbEhEVHhDWjJfNF9xcjlJMXFhSHkzOGNLZWhiY2w0cWJMNzdpOGJCUXRTSnVDT1FkMWlhS2x0LWtJZ2owYTV2bVNWMXhTMEJkejJtMXFYYW52Qk9WaGY?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Thu, 05 Nov 2026 22:09:00 GMT"
       },
       {
-        "title": "Free Lunch For Kids and Taxes on Billionaires: How the Ballot Measures Fared - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVy1RVFRPWnI3MFZ5SlZzVFVYbnpZYlhtcS1EdnQtUGNWN0ozZXBreFR4SElZYm5DNldsbi1MOUhsaTd4UkdJcW1haTNIcmEtN2N2dWo2Qm9zWVRrd0tMYmJSdEtSTEFhSmZzR0x0RXBIWlI1b05KT0Z1dmxYd3VTcUJWQjJVcl9zdnB1MnJScm1BWm05cTRmczIwWlFnY0EtbjcxbXM1ZnA0WUFYbk1GSmVJeVRQY0lDZ1ZKSndXcWZERUFKNGlzYUtJdGdQZDdPM2RObkFjbmlYSkNPQVk1YW5R?oc=5",
+        "title": "Explainer-What You Need to Know Ahead of New Zealand's Election - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXN1Z0wtaTFQS0pVZmNiazJ6TnAyc3BORVVsdkJtWmJyTlRZLUZ6RmpEb0o4eHMyOTIwTHpsRUVpSTZOamhGajB1QkotVFlqRkdpa01XMkdXYVdqeFc5UmVLTGhTT2ZBd1J1MXVndlNmYVZSLXBWZlFOM1NQRVZsRE1qdExOMzhNSXJ2MzhxMDdmdzJORF9Ea003ZTRUWGRkX25NLWh0U3daRWF0Zk1ZZkxrSHdNdTA?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Thu, 05 Nov 2026 21:05:20 GMT"
+        "pubDate": "Fri, 06 Nov 2026 02:02:00 GMT"
       }
     ],
     "local": [
+      {
+        "title": "Michigan Makes History, Knocks Off No. 2 UConn in Season Opener - University of Michigan Athletics",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkRiekpHaks1QldqZmg3bDNocGE0RXZKVUdSamdaMkVXc3F4cEhYQXd1d1hpUV85cEN5SDNOWEF1cUdSZVB0Sl9NZlhCVmtsU0VLakprbkY0b01kRDBuekRtQWNEUVdFQXlRMnlqQ3AzMDBLMWNpdlN5aVR4RWVIVEVYcHc4VnFPcURETlEzRUpQeTFwVkpacmJIVEpvWW5lWFRsMVltTkdmc2VXaGMxM2xuQkk?oc=5",
+        "source": "University of Michigan Athletics",
+        "pubDate": "Fri, 06 Nov 2026 01:50:48 GMT"
+      },
+      {
+        "title": "Central Michigan Men's Basketball Announcement - Central Michigan University Athletics",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRExmNUZIWmFfa0hBTkZEQ0lXZ3EtcFFPZk0zWmNPOG84SlVZTEpaNUo1UkcxNEttdVdFWEhiVk9aSjhqWV9GbjdlSTBIMlA2SFN3by0xM09iNjlSSzFndEVROGRoM2JBa2pMcTIySFQ2UkEwQ2pQZDNoTmswbTBaT1NoNERDR2lsaWxIQ3Z3?oc=5",
+        "source": "Central Michigan University Athletics",
+        "pubDate": "Thu, 05 Nov 2026 23:36:50 GMT"
+      },
+      {
+        "title": "Live updates: UConn women fall to Michigan in top-5 showdown - CT Insider",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1NKU3pnNklQNlVtUDNlX0hSVVc3dDRINFhoVzVpYmlMcUNDbjZIWFBRS0tDYTRYUzh3clJoVzFmbG51Rk1EZU5NZU4zOENPWFJXSHYxb3oyR3hXNWpGcTJ3elN0ZTJab1VuQkdQQlRtZ1k4QU9raC1Objh1bXNUZm02UldVaDMtaDhfRWpXSjZLb2JXaDVwYW1OX2JvWl9EOGZPb1pETnlvUXBYZS1kTzVqNXU2Tm14bnhlS1ZmSnpnZ0pi?oc=5",
+        "source": "CT Insider",
+        "pubDate": "Fri, 06 Nov 2026 01:46:28 GMT"
+      },
       {
         "title": "Lions at Dolphins practice report: Nov. 5 - Detroit Lions",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc210YWgwWmEtQUszZ24wWnNyU3pRNGdBT3Z3d1M0ZzZmc0h2RUVNUkx5QjIzMmRVdV8yQ3g4dWYyT0cwTEhLUHRybDZxUV9WX0t1LVZMaWZFcFRCZUJoVFptX2k3YUt3RHVLRVV3UzhtemtXNlhJS3N0dkwwaEZZMERNTWNtM2Vic0Z3SzVoMGJ0RzZpOXV3dQ?oc=5",
@@ -59,46 +77,28 @@
         "pubDate": "Thu, 05 Nov 2026 21:03:13 GMT"
       },
       {
-        "title": "John and Becky Duffey Continue Legacy of Giving to Michigan State with $10M Commitment to FOR SPARTA - Michigan State University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUThGQzA1X01KaG40TnRnb3hpUUdKQW1YRHhsUVdnT1lDbUZWbGxKcHhadnF0YjhSODNzd012eENKWnU0blNUOHM1SFNUZWE5QjVLZVNqNjBQYVBsT1MyTmItVUNVYXhRcGV6cjF2ZXVVYUtVVkZUcy1jeVRrekZIRkJaRGxXMHQ0VjdPZFVTU1B5TmxLMFlmTFVJanJBd0VvYThiNy01ZzEwLUdEWFJua3RQX1BadWdzbVctRGJWTUZxdi1yRWM0SHJaZ1ROdGlCbGFXcW1fbG81M0E?oc=5",
-        "source": "Michigan State University Athletics",
-        "pubDate": "Thu, 05 Nov 2026 18:03:21 GMT"
-      },
-      {
-        "title": "Central Michigan Men's Basketball Announcement - Central Michigan University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRExmNUZIWmFfa0hBTkZEQ0lXZ3EtcFFPZk0zWmNPOG84SlVZTEpaNUo1UkcxNEttdVdFWEhiVk9aSjhqWV9GbjdlSTBIMlA2SFN3by0xM09iNjlSSzFndEVROGRoM2JBa2pMcTIySFQ2UkEwQ2pQZDNoTmswbTBaT1NoNERDR2lsaWxIQ3Z3?oc=5",
-        "source": "Central Michigan University Athletics",
-        "pubDate": "Thu, 05 Nov 2026 17:50:15 GMT"
-      },
-      {
-        "title": "Central Michigan men’s basketball coach placed on leave - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjRFMlZjOGwzY3hjcnlEWXg1RVNHa18wbGhQUVRWSXhNa05WY0pZUzRxcjNDR2k3Wld6ckZ4TEJndDRiWWRqVUYzSEt0Y3YzMEpGS3VnaG1TV2tMRjV6OUpPNE5JaXlUTXRDa0g0ZzhVUnZjeGFEQkl1REtfNGU0bWM2b0ZMZUc4UHFITHRta1Btc1M1T2lwNUd5MXZobGUyWWpCOENQOFNSdFFn?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Thu, 05 Nov 2026 20:23:04 GMT"
-      },
-      {
-        "title": "Detroit Lions 2026 Week 9 Thursday Injury Report: CB, DE Out - Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcm1YWGx6YjVBRXE3ZjZ6cjRpV1ljMTVMOWkyUVZNUnBEdjlGY0RzNk4xNkZkSF9mUF9sVENtdWhyakdNdzBPcDh3T3EzamhNR3lJbE9TWFJSbGQta1FPYklUOGNDcW9lM3lybDgwMS1wZjRvYkFqVlE0NFQzTHJ4Q2EtM1pvOXFqLXdGTzlpTXpYMFJ3d09pVUdFVQ?oc=5",
+        "title": "Instant Takeaways From Michigan Women's Basketball's Dominant Win Over No. 2 UConn - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFRydTJXcTR5LXRuem5EV1F4OW1SSGhObnNqTHhPTkJjSzF4OXFwVmRMYTBzZHM2MG44dHJpNkJ2d3A5dEF6aE5LTjdlbExtd0x6V2tSTkJqUklHdmJ1NWNlRnpCMG0yRFpqQnVWalBVcFluS1JmNWVGZjFTOFhObGJFOFNxMjdteWVvNy16WVI5NERxVHdqS1JaWmIydVdKUU1ub2F0UXI4aXB1TWpFeUlISDFwdHI4cURDZjBUUFM3bFBwYVpBU2Y3blQtZw?oc=5",
         "source": "Sports Illustrated",
-        "pubDate": "Thu, 05 Nov 2026 21:02:50 GMT"
+        "pubDate": "Fri, 06 Nov 2026 01:31:04 GMT"
       },
       {
-        "title": "Top Detroit Lions cornerback among those missing at practice - MLive.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzI2VjdWVjFzeTRkbmpJNFdGR0V4aXBnclVKWkIzOHhOVldvOEpqamdrRWl2ZFBOWm9FV0FLN09MRFoyaDdXUTV0a2VzeWhkNG5mUHhKdzk5R3FReEVqcFFUUVRTSDdjX2lLU0xIXzdxVi1YbVdtZUdYbHJ3dUNjLV84aWxqdngtc2FvQnpBdGJXaFd5R0xaRVZyeXQ4eGJwbHdR?oc=5",
-        "source": "MLive.com",
-        "pubDate": "Thu, 05 Nov 2026 18:49:00 GMT"
+        "title": "A Joyous Election in Michigan - Progressive.org",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmN0d2NfOHpnZk5lYWVLblVxcWd5N2pmQ3RHNmZJd0Q5aDVpclU1b0dheDZubFNZVGVlQ0NHWThoYUZ4YXZRQzFYVHdjSllOSURhRWRSbGVUSmdzeWRiNHdISkYxWUQ3a0lHSmRmaTg5eUY3blJ5UF9Lenp3b1FqTzRVUkI?oc=5",
+        "source": "Progressive.org",
+        "pubDate": "Thu, 05 Nov 2026 23:46:40 GMT"
       },
       {
-        "title": "Lions kicker Jake Bates has a teammate to blame for first missed FG - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcGtnMjVRb3JtbVZDZ1VKbjhtaXAxR3JUUlkyVlJHdUNXNnZ4NTVPLVlud2dENkFWU245TVBlano4TzNBQmx1UzlsQlhuZW9Oeng0Z1dUUnV5ekRzQWxadm9IakxfWDRtMTdzRGpXMUI4RDc3WG0tUFNIeW9OTGVWelNJY2VEeXhxcXRoV1RsVk42VDloamhfX1ZXOWVEMXpfbXJndjJtTkt1LXB2Xy0yNEg0ZnNBbHljdElxQVItYktGT2tIVFdHeTNDSWs3MUNw?oc=5",
-        "source": "Detroit Free Press",
-        "pubDate": "Thu, 05 Nov 2026 21:34:00 GMT"
+        "title": "Metro Detroit weather takes chilly turn, more rain before brighter weekend - ClickOnDetroit | WDIV Local 4",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczNSdEZqUVNoTWs3STdYT1pQeFIzYmxzOFNkM2M2Y29tSHRGWHdqNzBDeTRoUHR4R3VoVk1LMjIxY2ZPeThvcURmRXVQU2l4bTVTN1pMUWFkVExEajBxekEtQ0NiTnZlNnBzUUZVdjhVdDJSSmQ3LU93Q3gxdXVwc2VDUE01NGpQZndzVXdiZjlHVUZKc3dCLUhVem02Wjl6MXEzeS02SHVQazVJVTRGT1pOdHB6Uk55OWZLNFVpM29TZw?oc=5",
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "pubDate": "Fri, 06 Nov 2026 01:32:41 GMT"
       },
       {
-        "title": "What kind of winter is Michigan in store for this year? - FOX 2 Detroit",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KLVBIMTYyMnNBTWFXYXVDZzZMMnhDbDBvQXpmazB4ODd1TG82S2ZGSXl0RGNwQVY1dkdXMDc3RmxXZzdZeFNyVy1TRGpSQVhuTzJMOFZjRWJuLUgzTGl1b0JLNmVLRkpWb295TFYtZmczcVBReGgybEV4dHU?oc=5",
-        "source": "FOX 2 Detroit",
-        "pubDate": "Thu, 05 Nov 2026 15:59:23 GMT"
+        "title": "Michigan football players confident they can win final four games - Wolverines Wire",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa3k2Q25TdEUwU0pMcFJ5bFlSZG16VlM4aUVmVXZ2S2lUZHU2V2lzdldVeE9kQ2Rzc0Y2MWx4aDlPak93eFdGYVpJcGJUSVd0NTBCWUgzWUh3WGdnV3RNQ3JfbGRGRW5xeGVlVFJKTTU1VW1RSVBsM0lEckRWeFc1cmpGMGp1eWZ5bU4yVVpnUDd4aHEySjE2Q2o4Rm9TYXh4M3NLbDlfVmdWWUtoQ08xWkE1VmtfbXRKRXBqRks3bWJnOUt1WFZucWNiYXJFeldoNGpja2FIQmhIZ0lLVWlYUzM5Ym44QTFQemZUemgyZV9pQUVnS2c?oc=5",
+        "source": "Wolverines Wire",
+        "pubDate": "Thu, 05 Nov 2026 20:27:00 GMT"
       }
     ]
   }
