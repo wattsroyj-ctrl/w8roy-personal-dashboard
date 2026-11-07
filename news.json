@@ -1,62 +1,86 @@
 {
-  "updated": "2026-11-07T19:39:35.067279+00:00",
+  "updated": "2026-11-07T23:05:37.915164+00:00",
   "feeds": {
     "world": [
-      {
-        "title": "Trump Offers UFC Chief Dana White Top Communications Job - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhON3F3SlhLTE5RSUtXczRDVzZ0Y3dVdndaNG1tTDhiOVhZM1BkSmkyaXB5cmo4b25leFdTejZ0eVR3MVZNcFZvNkE0RjJieHJqS0YxT2EwX2xGQXoyVS1KeFBuUkloMEZRYXFKeHdRZHA3VUx1bElPTHR4R1JSc0JCak4zQ3c3NFBrWk4zbFpKUDRFOXlDRDhBOXJpOUZaZDNsUUxRZkhzRlpwUkZydTJOTQ?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Sat, 07 Nov 2026 18:56:00 GMT"
-      },
-      {
-        "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTVRMjc0QnVvb205Vy1ZbG9Ta0FvUEc0TFBQUmdmQWIyZnFpVGpOWTREUXF4TFBPc3Y5VF9wSTlFQ2s4MkVtRDZFdno2dGVHQjlhcEwxZFVkUXV0QVIwOVgwR3o0d1NIODJORDFIbzI4T1cxbGJxRmYtbTBkaGdGVVNFLVRrTGJsVjd0bW9ObmhoTndvTlRXZXZzZw?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Sat, 07 Nov 2026 15:01:00 GMT"
-      },
-      {
-        "title": "Great Things in Great Falls - Vermont Community Newspaper Group",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjh0T2l0UW5JLW5Dc2JXVm9maFBVQV9jM1ZGWnRLV3RheXg3S2FCbW5GaUhmeVlhWGoxTm1lY0VvOXJSYXdSTW5mb2ROVWJJaFhVNlNKVEZJQ2FpQU5XREtIaXhwN1VhUTVaVU5oZ0xYMGJKcFJucTkzNzJuWVV0THZOVzVvRTVtOFNWTDA3Um1zYkRRSURhX2I1VVFLTmRRSVotd1NUMUNUNl96RmVUZHlqc0xWbm4tZFBLbjZUQTFsQQ?oc=5",
-        "source": "Vermont Community Newspaper Group",
-        "pubDate": "Sat, 07 Nov 2026 17:03:58 GMT"
-      },
-      {
-        "title": "U.S. military carries out new limited strikes on Iran - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONS03bnllYUlGZGk4ckpGT0NNbkVucEZRT0FfeFlhbzZpbXp0aV95cFJ0bFI3LUYtN2RmT2Vta3ZOM2d2QWNOU2VFNGJha1I4SzFuZGotc1NGQXRvbTJhS255a0tfMWZCODNtMzVSOGJwWkM1OGVJZ3JpeUFRb1A5cUVhN21IZl9pWkdROTFzYXlRSEh1TldVeg?oc=5",
-        "source": "NBC News",
-        "pubDate": "Sat, 07 Nov 2026 06:09:00 GMT"
-      },
-      {
-        "title": "Judge Wants Former US Attorney to Investigate Whether the Government Misled Her in Trump Golf Case - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONExYbjVZMUtpSUI4RWdPNVI3M1RSaEZraG5VVkpOY25HbGd2NjVCd3VHb2NSQTJZRTdLcktvZEo1QlVWRlNhQXM0LW1RenhMS1QxTUdidmV4R0ZzUXZldVRnTWFNOVpZNE1Nd0hmWDdHUUdZX3JBeVlwb3lOWTlvWFdOLU1HaTJDWEtXc2NyN1RLR2VVNEUtZ3dkektJZUFCZlktdzMwTmg3SFltdmwzeGhLZ0ZXQVVXbk5wTlprUEYtUFhSV0hFd25tU29yUVNneFRHajdjZFJHdzNBelBaZTZjaFI2bmh6NEFj?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Sat, 07 Nov 2026 17:42:00 GMT"
-      },
-      {
-        "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnk5akFZVUlZNUVTWG92VmZOZFMxcXVQcHlTTl9nOUdyeU4yMzRrZUxDYXVTZ2R5eXByc1ZtUGd1YzBaeDZfbnJSYzRPcW9QeTRmNnAzbXdfVHAtbDBNRi1hMjJ4NjRYY25oMUl6aFJ3ZmJYZGx5Y0ZiWWFERkdLRWJPX1dtRk1ia05pa1IyTkhHQQ?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Sat, 07 Nov 2026 14:01:00 GMT"
-      },
-      {
-        "title": "Can't Make Heads or Tails of It: A Coin Flip Decides Playoff Spots for High School Teams in Oklahoma - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTXRhM0NjSzNxb2lVeGtxNUNJUThpcW4zOE0wRzgxUTM2NVdCU093RWE5M3VDcTJXRGFRclFtdGlEWkZqaHpKbTEzQmJraHpjc1E3cFlXOUpKS29tWFdNb2c0a05XUVJpY1J3U0hsd1l0NkVjZGNRVFM5X1FZY0lWVEpUR29fM1ZqaV94YXFqUmxHNzhjd1dTQUhSOTZFaEItZVVZYTdqY0ZsdWFqbFY2cE1FZmN4MVZkMXVHMTdMRmJPNllBT0FMN3RKUE9nZkR6Q2E5OEcwSkw3M1V0cGZxT1BmNkJVR2hH?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Sat, 07 Nov 2026 17:38:00 GMT"
-      },
       {
         "title": "Trump Orders DOJ to Look Into Democrats for 'Threatening' People - U.S. News & World Report",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTBYbjd4UUNnZEZUcGFVV1l2RDVwdkluNDRQTWJZLTBOZFRqYl8yelc4MHVVczl2YkNzbHl3UlBZZlM1WTlmeERhMW1VU0R1TjFwVmlRMUhKbTdNYUVWd3NYRjVNRnhEbC1McDVQNVlUYkRwNkRHamp2SzJmTEItNlVjTllEUkQ2SG5SVE1GYWlrR0JDOHRkcDRvUVRHYlBfNlFDdEo5cUtIQWNSQllobWV5QktJYURDZ004?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Sat, 07 Nov 2026 18:13:00 GMT"
+        "pubDate": "Sat, 07 Nov 2026 21:13:27 GMT"
+      },
+      {
+        "title": "Trump’s elevation of Stephen Miller is a middle finger to millions of voters - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclJVWWhaZHdNbFQwT1hMUzBxMzZJWUdlbEJVZVVTUGdlb2llM3FxVGtOSzdLUEx0NkpDbXJzakN0bHMzdTdvY0tGUTdlSWIwQ1M0eUZqQ1UzUldGQXQzYTZfSEloWEUzd01tQUN3RzJteVJaUjUwZjZqM3p1M1ZrX0dPcw?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Sat, 07 Nov 2026 20:43:00 GMT"
+      },
+      {
+        "title": "Trump Says He's Asked UFC's Dana White to Be His Press Secretary. No One Will Say if He's Joking - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3JTaWZ3clh1dG9QUFpzSHFYOElJak5jcDBodjlGX0RFbHctc20xY2JBWGdiM05paGU4ekN6Yk9xYnFZNmNiemJJTl9zeXlCOWQzenltaVpzS21WRTdFQmw5THNib1F5ckRSYlZlU3dSQlkzRzZpZU13dVZzWGIyLWhNVDBVM3d1VFJ0alRFeWlobUpES0dxMXd5MXlBcWFIb3lvYXF1WVp2QVRhVmdvUVZzNFIzb0QyX3lNVVFaMkFRWlA4SFVVbWhRZGZFaGd3X3NwV3Fya0lsWkV1dHdGUlZNTQ?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 07 Nov 2026 20:43:00 GMT"
+      },
+      {
+        "title": "FAA announces first US digital air traffic control towers in Florida and Alaska - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemRDaUNmbTREQ25hN1p1VkYtS1dCYzhIZmJoYWliMkZ2RFhkbGszS0pfSVZKdmpJVkkycm53d2RJb3JGOGVxcnoyOXdYaXNYQTVnamZzM3VuVHA0eXdhdXRBcjZjMWdvWFQ0djl0UHJzT1FlV2wwNWRhVGtlNmhFeU5vQ05DQUZlYVB5V2ktN05iaGhLeFJrLTlhZk8?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Sat, 07 Nov 2026 20:05:00 GMT"
+      },
+      {
+        "title": "Poland in Shock After Six Die in Krakow Mass Shooting - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGRxZ0E0SEVDZE9QaTVMdUFZZ1BkZ0ZBXzNQanRReVZtOXd2QUk2NEpLWm9rcEVmeDQwdHFmaUo0QkhzazJIU2kxWkdsQ21BMmJiRHE2dUZiTlNMMjNGR0J5WlNDbmFUM1k0UHBla09wNi1BOFBMTG4xdVZEYTB3enlLZVZWOVRCalZ4ZThCbnJ3aUpKSmtwRkhzSEdjV2ZCaTNKRWtFNTcwYnhNZnNFTnRoWXRLdWtsTnFpYWNXVXBVR20tRktEUGxma29uUVdo?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 07 Nov 2026 21:37:47 GMT"
+      },
+      {
+        "title": "Arch Manning and No. 10 Texas Stay in the Playoff Race by Rallying Past No. 19 Missouri - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZ5eFJTZVJxcDNSY2IzeHhtaTcyeEpyaHdqekZTR0lmR19CMUc4WXJQVGJCSnpXbHZ2RTVTN1R1YWF1MmU3eDlzVWoyRTRzTzNfZ0JCTEtTSHp2VnBvby1pbkotR05RMEtvNEhza1FPSndqdUVPbnJjeU1ocC1xQzFmNVVWTExqc3dVM3B2UFVqU2RRSXVRWk02MnQyTnVkQnBIX3dvYWgtR1JkRkdJWS1xcjU2dFlSWmw4NlNENTFSYzRJVGp2ajJ6VDctQ3JNRF9sRGVCQQ?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 07 Nov 2026 22:23:24 GMT"
+      },
+      {
+        "title": "Pope Leo Urges South America to Bridge Divides on Uruguay Stop of 12-Day Tour - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2dDQ1E5ZVNDWWZYdndlYlpnNmNHV1hsUGswZ0Z2djhQLXhSVUdSRllqX1ZUcHFiZlp1ZDdFbWVuYXB5SmhqTERKOWxOdzR3a1lCLWdTNllGX3RuOE9OXzVlWXNQamYteFhhVUpaMVM2RjdLNDhpS1R3UGM3YVhNUGxsOXNtWjVDOGVvbTJ2N1lWaGMyNmNGMHpqcWM2QUVZd0o4S1pYdzl5Ny1zSVMwSWdXTEN4Y3BIMkNIQ2pUR2Q4TmNPNTdB?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 07 Nov 2026 21:33:45 GMT"
+      },
+      {
+        "title": "No. 10 Texas Scores Three Unanswered TDs in the Second Half to Rally Past No. 19 Missouri, 34-20 - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVjVodzFLOEduaktZaXpmXzF1NEFIRU0yd0hjc3dwdXFBWExSQ0l1b2pMUTM2NXpqNXRha2FKR291M0F3WWN2bndEQnZQMmhlWEVrX1VhNDV4dVp0cVNzQWs3OFRsaUFkM2Z4aTViNHNqQzhtdHVNM0M1MEJEZ1dsbFNva0tOSEtaOGtPTjlFMFY0blEwNFlGUkZmZ3Z0d01UU01VeE1fVlRRZDkxZ1Q2ejZYLUFDdy1rQ21sUkQxUy1kZWdkUWdPMk04ZHhIWTN3d1owZXk0SUlTd1p3X1RaQTlR?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 07 Nov 2026 21:16:59 GMT"
       }
     ],
     "local": [
       {
-        "title": "What channel is Michigan vs. Michigan State on today? Time, TV, streaming - The Detroit News",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPb3JEUDlfSV9HcmhadWlUcWtVQWxYQVB4OU40bm9mNVM1N1dsYkw5TmJQSkZyOFV3Z2dsQTdYMHBoNlVPZnNvUlkzSjBMV25XZGhMNGhHWkNlZGcxakZVZEQxdTFqOTNGdHFlOVpndU1FYTd3QzZRZ0lpSDZua1FoQzJib25kQzlJbzJiWGxTcHY1cVJmVTFqMjhaUmFiclZZb0xqRkxUUDhoVkdxSUdYRFlDMmc3Tkp1MGtYTl9pOWxxYmZGM0xVd19HeWRFZ1phWTd3VkVVbkdZZGY4bFY0eGI3MWo3M1NZSlMwekJ5bkI5RXdXMWV0RDllN2g1UzdHSFJWZlNjMXhJR2s?oc=5",
-        "source": "The Detroit News",
-        "pubDate": "Sat, 07 Nov 2026 17:37:00 GMT"
+        "title": "Michigan football hosts Michigan State in annual rivalry game Saturday at Michigan Stadium. Here's where to watch on TV channel and streaming info. See link below ⬇️ 📸 Kimberly P. Mitchell, Detroit Free Press - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGVaMkxpR1R1bndPOHJYbUFhSEZtb2h0eng2SDVxOWdnT2laNTZHUjFqWU5laldMcjR2aGZzZmtwREthaVRNRThFZGtORjRCLUJSUEdlWnNzc0FPMUZveFROeUtxMVVGeDZ6Rl95QkRmX0lKMUVwRTR6TTAwT21wNEZ0UEtYM21LRXR5VnpTS2QwZldmaGk0Sk1WSXdKUjUtNWdFZHBGaWE1RVotQ1B4aHdxd3d1b012TUd4ODE0TEFtcHo4QnhDQ3lueS00elZOVy1aZDBmWFBRaG44VGx3?oc=5",
+        "source": "Facebook",
+        "pubDate": "Sat, 07 Nov 2026 21:40:26 GMT"
+      },
+      {
+        "title": "Gophers Close Out Saturday Action at Michigan State Classic and UTR College Circuit - University of Minnesota Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZk1BcWxiWm93U1BsZFRsTFpFSk9DT3gxbUZueGhyZy1xeEFQTlZOM0RCSmVzNjQ5NUQ4aTlsRXpGeXhMTXUzVnZtZG5KT19PWXc3THpUVWp6Nk42X1BqWG9FRWtMWTZiblpvaDFlcHJrTWdldUNfSXFvUi1BMzV1UnhrbU4zc3NqbFNnQ0lpN1k0NE51ZWtZeHZwc2NiRkoxZG1uQW1UWjFjODhNODJGamNNazZwN0dfaWd0UVJxOTRid2IzT3pWZXln?oc=5",
+        "source": "University of Minnesota Athletics",
+        "pubDate": "Sat, 07 Nov 2026 21:54:55 GMT"
+      },
+      {
+        "title": "Lions at Dolphins: How to watch, listen and follow - Detroit Lions",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEFvQTlRUVVtTkNhalcyVlRfTEszY25jM2dpaTRXdTR4N3lEUWprSXFZN2tKa0o1U0pZdzhEV3Z6NEhiZ1ViYjZGWW10ZEJPMC1mUW11dk5IaFFucjRHLXk1WTA5Um1hM0pJYjBzcmVBbEpuNVJyOW9WZVpjVk5BU0RXWDlUNmFvcFYxZE5RbTU?oc=5",
+        "source": "Detroit Lions",
+        "pubDate": "Sat, 07 Nov 2026 16:02:18 GMT"
+      },
+      {
+        "title": "What channel is Michigan vs Michigan State? TV, streaming, start time - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXk0YjJvVVRnZmRZV2NGMmxJdWtPNTJiU0JKVWhzX2tKQUJCRWhEaEQtejY0dEl0UGYxTk94T2RzMHZJXzRQRWM4QzIzeEJmX1pibjNnTHc1ZldHaFJuV3drYU91MENzZ1RhM08xYXAtZDRyaVhySnpUUWFnV2M2Si1VdFMwZkFLQXNNWTZtY1hlOWU3cG51ZUphejA2WXNxa1A3X29TUEVzM0Q4VUJNVEhkNmgyRktCalR3?oc=5",
+        "source": "Detroit Free Press",
+        "pubDate": "Sat, 07 Nov 2026 20:25:00 GMT"
+      },
+      {
+        "title": "Rockets Come Up Short in 72-64 Battle with Michigan State - University of Toledo Athletics",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmlNSVBNUFlhV1RUWlFVTUh2VkVYZko0dWQtU0tHQ0dMTnlTbG1qT1NqMVdqU2w3NmFoZ21MYUtBbTVMcVJNRmE2dmczSHRDbk5CWVFzNkN0R1FYQUx5UjdZQk15dXdYdDRQcktPRUQ4NFhCUHNJRk5kc29HQUJCcVcydmF3VDFqc0hXYm84RE0zNFhWc1pXX0lMS1VnVDIyVVBNNlV0bzdXSEpvN3JtRWhn?oc=5",
+        "source": "University of Toledo Athletics",
+        "pubDate": "Sat, 07 Nov 2026 22:57:11 GMT"
       },
       {
         "title": "When Is Michigan vs. Michigan State Game? How to Watch, Odds and Prediction - Yahoo Sports",
@@ -65,40 +89,16 @@
         "pubDate": "Sat, 07 Nov 2026 16:55:56 GMT"
       },
       {
-        "title": "Michigan football hosts Michigan State in annual rivalry game Saturday at Michigan Stadium. Here's where to watch on TV channel and streaming info. See link below ⬇️ 📸 Kimberly P. Mitchell, Detroit Free Press - Facebook",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGVaMkxpR1R1bndPOHJYbUFhSEZtb2h0eng2SDVxOWdnT2laNTZHUjFqWU5laldMcjR2aGZzZmtwREthaVRNRThFZGtORjRCLUJSUEdlWnNzc0FPMUZveFROeUtxMVVGeDZ6Rl95QkRmX0lKMUVwRTR6TTAwT21wNEZ0UEtYM21LRXR5VnpTS2QwZldmaGk0Sk1WSXdKUjUtNWdFZHBGaWE1RVotQ1B4aHdxd3d1b012TUd4ODE0TEFtcHo4QnhDQ3lueS00elZOVy1aZDBmWFBRaG44VGx3?oc=5",
-        "source": "Facebook",
-        "pubDate": "Sat, 07 Nov 2026 18:33:59 GMT"
-      },
-      {
-        "title": "No. 13 Terriers Skate Past No. 3 Michigan State, 6-2 - Boston University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVhsaHJ1Yi0wZnZWdXVwRE1iS1VBQkJjam1CbFg0N0k0dGkzM1VTaEZjZkUxeDVBSGR0OUxhSVczSVBUQWxkOTBpeGNSeFRtbDhwRnkwWjc1aU1HT0lJSU5xUzJDeDZxanlYemczSmg4ZFlhYkRwY1AtTVNUVkIxck0xYWZESmZlMnAwN3U5VUk1NzdncDkyMEp0amxYX0VTaGJHSllR?oc=5",
-        "source": "Boston University Athletics",
-        "pubDate": "Sat, 07 Nov 2026 09:11:25 GMT"
-      },
-      {
-        "title": "Game Preview: Miami Dolphins vs. Detroit Lions - Miami Dolphins",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPanQta3dxVl9UWGtUSlNmZTBSNzVBWTkxcWdleUJUamlIN1Rqb09pOWNSNGljaE1Wc2FOUl9xNko2aVlNYjA1VUZvZ1hKOWR4U1huSXU2ZWRwcHdLaEU0YVluTmRHUjY2WDBBSExvT1FXWV9HeGQzWWljTlAwMFhvTGhYdlRSQQ?oc=5",
-        "source": "Miami Dolphins",
-        "pubDate": "Sat, 07 Nov 2026 15:02:14 GMT"
+        "title": "Football Game at Buffalo on Wednesday, Nov. 18 Set for 7:30 p.m. on ESPNU - Central Michigan University Athletics",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtuWkdXNjhuMnZxT3lrcE14YVFJd0s2aUxkZ1poYVRJRnlCWWd6ODFjWnd5ZV9QVmtPUlJwMl9pVTdHVGNDejEtb1YwaXBJSzVvS0F5dWttSmNJY3Q4VTAzazcwT19JZGIwcHJubjhHUkNFOWFsZS1HOHRGVHBLV1lPYmtVMm45U0tpdHZ2Q0xTemFHbWd5eTIyZ1RNcVZQUDdfU3pfVks3RjNfT0E?oc=5",
+        "source": "Central Michigan University Athletics",
+        "pubDate": "Sat, 07 Nov 2026 20:10:43 GMT"
       },
       {
         "title": "Pressure on Kyle Whittingham: Michigan Loss to Michigan State Could Force Wolverines' Hand - Sports Illustrated",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR3NUcVNFb0Y3SXl3TV9XUE5pekpjTWZFeEd1b2w5NjdaZ2xDM3lBWVd5THBQOWIxZ3F6d1RRZ2VhV3Z0UTRoMkFZX0U0UGhUVmVVWlRUT3lGQ0x2djJSeklOTnNGS0U5Mk5yVTRXT2JOXzUwbG9JQzIzVWhyZjZrNTR6eWZ5bnNMcURrTTdKeFJncWFQUjF0N1EtNlJ1QTl3S1Z3UlgzNnR6ajBxdDdUajRiRk9CUXE1a0w5MDJoYmNwNWVtUDZtU1FMSmNxQQ?oc=5",
         "source": "Sports Illustrated",
         "pubDate": "Sat, 07 Nov 2026 16:45:00 GMT"
-      },
-      {
-        "title": "From near-record warmth to freezing temperatures: What Metro Detroit can expect this weekend - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaWxqVFJDdEg2TXRoVUg5c2ZPdkE3SHpQNVNoVGxkQTZuTXBYVUdvZkFoSzhxZjlvUHpNOUhteVpZbFBPVGRmbWZTMnQtMUxIRjU2SjFZTnVYaXE3b2VFOTVFYkdHM1Q0cGh0WTE2Qk1KYjhpMWU3VTBuaVg2bVliRVNPQUVUa0lGeVpibWZWVUpzbXIzSW1KSFVhRVlJN2c4R1BqM1hBSzhtYnY1bjhKZGpSVlB1U05henhrZWFKcEJadUx5OC1IOUNOMWV2cjlmQXRrSjZzS2RBQQ?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Sat, 07 Nov 2026 17:43:13 GMT"
-      },
-      {
-        "title": "Michigan vs. Michigan State odds, picks, predictions, spread, line: Saturday college football betting preview - CBS Sports",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRDBXYWM2bFZuWTUwZU0tQUxqYXpPdWJkRTJfOXZSWXVvZjNHdmVRSjhiQWpuTDJpa1dCN1Z2NlZiN2tHQVA2U1JUN3lmSXZuVmNOY28zeWNwY09lTnFqT0FiOWl4RzlTUi1OOHdxNWFiREMtZlFrRnVjbjBJUDFzakF4ak9hdnl2U0czWWFJd25oeFBWTkZORmZsRHBaOHpsTzFXaFdmNFp0Q1lkS2RBRlY4MG1KRERiR3Yta0xsbG5FdGpWME9kbDJ4VU5DUzJGbGZNRC1LWWllcm8?oc=5",
-        "source": "CBS Sports",
-        "pubDate": "Sat, 07 Nov 2026 14:54:16 GMT"
       }
     ]
   }
