@@ -1,54 +1,54 @@
 {
-  "updated": "2026-11-07T09:06:23.294026+00:00",
+  "updated": "2026-11-07T15:41:20.420374+00:00",
   "feeds": {
     "world": [
       {
-        "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+        "title": "Melania Trump and LSU Are Set to Announce a Scholarship Program for Students Who Were in Foster Care - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaUEzcV90Y2d0MlhLY0h4UmJpdmw5Tk52cEstcF9oM25hMmJKUlRaYlZDTmJaNWQyX1Z1QWM5anZIZU55bE96Wm1TOTNTSnVMeTRtdm5oYTFjR1VYR0dzbU9DVUxkd0M5TVdrem9DNnFJMlBaQVFSU1RnOEdzUzdnWC1haks5TnlkTnFkSTJhY0hXejVkNnY0eGowZld1bzJja0Q5NjZMVUgxekotcV80SlJYemY4b0c0TTBGMlFKeUdzdTNlVi16dHpESnNWSXctSHhDdDBJWmlCY1JQM2IwQXlYUkpfdUh0dzFhZGV3?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 07 Nov 2026 13:19:00 GMT"
+      },
+      {
+        "title": "U.S. military carries out new limited strikes on Iran - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONS03bnllYUlGZGk4ckpGT0NNbkVucEZRT0FfeFlhbzZpbXp0aV95cFJ0bFI3LUYtN2RmT2Vta3ZOM2d2QWNOU2VFNGJha1I4SzFuZGotc1NGQXRvbTJhS255a0tfMWZCODNtMzVSOGJwWkM1OGVJZ3JpeUFRb1A5cUVhN21IZl9pWkdROTFzYXlRSEh1TldVeg?oc=5",
         "source": "NBC News",
-        "pubDate": "Sat, 07 Nov 2026 00:10:29 GMT"
+        "pubDate": "Sat, 07 Nov 2026 06:09:00 GMT"
       },
       {
-        "title": "Iran War is One ‘TACO’ Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pYmdDNHlwVE5HeWF0T2FkRDQ0SmhVeUxwVDZ6YXd2bGxXZldGYTR2aEN2bVY3d3Rad1NaYXFQYzJGNzJTVl9HNDhtd21ENmMxelBpSHY2M3cxbjRHUGZ6dzVyZVRaalV6WDZKSXVyNWd1TEFncWlN?oc=5",
-        "source": "EnergyNow.com",
-        "pubDate": "Fri, 06 Nov 2026 22:54:46 GMT"
-      },
-      {
-        "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhQNEhVWUJ5ODk5MkxWbFlVZVZVUnU4dGxYVWJzdTh2R2x1aHdSd1pkVHlERGNod3JCOEVSWVIxdC1SbHlRX0RPVGM5UkVCTk5KR3RWb0lWczUza01JWkNwNU93ZnpKV1pGRHk2ZW1ZZExxeGEzYW5qekxFM2dRZDhFUWZ0MzVka3RYajRBVU96cWlDTWhvM2NpVm85YTlZZm5JdkxUQ3o3VVVFUzFR?oc=5",
+        "title": "Black voter turnout surges in US south despite Republican redistricting drive: ‘They could not stop the momentum’ - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDFEeHBkdzhGYnA4eWcwbjR5Ym5ZZ01sdEtYSEltdXFqLVd1aHFpZVd1aFhDZ2JKTVUyUWdvUEtkakt2NWhvY3JvOUppSDNpNDJHSlpCVTkwSTNZcy00eVg2bC1XQm9WMUlSbllKNEdvRnExZ2tLMGd0Vy1RWm80Ui1ONTROSi02NEE?oc=5",
         "source": "The Guardian",
-        "pubDate": "Sat, 07 Nov 2026 03:26:00 GMT"
+        "pubDate": "Sat, 07 Nov 2026 11:00:00 GMT"
       },
       {
-        "title": "As COP31 Comes to Turkey, Satellites Reveal a Landfill Methane Problem - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0RNSnRSN0Zob3p6ZmFaTTZMRHF3Y1drMm9MT3BMbW5sWWR3X3N0V3RiYTNpX3dVNm0zWXo3T2t2ZE1JMVBoNVBoRGEzX3laM2tCSW9NZzRvS0ZweExGeE5pLVRyalhVX0g0dW9xejlxWktqRjNENFRXcGktTUV4ZmYxcGs5NmFWNFZVZ0x3eXhUUi1aUHE3SDlsMEQ5RWNXV3Q5b0xWQzRIckxyMDQwM3QxSEd0UUstNV80LXY2THI?oc=5",
+        "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’? - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
+        "source": "Al Jazeera",
+        "pubDate": "Sat, 07 Nov 2026 08:51:56 GMT"
+      },
+      {
+        "title": "Trump’s Grip on His Party Is in Question as Republicans Reel From the Midterm Wipeout - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVXd2X2I4YTJzNDRna3hXNzBhN0t4endudXlWbzQ5UTJveWN3VnE0M1NxRGZicldOWV9MaWpVQ3gtT0lTM3U3bXNOTFRUdWt3THhHYURTOWlwUk8yR29PNnQzbEpUZXM2RXo2aDVIWUVIWVFpY3BHbFBIdjhpS1R4cHg1MlMwY1ZnMXRGVlFXaG5tbG82YTZrYlZBNTQxa0dwVzlDWlBLemRlREYtM1YyMWpVbjFqaXFXQzdHbWJQYmpIejN2N1pPTjJNb3JWLW1BUEoyWDV0OFE?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Sat, 07 Nov 2026 06:08:00 GMT"
+        "pubDate": "Sat, 07 Nov 2026 12:49:00 GMT"
       },
       {
-        "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force - UN News",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrckd2V1JMLWpNY2NBd0ZjaV9PRTlvU2JvM3ZrNUZqTDB1cXhKM2EwZWVKN2E2eElEdGRtSWxFTk9fZzRYVE1zSW5JdjdPVWdaTURWMjVXQQ?oc=5",
-        "source": "UN News",
-        "pubDate": "Fri, 06 Nov 2026 20:55:02 GMT"
+        "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclJVWWhaZHdNbFQwT1hMUzBxMzZJWUdlbEJVZVVTUGdlb2llM3FxVGtOSzdLUEx0NkpDbXJzakN0bHMzdTdvY0tGUTdlSWIwQ1M0eUZqQ1UzUldGQXQzYTZfSEloWEUzd01tQUN3RzJteVJaUjUwZjZqM3p1M1ZrX0dPcw?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Sat, 07 Nov 2026 13:02:00 GMT"
       },
       {
-        "title": "U.S. News & World Report Ranks Porter Traditional School No. 1 Middle School in Northern Virginia, No. 2 in Virginia - Prince William Living",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUURwcjRObkQybXQzTUNKSzR1TmxFRjNlb0xVemNsbGZMSnYwT1RSVjN6U3dhdXptNDhuNExROHVhZXdQSEtzeWtPWlhmRDZhNjlNLU1teUJDQTF1V1BEblVWbzNwRzhnU19xYlNlcUlnRy1MbXhqSno4ZEdlS0hfaGZRRHRHYnUwYVk4OUMxRHBZZEZodm12dnlWQkUtSzdGRWxVWjAtSk1QSG5lN2xvbjJXVDlxSktKajk2VGtYWWVYN2E5OG5SeG1veGpCTU9veXpuOE5SZHFhUDA?oc=5",
-        "source": "Prince William Living",
-        "pubDate": "Fri, 06 Nov 2026 23:18:39 GMT"
-      },
-      {
-        "title": "Qatar Says Its Mediation Efforts Between US and Iran Continue to Prevent Escalation - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0hVb3ZBZW9UTTJ3VnhyOUFqeVd2WEpVbXhsR0xFY1QwUjkyRlc4MXI4bGJDRDhHdHhudkZHQUlEaFlHZVUyd1UtUDFmdkIxSGtiLTBKZVF6bU5LVGNJcFJpdERiRFBZLWlpT2tqX2FJMG0zV18yLVJ2aUNzbG9nZmFuS3RaYUpIYllRQ3FMS0FXVGtsZDJWY1BEZV8xRFVPQVVCNDZRVlRvMXlSY2RCeG1yYnh3MWl0QlN5S2lYSElwRFhSdmREc0tHT3o5WVVnSnVj?oc=5",
+        "title": "Pope Leo Urges South America to Bridge Divides on Uruguay-Argentina Border - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2dDQ1E5ZVNDWWZYdndlYlpnNmNHV1hsUGswZ0Z2djhQLXhSVUdSRllqX1ZUcHFiZlp1ZDdFbWVuYXB5SmhqTERKOWxOdzR3a1lCLWdTNllGX3RuOE9OXzVlWXNQamYteFhhVUpaMVM2RjdLNDhpS1R3UGM3YVhNUGxsOXNtWjVDOGVvbTJ2N1lWaGMyNmNGMHpqcWM2QUVZd0o4S1pYdzl5Ny1zSVMwSWdXTEN4Y3BIMkNIQ2pUR2Q4TmNPNTdB?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Sat, 07 Nov 2026 04:23:00 GMT"
+        "pubDate": "Sat, 07 Nov 2026 14:07:10 GMT"
       },
       {
-        "title": "US Gasoline Prices Tumble for Sixth Straight Week - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXl2cVQ3MXFsOXJ5Sjhac0hCMHBFSE8zYVdTWTkyTHd5MlhTdE1WaFpuS3VyREdkSW51OUNwaFhPZ3B6cEZrTUhIRW4tSjBpY2VoeXhfMjlSZFBKVWszdDhfYlJFTDE1ZmpfVjJQc2lZNnVWZjQySXZyeS1GcmlPMF9QanRqRkU?oc=5",
-        "source": "EnergyNow.com",
-        "pubDate": "Fri, 06 Nov 2026 22:19:48 GMT"
+        "title": "Nithya Raman to Take Charge in LA Amid Homeless Crisis and Political Division - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGxRNFBXMUw1dFotZWlrRWtLa3lRZGFqVjRGOHl1amRLZWIwQWYwbmtYa0pmUDlGaGs2clFUQTBLc3NWWEhWV2p6anBXdHM1aG0ybENUVklESG9QLVlLUHJUUTgwOFFyS1pSVlNocE0tNjNaSTduOXdsN1lwZ3laWkZoR0pLVXB2LXNnRDlON3psODNQeGo4ME1aNk0tWjZ2eTBXTURlczd3UnplTThsUWRRSlN4SDRqb1VOMUd3WFY3di1RRVFMMFIwZFBpLUE?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 07 Nov 2026 14:55:00 GMT"
       }
     ],
     "local": [
@@ -56,49 +56,49 @@
         "title": "No. 13 Terriers Skate Past No. 3 Michigan State, 6-2 - Boston University Athletics",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVhsaHJ1Yi0wZnZWdXVwRE1iS1VBQkJjam1CbFg0N0k0dGkzM1VTaEZjZkUxeDVBSGR0OUxhSVczSVBUQWxkOTBpeGNSeFRtbDhwRnkwWjc1aU1HT0lJSU5xUzJDeDZxanlYemczSmg4ZFlhYkRwY1AtTVNUVkIxck0xYWZESmZlMnAwN3U5VUk1NzdncDkyMEp0amxYX0VTaGJHSllR?oc=5",
         "source": "Boston University Athletics",
-        "pubDate": "Sat, 07 Nov 2026 06:51:25 GMT"
+        "pubDate": "Sat, 07 Nov 2026 09:11:25 GMT"
       },
       {
-        "title": "No. 5 Western Michigan ties No. 10 North Dakota, WMU wins shootout - NCAA.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWctSU1zTWxvV1VldmtPZ3ZreXJFZGMyRXhiN2tudk03S1Y5dzU0RTBILUM3UElqTDd6TksweXNpendyanQ3OHVreHFRWWdfMFVjV29BbWprZG16WENmTDBWMXJKcGJXODV4OWZDb3dTdzA3QURsNm9pN1ppRkVkSTBnZ0RDOE9FajRxVmZWN0lLaEZGa2xOTjVqbVhoV0NlSWdOT2RscUVUcWdzM2k3bm5kckc?oc=5",
-        "source": "NCAA.com",
-        "pubDate": "Sat, 07 Nov 2026 04:36:12 GMT"
+        "title": "Game Preview: Miami Dolphins vs. Detroit Lions - Miami Dolphins",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPanQta3dxVl9UWGtUSlNmZTBSNzVBWTkxcWdleUJUamlIN1Rqb09pOWNSNGljaE1Wc2FOUl9xNko2aVlNYjA1VUZvZ1hKOWR4U1huSXU2ZWRwcHdLaEU0YVluTmRHUjY2WDBBSExvT1FXWV9HeGQzWWljTlAwMFhvTGhYdlRSQQ?oc=5",
+        "source": "Miami Dolphins",
+        "pubDate": "Sat, 07 Nov 2026 15:02:14 GMT"
       },
       {
-        "title": "Wolverine meets Wolverine: Hugh Jackman joins Michigan football - The Detroit News",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQko5Y0VnMTY4ZC1nNFdPaWY4YmhxS3RtSTAyS3Bub3R3NW5QWUN2OHpBRjZscm5Ndl9UODlvUjVrVmRlRVZTdHU4QnhmZ3p1aUtEay1vQTNkLWhhSDM2TmNCVVpiNk9Xbnc4UkluMEtlNEtNMmU0OUVQckUyOXdoNEZyMFhZcFdZT2dNdUxhaEpwLWR5eFFTVEpZRE9GUGUzd1Y3LUQxb1dfOU1hcVVvdVZXXy1WR0lmdVM5MHVURjlab1o4a0ZReV9fYkFFV2FLZEgwVHJRLURZSXN4RDlEM3YtU2g0RE5Mcl9lZ1RHUEdUNXJ0Sm1pdnhSbFM?oc=5",
-        "source": "The Detroit News",
-        "pubDate": "Sat, 07 Nov 2026 02:16:00 GMT"
-      },
-      {
-        "title": "Live updates: UConn men defeat Michigan in top-25 matchup from Boston - CT Insider",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUF0YVIyYXRWLUdzS1VLX1Q5QVdYWnIzTGJMNmJDeE9vUGcxdVhXMk5PdmtfRXVvSFFIemZwUlRVN2lCWVJ5VGIzZmJoZkcwcmlsNXdEeHBpTTktS2NIakpoWlJ3ajE4b3k5NEUxOEFIYWVXZEwxMWRBYkFEUDdnMzZmSnhrRUVrblZfbEY3YXpORk1sc3BNNTBmV252OVdBaVdRbGRaNlV3Um0yQVR5a2M3ZEViRzRpQ3VCRWJkMm9yUQ?oc=5",
-        "source": "CT Insider",
-        "pubDate": "Sat, 07 Nov 2026 03:19:57 GMT"
-      },
-      {
-        "title": "4 Takeaways From Michigan Basketball's Disappointing Loss to UConn in NCAA Title Rematch - Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVZ6NE5GUnR0ckJOZk1ibWVjV01zRDZHN1lIYkcyNWN4NWF5a2w5a1NvQW0weGU1VGdHLXNkdTBWb0UyRFZvSjl6ekIxWXlxVXBFVHptZWIzd01VRVFDOGpiVW5CUGNGQll5SVgwNmZVeWpVY29RV25CRmduRzU1ZVQ0Ty1FamFmNUJuZmFoZzQwTGJZdGF3akhjTUc5SXJGTzhXYlNDVkhyems4NDBOS2hQcDJqNzdvcHJTR3pDb2x6Skk1Sll0cDNOQQ?oc=5",
+        "title": "Detroit Lions 2026 Trade Deadline Tracker: News, Rumors, Updates - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOVNtNEJpQXRuN2dYVzdaNkJlalZ6RWFJSlFKWnluMl9xUy1YNy1JaTc4N3pFT0UyWmdXX2xvYThhWHJpQW5KN1Y5SHgzOElzQ3JHcUhIYnZRZVU5VGZhcDZDTGY0NFhHVDg4cjVNbUJKZDRRUWFLLTNubGlJYXZlTVNXWWtBa0RUenBKVThGUERIMkY2eTlUdi1XRQ?oc=5",
         "source": "Sports Illustrated",
-        "pubDate": "Sat, 07 Nov 2026 03:35:31 GMT"
+        "pubDate": "Sat, 07 Nov 2026 13:19:36 GMT"
       },
       {
-        "title": "Lions at Dolphins injury report: Nov. 6 - Detroit Lions",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXA2NmdwV1gyREFsSkNxekY3NFl6ZEtlU3VkTUV5dFNHdzZEQUJWdGFuVUszd2N6cjItYlFkN1lFanEwRVlvbWJUMXlCNVM5Q1Nzdi0zREd2cEtYT0hBVXIyMTRxWWJ3NUpJb0JsODYtNXd0VzhXa0U2YWFsa0tXeGROalRnS3N2VFN2RkdZcEFTa2xUdnc?oc=5",
-        "source": "Detroit Lions",
-        "pubDate": "Fri, 06 Nov 2026 21:01:58 GMT"
+        "title": "What channel is Michigan vs Michigan State? TV, streaming, start time - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXk0YjJvVVRnZmRZV2NGMmxJdWtPNTJiU0JKVWhzX2tKQUJCRWhEaEQtejY0dEl0UGYxTk94T2RzMHZJXzRQRWM4QzIzeEJmX1pibjNnTHc1ZldHaFJuV3drYU91MENzZ1RhM08xYXAtZDRyaVhySnpUUWFnV2M2Si1VdFMwZkFLQXNNWTZtY1hlOWU3cG51ZUphejA2WXNxa1A3X29TUEVzM0Q4VUJNVEhkNmgyRktCalR3?oc=5",
+        "source": "Detroit Free Press",
+        "pubDate": "Sat, 07 Nov 2026 09:59:00 GMT"
       },
       {
-        "title": "Toledo Posts 3-0 Sweep over Eastern Michigan on Career Celebration Night - University of Toledo Athletics",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnlsUF9FT0pLaVpXTFRZSDJWcU8waHN6N2Y5X3pRcERWb3dHSFpmbHlNNGhaNDRLR1FhLVRFYUtmLTIydkJGNENlTmlSczQ0bnVfOVlTaVRqaTEtRVRUUDNjcmZEc1cwQVVhWl9JRzU1MkNSV2s1a1MwR0ZxM2cwRXJTYzlCSnQ2RFlqUXB3eFc4ZjBiT3hLN3VzMG9ydV9sblVoVG1aUEludFVxT0NqM0FiNEt5ZThkMDZ0S3FyZGR6aG5GVnc?oc=5",
-        "source": "University of Toledo Athletics",
-        "pubDate": "Sat, 07 Nov 2026 07:48:47 GMT"
+        "title": "In case it wasn’t clear, UConn shows that Michigan is a new team trying to find itself - MLive.com",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTFBpTWFsTWNxT1RydzdPSXYtVDZqWUt1X1RsOXhlalJQa0ZEY2RsZ2l3V19CRnR1OElhWmhsRW1yYkZrUXMyaDRnNkZOOVpqZzBHd1NPWEF2b1lhcmdhd3JJUkMzVW5hUzh0TEU3QmljdmJuanJhZFlteFVrc0hwR195M0lDWjFPWDRPUXo2QTZ4WUNFazB2REw3Ti00Z1lFS2FvOXNlek9ldHdKM2RfRTRzX2pXczhkd2ZzM2g1UXVfNmN5Uk5JUTE1ak1PaFVqOS1KLTZRUHjSAewBQVVfeXFMTTBHd3ZDYzkybm1kSTNpcldhRkNvS2xfbE8yX2E1SnlJVU1ORTdlckJpMGRYZjdmanpHYURyUlUxZlcxT1VRdFh1dE1MUVpIWnVOODhOenBTd05tZUFqS1cwdjE0ZlZzTUhMMWNxczVfLTVZM1JQdEpyNjlYR0tEbGUyd3ZLS2NKRmdnS05INUVpTkM4ZVV1Yl9NWTBEZldYRmNlUUJ5N1JSZmN1S1FHRkFpOVRTRDhUd0dWLW5lVmhjeERvZjZjY1BrWERJUEtqbW4yV2U5cXJjWjZ0cjdUXzR6WnRBVnNfN0hUTkw?oc=5",
+        "source": "MLive.com",
+        "pubDate": "Sat, 07 Nov 2026 11:22:00 GMT"
       },
       {
-        "title": "Michigan high school football final scores in district finals - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjlZTGoyZF9QR3czRGxPT0JYY2VneWQxVEZNQm9hNDJzNkhQbmtrd2Q0TzFPWmdGOEcyd1NsdmQ4bXQ5ZDhLOGMtNzVwNTM4ZTI2Zm9zU2ZzTzZ2b2xfQ3QwN2h3TkZOb3RpMjV2QVN4a1dMSWJtbm1zbnhjTEd5Q3ZNUTh2ZmJxRjZUVw?oc=5",
+        "title": "MBB Minute: No. 4 UConn Takes Down No. 16 Michigan as BIG EAST Goes 4-0 on Friday - Big East Conference",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDg4WFdmRmRuXzNpLUZza1VjRWNHa1VBVWNiWHd6XzJIanZZajU5WThPR3FoZEdHc3hURlFIRHVvRVNWRGpYOTFPeWJWencxa29RZVVPenc3ZF9vSFhjVjRXN0UzV3BOWFNqRnlUSmlxVFdiVE5mdlZ4SDdKYkk5Nk9wNWZtcnF0eWNWZEVEal9WTERteDJmQU5fTjBlV2VEUlFHaXZuYmZPNUhSSzhabGRIUXJpMVhMR0tLbjV6RG5rRmp3TFR6UWdPWnA0Z0dNQXhjeg?oc=5",
+        "source": "Big East Conference",
+        "pubDate": "Sat, 07 Nov 2026 13:13:57 GMT"
+      },
+      {
+        "title": "UConn vs. Michigan: 2026 Hall of Fame Series men's basketball highlights - NCAA.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOalBLUmo0eG9uMGp6VE1jTnBuZE5jSVppWWtWTjJYV1FuWEx5YlpaWldrZm0zSUxPVjdObjk5V3gxRzBxSWJwMzAwRUNkS1ZPanJIS0NpbE9EMFNrd18xVmlfNUhneEkwbXdabnlrQ3ZOTVI4WUg3Zk1wYklIdjIxc0xCUHgxYlhDbmZlWFRDaHFEc21icWdfLWFTTDljcjZ2T29NVUwydVYxTjhDQzkyWWdRUThqaVdXS1RR?oc=5",
+        "source": "NCAA.com",
+        "pubDate": "Sat, 07 Nov 2026 03:48:48 GMT"
+      },
+      {
+        "title": "Detroit Lions @ Miami Dolphins: Live game updates, stats, play-by-play - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HTTlFbTZQQ3UyYTFjODVhbDMwRGZqLVR2aVlQeUhQWlI4QzlkTG1tMk1JeXJEa1Y1Qy1salc4alFHdThESVdjMjRHd3UyM19aV1ZuVjRnLU0ycGlPMS1QRmZZZGVNeVhEUWZycm1MRDJVc0xYYVJ4ekx3?oc=5",
         "source": "Yahoo Sports",
-        "pubDate": "Sat, 07 Nov 2026 03:02:00 GMT"
+        "pubDate": "Sat, 07 Nov 2026 14:03:24 GMT"
       }
     ]
   }
