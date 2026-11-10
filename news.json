@@ -1,18 +1,24 @@
 {
-  "updated": "2026-11-10T07:47:09.053577+00:00",
+  "updated": "2026-11-10T16:18:02.140654+00:00",
   "feeds": {
     "world": [
       {
         "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
         "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
         "source": "NBC News",
-        "pubDate": "Tue, 10 Nov 2026 04:14:29 GMT"
+        "pubDate": "Tue, 10 Nov 2026 10:28:52 GMT"
       },
       {
-        "title": "Fewer Northeast Ohio nursing homes make U.S. News’ best list - Crain's Cleveland Business",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWhJcGpCYXVjOXN6d3Y5WGc3RjlUVXdaZzBhQmVYZk9qQlU3a0JSTUViUXY1QUgyZVJTbEQ3RGtZdTBtNHd4N1BWSG9EWXJUMU10cmxXa1dLeVgtT0JaWWFDYV9YLUNFRUdZTjB0U19YdG12V2VxMTVQWExib2FEaGZqSlFfNmp4dm8wSg?oc=5",
-        "source": "Crain's Cleveland Business",
-        "pubDate": "Tue, 10 Nov 2026 05:01:00 GMT"
+        "title": "Tech’s biggest names sunk a tax on billionaires’ wealth with $425m and a familiar playbook - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXJRQTdZeFlsdlJGOENpVU1qa1VLZ3JyemQzR2dYZnZadDJBaU9NWVVRdFpSbGhlaWZRbXZIeTNDVlV2RWxwSkFXaGtLY0JQbU43X05UMjUwTE1JaDlTVDhFSlp5VzRtVXZLTVkxOUVCYnRiS1BobHNDNlFsTjQwaHlnUzlsYV9uZklhYWt3?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Tue, 10 Nov 2026 13:21:00 GMT"
+      },
+      {
+        "title": "India, US Continuing Talks to Finalise First Tranche of Trade Deal, Official Says - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYVNNZnlHY1dOcDFDaVJaaENDS2pFQlJWem94ZlBzVzVTYjV6c0ZGOHEwWU54a0o0VVpTYkhjQWNSN29NNGFMSjVvZ2plQm5IV0xrRlhRTm5LTy1pXzlBQjZzeGRZckk0Z3NfMjI1MVBnai04UUFUaDFSeDBnTk9YNlg0QldZQ1NIM1dsNDdSV3dQbW11bngxZXo1VWNvV1ZGQkdJRENJQXBDdXFSU3psNHEyQ0k3ZFREWmg0X3dpM0lZcHBKS0FGdWt2Y3BNd1o3U0E?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Tue, 10 Nov 2026 16:01:00 GMT"
       },
       {
         "title": "U.S. News Nursing Home Report: ‘Encouraging’ Staffing Gains, Troubling Depressive Symptoms on the Rise - Skilled Nursing News",
@@ -21,84 +27,78 @@
         "pubDate": "Tue, 10 Nov 2026 06:03:00 GMT"
       },
       {
-        "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZU9DcnBLNEtJYkt0clh3UFlrcGxkMkJLcmhVLXk4QUl2ZU5mMzQtaDVsanRFcnk5WklaZXVIVlh1WTZWVzd6YlBsakxNc3hMM1lKOVdHYnpkQy12RURveUNxSFZnNGlsRWRlOGVqdld2X0lmMFhkbGlWMG8zVFRMbUFzZ3FXTFphaWNIa29SZ0VxYVhpekE?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Mon, 09 Nov 2026 23:48:00 GMT"
+        "title": "U.S. and world news for Nov. 10 - Westfair Communications",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyR0cxbndrTUtUQWZrZWppVERtcHVSZEdsN09MQWVjeHhfNXdLZDBXaWpwY1NscFMtcXl5TDF6QTRSMGpfcF8wdUhzdnFocXgxajQ5UzJqZ19XcE9JZEU1VE1PNUFnc0t0MUNzSXM1dE5HUktlaElIb1h3?oc=5",
+        "source": "Westfair Communications",
+        "pubDate": "Tue, 10 Nov 2026 14:30:47 GMT"
       },
       {
-        "title": "Using expanded criteria, US News names 18 percent of nursing homes to 2027 ‘Best’ list - McKnight's Long-Term Care News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnEyOXVYOWN6RGlMZVpESE40LVZhSGpNRTRETlM0OXRTWENCWGlQeEFCc3RRTG9iQ250cnFGR25DXzNsZHRQV1BtQUNlQllvQVRkX1ZTekJNTVRIUEtaQWpkNC12cnN4dlUtM2w3RkNkZFV1YWxsZFNMMmFQSEM4NXVOelZwQVlITmdvbUU3bVVmUTVVa0UtdUZyUmdvVk1FbmJhTklkdTB2ell4c3VRSnhORkFQZw?oc=5",
-        "source": "McKnight's Long-Term Care News",
-        "pubDate": "Tue, 10 Nov 2026 06:00:00 GMT"
+        "title": "Here are the best-rated nursing homes in the Charlotte area, US News says - Charlotte Observer",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVHV6YnJ6cGpWQml4eWRGeVpQQThNTW5ISXNkMUktM0YxQ1cxUk1CZjBNR3BZblJJTHFORmdBZ3JPazAyNVIxdDBicnhzZTJnYjk2OU8ycFVzeVdCejZuOVMzMllpSXNmVGtWb2R6RjZpcXRnVUxIeFQwamhHOGktQVhkRGF3ZHPSAYcBQVVfeXFMTnlMQTlHbnVaamN0Sk1OQWxwNER4TVY0cXNOOWJlWTZmcW1xQWxTM2RyLUZYLXM2aDNLUjY5Rk5HSHR1SERKbFRScDNVVkw1elZSMzRTbEJoazM5SC1IdnIzN3d1MUE5a0VTdWRNanNicDUwcVptb0w1aWJHQUJfS3dLRVhBTjMw?oc=5",
+        "source": "Charlotte Observer",
+        "pubDate": "Tue, 10 Nov 2026 10:30:00 GMT"
       },
       {
-        "title": "G7 Attention in Paris Turns to Ukraine While US-Mediated Talks Get Underway in Abu Dhabi - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONkVXeDg2T0JyLVpHdWJ3MEdtT0J0VUQ4dlpmWVNfamR1TUc3QVhYZzlaaVBZTUdpMG40TkJPWkRlenZoaE5YdWlfZWhUMnRCWWh5M1V3Q2N6cGt3a19LTlJTY0FKck5CQklBT24wTE5ldmU5SkxXeWxmUkZudjQyZFdSckxOYzZfN01ab1VldE5PdFhqNlFQTXprTXRnVXlsaERsRWtnQ01ac1pVaWkwZldnWUkzbWlReGZ4UXdkSFJxekpOWk5tdEFxazJaYnFoZGJCZkNuYTZIMnhyN3c?oc=5",
+        "title": "Here are the best-rated nursing homes in the Triangle, according to US News - Raleigh News & Observer",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xMWhndFBHRWtwQjJMcngzYTNmb2NYTEgzZEtnZElmbjRVdGg5ZDJZbXhtcXM3SU5yRWowMlNOU0RabThLQXctU1pCSzY3UWdDYUtpdVZ5Y2ZCSElXRmRZNm5tOWhTal9NV0t0dm1B0gFuQVVfeXFMT3VLeGVoeVZXcGl6NEUtVFVndnJZS1RjQ0JWZk02MWVDNlFFcDNGZnJBR2t0bnJUVlV2UmdWOVpzazRlaVFrM1pIRnlRa0U1T2dzc3M3ejVkbVNWclJIM1NiYTN1NmQxbXBJcEFtN3c?oc=5",
+        "source": "Raleigh News & Observer",
+        "pubDate": "Tue, 10 Nov 2026 10:30:00 GMT"
+      },
+      {
+        "title": "Press Forward Completes Nearly $600M in Journalism Investments About 2 Years Early - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTHdhQ3V5M1ZCRF93WHkyYmlBTkVQdy1OX2tXQkNYandpSW5QQWpXTHJvUFU5UVY0TTRmQzZxclRkeE8wWjVHVHFrU0JzUHkyd1dnaFRRQnBEWFVwbC15QmVDcDhEODAxZEwwXzJPeENYMDNlMG5GRjhFVjhpQ2lCQUhvZmFpdTlwdkdZNjl1ZkZnbGYtNHBlbVd5QzJ1Y01fY2RaNV9jMkNuN1ZXOC1RSFB1VHlYeVo5UGRsNmFnWWxweEE4cVlmUjgtRG15SkkycGJWWA?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Tue, 10 Nov 2026 05:14:00 GMT"
-      },
-      {
-        "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates - UN News",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SdVpvLTl3Qi01N0RVTWxpRXZJdkg4ODlRa2NIRmZDWXlreTYzc3Fac3NMWTh2NFlwMS1POVlaTVVlUWVxbF9tUmI1OGxEQWdsektXdE1UQQ?oc=5",
-        "source": "UN News",
-        "pubDate": "Mon, 09 Nov 2026 20:59:09 GMT"
-      },
-      {
-        "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aVVBM1M2V2JiUGZLeXU4Xzd6YmV3RVNpVnhPM3U1bFdPYmRUcjNtc3d6YldOczdHNmN4Umx5MmU4eldmbGxSTUdBSW5DaU9xUVRqQ2E4UWZ3bzhjaXE2MFg1TEVkUGtENzllWU5XOA?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Mon, 09 Nov 2026 23:12:00 GMT"
+        "pubDate": "Tue, 10 Nov 2026 14:06:20 GMT"
       }
     ],
     "local": [
       {
-        "title": "Michigan’s Kyle Whittingham makes head-scratching NIL comments - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa01CdkxlUzJPRm9sUDdHNnplbGo3WDFUMWd6UU5hOWEybTEyNHI3SWpObUFyVzZRVmxVTUZkZ05majJrVHVBM1dBNTVGZ2ZJTkthU1dHcTBCalI4ZWU1am1qUXY5YmJQT01NWHhreDMzSEpGdC1WNW5EX2NUZVpZWG16SFc4SmI1QlQ0MTBn?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Tue, 10 Nov 2026 04:23:00 GMT"
+        "title": "Detroit's PWHL team set to make 'special announcement' today - FOX 2 Detroit",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHg4MFVVYW5uVlNSZ3JUMWx0djJWNDBYalZSbEMzTzhubVpCN05PX3dUN05GdW5PenpEN25xNDRTNGtNR3BkNFJwOTVieGFIdFBtMWZxWXg1TlpqX0ZLUXc5Q1p2cGN0U1R2elZzaE5LOVVFcjFLeWozQUE3U2NZTVJ0OFlUSWoxTm5mcF9ZS3E?oc=5",
+        "source": "FOX 2 Detroit",
+        "pubDate": "Tue, 10 Nov 2026 12:29:03 GMT"
       },
       {
-        "title": "Football vs Michigan State on 11/7/2026 - Game Center - University of Michigan Athletics",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CalN3MENGVndkVHJteDVqWjlRTDlLN1FHS1Z2YXZMenVHelk5Z1pXVUhoZkN6WkowMHFvVEpLWUZKME9Hbld2QlRUNkRXZw?oc=5",
-        "source": "University of Michigan Athletics",
-        "pubDate": "Mon, 09 Nov 2026 22:46:22 GMT"
+        "title": "Michigan’s Kyle Whittingham admits costly offensive mistake - MLive.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHNYcGN2ZW1vYklDQnNiSGFsN0VDb3pPRzFSNzNSemtHaXRYeS1RaVdpQ1BTMVBoeEVRT21IM2p3Mlk4aE1EVWNRQ0ViT0x0b3Z3a0QtaXpkeVV5V3V5WXM1Y1lnYlV3UTFIc2d0OFc3bU40eWZ0dm1HeW1sSGxid3VxUXZrdXp5MFVrY0NxQ0JWcUVFRm9WdXFZcUFudFhPbTdaMmVrclM5LTctNms2akZWY9IBxwFBVV95cUxQRllGaWp1Y1QwaFRGT3NNTjNONHMzMDlPOU10OVlacUNiMzJDbFhSZEF3YmxsX0JxaUJMSzFubFJMa011Wm5zRWNjZ0U1ektFS1hxZHpXYnh5WlNtZjJKUDl3NEJ5N0JCZFVHSTY3MmpzQUpKdFBsSzg5cVp1MnNOZDNXX3dqX3piMUpGWGpXdEd2QklGY0ZoaUxuWjk4YUI1TXdONEFJTnR2ZFc4WEFrejhnbm9jZWpaU1NQMWdYNXZEaTgtMFY4?oc=5",
+        "source": "MLive.com",
+        "pubDate": "Tue, 10 Nov 2026 13:15:00 GMT"
       },
       {
-        "title": "KEY QUESTIONS: Where do Lions stand with NFL trade deadline approaching? - Detroit Lions",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0dRVlltX0ZPLS13ay1hNDNzeDZ4SmdYQndtNDNRa1FFXzhaQzNUM1U4VmVjUlZ4WUJDWWdUeEtISTNlaGF3eXkwRkc2X3RzVUpRNURPZDVTZzNnMDV4NmtKM19jNVZQVUp3N2JGeUFMaVFabjVUSFpHdDRpRTNNb2t6RTdacDJncFVKdkp6a3d2clZ0cFpsbEZ0NmxKbTlWY1lfakg0bzR0UUhzSkFR?oc=5",
-        "source": "Detroit Lions",
-        "pubDate": "Mon, 09 Nov 2026 21:38:54 GMT"
-      },
-      {
-        "title": "Surging Ducks Welcome Michigan To Autzen Stadium - University of Oregon Athletics",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2R2Rmxaal9VSkg1aXhrOE5wampjS1lRZnQ4NG0tWkpQWjhkTTZ3SGM2WnB1QVpxUnd0ZENOZzA4YzhsRWIzd0NHT2NwZVFwOTlMOXVGQTZWRFNNdkZhcC1wYXFfekJfSTNhN1IyUF9XX0lfSThZQ085VjFBNllTeG81amNINzVxRWpCVHRtYjFBalVqZnpZ?oc=5",
-        "source": "University of Oregon Athletics",
-        "pubDate": "Tue, 10 Nov 2026 01:40:57 GMT"
-      },
-      {
-        "title": "Tom Brady, Jim Harbaugh Take You Inside Michigan Football's National Title Runs - FOX Sports",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajA2VjJvMF81N1hkZWZnT0R1cVcxQnJkbU5ndS1JMHYyc3pqSXRlNDE3dHM2VGRZZ1hVTkRHSDRkQTdUa0c2OGtxU2lZTmJ2Wm5jaDhnQXZzQ0p5MTgxcnc2U0s2SDFDeGMwLWkwb1RRMFlzcUVTNDRSX3RLS2lsa1pmVFVJRWM2Vk5CSVh4eFFvVkpaU2VYQ21R0gGaAUFVX3lxTE5nUncwd0xZcXFpNFVCMjFWaHF5N3AzTGliZkZFcHgzOWdld29fYjNWVWMteXpCNy04SUJzYXVhQ0luRFpEQ2pGa24tVklaUHpxbEVxSlRpNTRYbFc2SlZMWjk3MFFkVURKbDFnZ2RSTTFvRjlTekdKVkQyM1RSc0k1MUVENmdmVXpEUXFucHJCOVZUSXhxdnJrY1E?oc=5",
-        "source": "FOX Sports",
-        "pubDate": "Mon, 09 Nov 2026 23:00:33 GMT"
-      },
-      {
-        "title": "Detroit Unveils Land Bank Reforms, Releases 7,500 Properties - WXYZ Channel 7",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTUdjaW9jb3BYRHEyc19hQnBZbUZJdER2LUtRa3kxcWJWdmlha0RLYkpjUXJYbjIwR1ZLd1V5RFViYzBvM0tST1JfX0IzcFczYTBSZURRa3BPeHJQNTRHbDh2UUZZY2tPV3BEclJzSXpQdTJXMDBSek1NRHk2aDYxZ2haaVpNOUpVaG1Mc3Blakt1VWlMR0tfZERiVG42SkptYWUwVFg4VldPNXRzbXFKeTdrZFEyVDVfdngxM3BHal9CTlgyQU1aUFRDMlZDSTk0cGFJMHhmdUY2aURn?oc=5",
+        "title": "PWHL Detroit team name & logo revealed: Detroit Clutch - WXYZ Channel 7",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSW5hbF9zLXp4SDAyWE03REJ6aFUzT25qWmRBdDQwVnVlQWtaNjNMNnBzZjdTODR4SFdrZm12VUlMSEhBcnVZbmdUUHA5MFFjR2FNS2RPWWxWMFVKUUFCN0FMR0V2UWhJcW9jX0RId0ZFVGhYbW45UXVNcVY3Y2NSaDViOThfVmNzeXVqVWtkY2pBY1RjY0FF?oc=5",
         "source": "WXYZ Channel 7",
-        "pubDate": "Tue, 10 Nov 2026 05:50:20 GMT"
+        "pubDate": "Tue, 10 Nov 2026 12:49:32 GMT"
       },
       {
-        "title": "Kevin McGonigle becomes 6th Tiger to win MLB AL Rookie of the Year - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3QxbzYteWxXNnBMcG0wRXRwaGdqdjFsT0VHbHJfZUNGTmNKN2hYTzBPNHpFVWVCRk1wUlpYNEZyd2I4cWNXRnZtdVhHdW1yS0NyWUZ2dFZoaTFiZjl4S0NEcG51MUxyVVB6dEIzUmV5d2lJb29OWVVodFlqcXNOOG1pWE02WE5mT1ZmN0ZLQTFUemFjaXUxQ1NVVkFPZ3FsVVU2cm1yazlUUXVVQkpSX0EyZWhRT0tmT0JaNg?oc=5",
+        "title": "Detroit Lions trade deadline tracker: Latest news, updates - The Detroit News",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSkwwRDB2cWR1ck5EaGxzcnZOZzh2WGFWNDZzQWdaNU5icFZ4aldlckt1SGFiSXBLTFRTcGp5QzhqeG5WREpxdHVzcTJMMkw4Y2NxVGstb2Rad0FyTkw5YmEyeklmNkE0Uk1fM3A0NGp2Z3RSZVl1Qk9vYzlrVHIya0RLc2xzQVp5OFo2d3BuUWE3aUJoOTZKNE1Rc3ZTU1RBSGdQLXVOWEt4bjZKUTYyMk01TVkxOFBFRVk0Vmx6c1FNbWJDTGRpNGgweFpKVTc4M3Jz?oc=5",
+        "source": "The Detroit News",
+        "pubDate": "Tue, 10 Nov 2026 14:45:00 GMT"
+      },
+      {
+        "title": "PWHL Detroit adopts Detroit Clutch as team name - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoMnNFamtjWEp0bXJJRF9vdmxKR0dsQ3E0b2VWZlhRN0VUbVBVVzdlLVRmb25sNk1sUVJuRDl6NWFOLTkxdUJZdUhrMm5MWS15WGlJX2ZmZUF3N1JxbS1Hc011NElWcHpCODNILUtCaTU5Y1JWckE?oc=5",
+        "source": "CBS News",
+        "pubDate": "Tue, 10 Nov 2026 13:27:00 GMT"
+      },
+      {
+        "title": "Detroit Joins World Economic Forum’s Yes/Cities Initiative, Launching Global Challenge to Build More Resilient Urban Infrastructure - Michigan Central",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWU9nOUlpaElrdXBVWjF0ZG9tUmxKX3dJS3NoYXhOb2ZqUm5OLWV3YXJmamdTcEk2ZzBpNlhibXBnNERZdkxSZDBMTUcyV0hDMzNZVWItM2hYTm9IX0JNWnBVUUI2ZlA2RkpIQWVuU3ZUX0NBaU1YSU9xZ1h1S2wtMXVNa0dFay1FZDVHdUItN212WlpZMEhPSmg0RGxQenBCRXVsQi1RR0NOUW4zWUVhTlVGNFpRMVk4cXhFdEd2U2U0VmZyTlQ5OTVMMEJGOXAxeG1yenFVNktEMFlkTUo1NjdfczZwenluZEtONjU4SQ?oc=5",
+        "source": "Michigan Central",
+        "pubDate": "Tue, 10 Nov 2026 14:57:39 GMT"
+      },
+      {
+        "title": "Coming up Clutch: PWHL Detroit team has a nickname and logo at last - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmtBcGpFUEtJT2dBb2dWR3d6TWNZemtzeUxqSzRpSWc1TlBaUl9PSVBaaTVwQmFJQzdOUFRueDZFenlOVkQ2QWNDM0JHTDY5Mi1ocGg3a09oN3BqLU9Sb1hnT3MwVVJCRmdTQ3lDY1FKQ0ktSzdZaXNBSTlGbzNoU3JEY2Q3bmdTM1FPYXVEcnJNMEt6Yks2ZHlLWDRieDQ?oc=5",
         "source": "Detroit Free Press",
-        "pubDate": "Tue, 10 Nov 2026 01:20:00 GMT"
+        "pubDate": "Tue, 10 Nov 2026 13:26:00 GMT"
       },
       {
-        "title": "The Detroit Lions benched Christian Mahogany for Sunday's win over the Miami Dolphins for an undisclosed violation of team rules. See link below ⬇️ 📸 Junfu Han, Detroit Free Press - Facebook",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb1pfVWVlY3VNNFdnM3JlRDhOdVNteUdjaWlOSFBfZkVqSUV2OTY5bUxKWnRWMFo5UlFkcnc0amRua0lEYm5aOS1VTllidHhqUUtYNGxjNzR3Ul9uTGZSOHUwcTJCdy1kdXFtTUYwLTYwb015VGR3LUZZNllZOWthbDhpa2VvaVVOcEdCUTFvUDFEaWtVQ2tFZUp4Z25aWXBXYlo1MGNZQXQxc3NFTDkzTk1SeElDN0lmTVo3bTMyV1ppT25uVGxPaFc3SDI0T0tfT0RrM1EwVm1NZm9Tb2JJ?oc=5",
-        "source": "Facebook",
-        "pubDate": "Tue, 10 Nov 2026 02:00:23 GMT"
+        "title": "Detroit Lions Playoff Standings Improve With Vikings Loss - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVZfSGlaQzk0VUxGb1d2MkU4cGZjT1V1WGJmYVdnMXU5ZlpXUWhwX041MHNGaE5meDZ1Qk5EWnVsb2xNdlZhS2FJSElwVkthSkpIbXZ4eFNIWU9yMm1IaVJyR0VTXzlpUVFvaVhqMDNua25QYUZWczN0bTFFZVJKMzdkZlFqQ2xxWlFZNXpFZlZzWXNDUWc?oc=5",
+        "source": "Sports Illustrated",
+        "pubDate": "Tue, 10 Nov 2026 13:06:55 GMT"
       }
     ]
   }
