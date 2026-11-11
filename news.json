@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-11T01:46:53.637630+00:00",
+  "updated": "2026-11-11T09:04:31.631111+00:00",
   "feeds": {
     "world": [
+      {
+        "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
+        "source": "NBC News",
+        "pubDate": "Wed, 11 Nov 2026 02:33:27 GMT"
+      },
+      {
+        "title": "The Midterms Aren't Quite Over. Here's What's Still Undecided. - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWh1LXhFNGw0NGFnaHhTMjNNZjE5MC11dUd6ay12M0dZQXFjcGMxTF9BVTNxNVItaXV5dlU2eU52NDdnWlJBYmFJT2JaTF9TUDRiV0dHY213WkZ0UHNvM3BsekNWYjE2aC05SXBOeEdMOU4wc3VOTGRXdnpVVDRpQi1iaU94SkpxaXFORW9zSDE5bDlXOFdKNERKUmxGTEw0bU1DRURPdzRiU3QzM2NJUzBXZUo?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Wed, 11 Nov 2026 08:20:44 GMT"
+      },
       {
         "title": "UNH Manchester Earns Top Regional College Rankings from U.S. News & World Report - University of New Hampshire",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGVjN2ZJeDNiUHdlZzVsYnB4bTNwRElNbTlhYjN2TE9jc1FnUmlMdUZYZ2REUnljWk1sanZxQzhSN3JjajRqQVc5ekVQSnNmMU0xM2Q2eDhaUTBZZVdTdXIwSzlPbU14cGNMZmZ4LWFsOEt4NUlUMkx3bC05Zkk5Z3MtQl9JVWJTT3h0ckJoTlJsR0FBZHpJYmNQc01BOEVEMml4RVZ4OTcyQ1pOc3JqSk1fRzlMak9YUlhjZ3Rn?oc=5",
@@ -9,16 +21,16 @@
         "pubDate": "Tue, 10 Nov 2026 21:05:15 GMT"
       },
       {
-        "title": "The Midterms Aren't Quite Over. Here's What's Still Undecided. - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWh1LXhFNGw0NGFnaHhTMjNNZjE5MC11dUd6ay12M0dZQXFjcGMxTF9BVTNxNVItaXV5dlU2eU52NDdnWlJBYmFJT2JaTF9TUDRiV0dHY213WkZ0UHNvM3BsekNWYjE2aC05SXBOeEdMOU4wc3VOTGRXdnpVVDRpQi1iaU94SkpxaXFORW9zSDE5bDlXOFdKNERKUmxGTEw0bU1DRURPdzRiU3QzM2NJUzBXZUo?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Wed, 11 Nov 2026 01:04:23 GMT"
-      },
-      {
         "title": "How did DC-area nursing homes rank in U.S. News and World Report’s list of top facilities? - WTOP News",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWxDOTFVU1N3NTJfZDBtTEJEYTJrNFZTSExzN0dScHBxM1JkUFhWc0M2OEYxNk9iWHJtVEVvUFdtMkhCVHdncmEybGJyZGpRYzBvOFFwLVM5LXkwSDlZd3BIVWZ4SUk1RkJQZXREX1JNZHF1RjdzaXZZdGJidFh3Vk0yYTJ5NHdxZXZBOVdWbWc5aDRjZXFGQy1lMUM4akY2NEJTLWwxTUlPR0tHWnlDdGdJMXJselk?oc=5",
         "source": "WTOP News",
         "pubDate": "Wed, 11 Nov 2026 00:55:59 GMT"
+      },
+      {
+        "title": "JWU recognized for innovation, value in 2027 U.S. News & World Report rankings - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjU5ajNHVnZaZGtDeGhIc3d5aHNRUXdwcGlfN2JEc1M3U2VuOWhMRGRGOXNTckxLNklEaHZVSnJ2T1VGV0RaV2p1QUpST2FvREF1NVFOOTREWHhOQ2ptZC1ZdDBJcEkxdEZzUmFHWV9YQlJFdGx0NDJnek9Ja1BDTVQ1NnVGczdWNEUxck9HOFZqVHlTV20yMS1NaUV3eHJ4bnFLNGM2cEZWUQ?oc=5",
+        "source": "The Business Journals",
+        "pubDate": "Wed, 11 Nov 2026 05:00:00 GMT"
       },
       {
         "title": "Five WVU Medicine skilled nursing facilities recognized by U.S. News & World Report - WVU Medicine",
@@ -33,30 +45,48 @@
         "pubDate": "Tue, 10 Nov 2026 21:58:49 GMT"
       },
       {
-        "title": "35 Phoenix-area nursing homes earn high marks in new U.S. News ratings - AZ Family",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdHdaSzN3Wm1aM0Z5blBWZ0pWcmFuSHJpeFllTUdXN0hkVW1kdVdSQml0UDJRNlh6bG9yS256SkhNdmVVQ1B3ZWpVNXczbF9vakdLY08ya3lyMHdjSDhaYWFzQ2dfemQzN0pJMDR0R1hDSUZjYlZzZGRuTThXMjJNZUFKU1RJVlVsX2pWWlUyNVdRbDRvMGpUYlQ4SnhfZ29yV19JWNIBuAFBVV95cUxOVkI5Qks3R3JwUjFNRG52MXpDNzhZZ0JZdDZubG5KSEgtQXdxME02SGFqdGNGUFZmMWNlMVI5QXRvQVc5SmxYYVV2QlU0YVpwa2UtZ2p3VzFFZlM0TEYxVzZDa3RmbE9kU08tQnh6VXIxTHVOMERwLVhnR3dxRVNVWjRvQ1BGclEwVEtUejFLVHVPbFlKWmlyelphTFFRaXV2a2k3am9wZjdFdHM5N04xVGdEYmhhWWpa?oc=5",
-        "source": "AZ Family",
-        "pubDate": "Tue, 10 Nov 2026 21:02:00 GMT"
-      },
-      {
-        "title": "Republicans return to Washington to sift through wreckage of midterms rout - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hORHBQT2hsOVhualRUcTQ4ZmIyNHgxU2RHZ2c3aTNJRlJoNVpqb2NLbGpab1daX29ZbFRRaDFxbUZXOWNTQnkzTWxreVJJMC1sLXNmOVgtMGdsR2EtM3c1OGtqUHFTZk9hRXpuVm5sNzRMVlYza0RpdTZVbm1TdTRjZ3owcGxZcS1SSXRnVVEyd0QtZ09iUi13?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Tue, 10 Nov 2026 23:57:00 GMT"
-      },
-      {
-        "title": "Local 10 World News @6:30 PM - WPLG Local 10",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDhfaDQ3QlhnR1JlWV9YYTV4MHNkQ0lHc1AwNHJUZEpiX0FocDNNdzJQRk9kR1NobzdEaVlrazc2ektWZnZ0Y3FnTFBtcmdBWHFvbFo2YUFSS0k2U0JnMXFzb2llUE90blZYTnQyZlptcDZYcENVU3RtOXRfNGxhZXRmNmhIQQ?oc=5",
-        "source": "WPLG Local 10",
-        "pubDate": "Wed, 11 Nov 2026 00:19:19 GMT"
+        "title": "Why Pete Hegseth Could Be Impeached – And When - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVBuSmF3dW5udGkxODAwNGpOQkZoNkVzZUhrVDRscGozdEdQbkFIOTJWR2hoWGRsbC1WdGJ1aEttU2U4SE9CTVpCMTMzWndWNjJxMVpLNEhwZWxUeWowTmk5bmJpb0ZxQ244NUdlS2N4WXBvSlRiVXN1Y0VKT1JwN3ZyX2ZlUGxUUndlZE1zZm1USlpLR21wa3NiaFRjcjlDM3JoQV9ZczFNVzVLUEZn?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Tue, 10 Nov 2026 21:01:59 GMT"
       }
     ],
     "local": [
       {
-        "title": "ESPN's Dan Wetzel predicts Kyle Whittingham won't return to Michigan - Wolverines Wire",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0hHOGJYUnptVzJ0a2JBdVJheFZUdlNfV2JZU2VtdE50ZnZseDUwLVJDUkpxZUxMRjNWVkpkMmx6dDNBZ3VNdzNNVjA3RHpNdVZJSWs3TGk1ZC1KTDdUdUVPT3NNRVVta29kcS00dDJ3bGFpcktNMktVVmRicnRlY1YwWlg4YWFLc294bDhQZE5xU0V2SW5PazhaWGJhZWVXSVFPYVNQSnp0XzUteWhaRWxjbDNXOXRPMFpqd1ZCWjI3V2dIOXM3NzJ4SlZGVy01aEoweXJIa21jVDFlVWVsU1FVeEVxRlhRVW41b2xRcVNfRTZhNFhRcklRTlUwQQ?oc=5",
+        "title": "Woman killed, man injured in double shooting on Detroit’s east side - ClickOnDetroit | WDIV Local 4",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcTNSakQ1VUoyNlh4ZzMwTnNMbVBuYnlDZUtfekpLVl9WSGltb2Q4WGxWLUYtWXBpM1Q3NFM3RmFUN01GYjFoUjVIRVFYeTZXTDNjLUMzRVRLM0k1dWlPRjJQWFNCQlBPdV91UEFnTWZVNGdraXZoUzNZU2x5eXh5bTZmeDVHbnhvdkxqQTdQcmpWZGlMcEdseklzblY2QTF6QzFybXJLejlhWHF0US0ySkllRHliV0MtcG1j?oc=5",
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "pubDate": "Wed, 11 Nov 2026 01:28:15 GMT"
+      },
+      {
+        "title": "Survey: Should Michigan fire Kyle Whittingham? - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFRCOWVsVWI3YkkzTHdXSlEwQ2N6TkRZNndkWkRRLW1SRVhZd0RFOFEyU2VNdlItOFRjaEI5Q2ZYRF9LaDhjRVJEMU1HazV5NFBYV2RhY0hGM0VjMS1OSS1sekdvQzdtVzRzX2hMbEFUZjZ6bktwOG5DY2dBWEVwaDlOc2tFRzRWUHR0Y2lkZw?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Wed, 11 Nov 2026 02:09:00 GMT"
+      },
+      {
+        "title": "Michigan football loses promising young edge rusher Nate Marshall - Wolverines Wire",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcDNwbk9JMld3LVRSUldYLVpwOGpKb3NsdjFHeFN5eDVOY1dYU0FPelBONl92MUt0TDRiTG02RGRIYXJKemY4VUtDRjBxYkY4NzdHdjh6RlFQanpLSTBKVGl4a0hUcXBoS2p6dkJJSjlFdmJqTm1ZUmMwVGk3eGJ4enlheGIxa3pwLThTMnFyM1l4SVBDZnllYS1DNXRYTncyZU1hSzZBUlM4S1FpOXpMZ3dtVFk5NHU1X25FZG1GNFJHUzNWQ2cyYzRHa3Fra2hqdUc2dmtiQWhHYjVFV3k5WjdUUXlZM2c4ekdkT1hMY1FnUWcwaUJQejBn?oc=5",
         "source": "Wolverines Wire",
-        "pubDate": "Tue, 10 Nov 2026 23:33:00 GMT"
+        "pubDate": "Wed, 11 Nov 2026 02:25:00 GMT"
+      },
+      {
+        "title": "Nate Marshall 'suspended indefinitely' from Michigan football team - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdEVzY3lRQWNnSDNPWFdXd1poN1lJUmNtVE9uZWRqak9MNHNJRUpGMlk1bUtHVS1PejNuNTk3VnJiTUd0aktTX2dzSGxBUDBKS1NXa1A4bVhSYmoxZHYyUnpOOGFlUzk1T1MzekI1ODhVdHg1UWMtLS1aZ3FIMzdzN0lEdUx2eGFJQ3hqQXRhRmxPanVkbVc4dkdITGRmQm9LSUFFU2twQmV6LU40ZDJaaDZaeHZ4RW9SampQTzZ5Zy05N0ZRZ0w4dHpiWkpaeVIxRkdKOVJGd1ZncWtlWW53Vk52eGZ1TG9TOTl2U0hjLVc?oc=5",
+        "source": "Detroit Free Press",
+        "pubDate": "Wed, 11 Nov 2026 04:21:00 GMT"
+      },
+      {
+        "title": "Broncos Roll Past Akron, 42-14 - Western Michigan University Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJzZk1VNll6VUFHSnZNbmFySVZ1TXZxck84YTZ6TlgzSlpfMXRrNDFORy1meTZWYnBfNklVZWdwVE9aMGtLeG1YdDExY0JRWGFrS3R6dXNRRWcyY29IQ0JoaVZVV1ZmdFRDWW1hdDB3T0pTM2hPak83dUktbEVxY1hDSmRTMGE1VHc?oc=5",
+        "source": "Western Michigan University Athletics",
+        "pubDate": "Wed, 11 Nov 2026 04:25:56 GMT"
+      },
+      {
+        "title": "Jon Scheyer after Duke basketball's loss to Michigan State | Video - The Fayetteville Observer",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRlM2ZFlIZlU3NzF5cmFEdXc2Y3oyVm5yc2tGR0YtUmNuaGI2NzMzY08tTXZmLW5sTlk2ZWpZRFJuQ29FcjJRYUFYMGtYWUhmNmhrWmIxeUpnZFcwOUpTMGUyQnJyQlBFSGR1R2V2VHV4bkU5Y3hMOTN5NWZZS2gzVHdkNklpMXJndWRIWGFSMWxxNV93RjJZLV9uX1NweVAwcGtVcUZpT0xTeDZiOGFMS2RsSVd2SXVHZmczLWNyVWpmcng4UnVZNHEzRVpTNnJ6RXVsOHE3YkhCMlJEM3c?oc=5",
+        "source": "The Fayetteville Observer",
+        "pubDate": "Wed, 11 Nov 2026 03:24:21 GMT"
       },
       {
         "title": "Double shooting on Detroit's east side leaves one person dead, police sources say - FOX 2 Detroit",
@@ -65,40 +95,10 @@
         "pubDate": "Tue, 10 Nov 2026 23:50:05 GMT"
       },
       {
-        "title": "Did 2 horses really get on a public bus in Detroit? Here’s what the city says - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDc1NVM0U3VOX2xVRi1iQlRpOUV4bGZoVEM3ZmdHdnJuYkF5UWxBSnVFR2RVRXRRdGZObmZaSmRETXV1UWlkSXIxNkllLThEbHZtZ2JWdE9RdkJXLTNxWFFoc2RvQVBJcmJHTFdyeElmckVyUEVod25KY0RaSGdCZW96NkFrYlZCcC1UTVpWOWFVMWdKcXhKR29LcHVpNjQtclNDUDhwV1ZfWXR2elVCeHJPTnNSb05HSDg1QnEya0FKSnp2bjFteA?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Tue, 10 Nov 2026 19:17:33 GMT"
-      },
-      {
-        "title": "NFL Insider Reveals Change to Detroit Lions’ Andre Cisco Trade - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUZIQmIyZUVDMXh0Q3ExV0w4UVpHdWpRZk5aRTgtVTRUSG5iRzdMUDBVc2pjcVNxcE93RE5fV1ladzdvYldEMnc3SW5kVnlSZ0hmNkVSSGJRWWlRek43ZFVxN2pMSDd3Znl0MmZLaVkyV1lOdkJhUktTZjBSRFJ4Rjd3Sk52Qm95TmNJ?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Tue, 10 Nov 2026 22:19:45 GMT"
-      },
-      {
-        "title": "Detroit transit officials looking into 'unsafe' incident where 2 horses boarded public bus - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0ktaGpjVV9IOE9aSDhEWVlwMDBlMlZDdjNFSU9Sb0dST2RsMXByMW54LWFoZjlwaU5mcXQ1TnIzbS1FRGlqZF9pdnVLMzRSSXZwdlVCaWEtR0dJWTJLaEluTm1lbC14UU80c0c2RjZ5a3J3djlncldSU2ZPZG1rNUxTY1VMRENsMkExLUg1ZmpDUTZhN2JJUG05RDRWb0RQWVHSAacBQVVfeXFMT2pCWVBkS1FPd2cwblBibzZxQkEwNlFYMHRHalQ0a0t2V0RNU2lZRjlsZEhYa3dvMUxIZnRXdGlKMkRTMHBTdGduVC1NbC11NUxQRVpVV3R6Wk5HZlp2MW5GTDJRTnc4UnpmaW4xazlPTUk0Szk5WHdzNFJUbHl1U2VMSE9UN0ZHb2NKa2VRa3pQeFRZNkxJdi1HRHFQWUVFZFFtZE5qWkE?oc=5",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "pubDate": "Tue, 10 Nov 2026 21:16:31 GMT"
-      },
-      {
-        "title": "Nate Marshall suspended indefinitely from Michigan - The Michigan Daily",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2F5QlF5dWJNeUZ4Q2trVHVoeFZSSENydS1pTUZ0NXlNVklReEVnNkF2SzhXenBaTlhaaXU4QzRPNzNGQmJ3NFBjc1Zyd0JPUlJERGtfbUFzMDI5dXdJeTIwNm1IMnpja0lwa29wRmRtQVdHR2UtdXZuVC11TXhDM2ktVkNtUWk0TElaTEZOUWp0bExMSGMydkFmVG9sUQ?oc=5",
-        "source": "The Michigan Daily",
-        "pubDate": "Wed, 11 Nov 2026 00:50:28 GMT"
-      },
-      {
-        "title": "Nate Marshall 'suspended indefinitely' from Michigan football team - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdEVzY3lRQWNnSDNPWFdXd1poN1lJUmNtVE9uZWRqak9MNHNJRUpGMlk1bUtHVS1PejNuNTk3VnJiTUd0aktTX2dzSGxBUDBKS1NXa1A4bVhSYmoxZHYyUnpOOGFlUzk1T1MzekI1ODhVdHg1UWMtLS1aZ3FIMzdzN0lEdUx2eGFJQ3hqQXRhRmxPanVkbVc4dkdITGRmQm9LSUFFU2twQmV6LU40ZDJaaDZaeHZ4RW9SampQTzZ5Zy05N0ZRZ0w4dHpiWkpaeVIxRkdKOVJGd1ZncWtlWW53Vk52eGZ1TG9TOTl2U0hjLVc?oc=5",
-        "source": "Detroit Free Press",
-        "pubDate": "Wed, 11 Nov 2026 00:29:00 GMT"
-      },
-      {
-        "title": "A familiar connection gives Detroit’s newest safety a head start - Detroit Lions",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDhQM0w3RmtNT1Fxd1RiNURvVDRQZmpCYUNlMDZkamo5TDdTNUQtSHRmWEJ2Z3NlOVNyMzNvazhGem1TdUhFbG9fdkt4MXhScWJHRFJhenBmRjJpa2xvMTJ5dnFOTlllUDJZTXBWYXp6bzBBdndPYW1LZ09pNHZtZG5sRWlrNlN3QWRhWG9pcXhjWTNSSXNlNEh0eGtIMjl3SmNGLTlNMjUtV2IzcGFN?oc=5",
-        "source": "Detroit Lions",
-        "pubDate": "Tue, 10 Nov 2026 16:09:07 GMT"
+        "title": "Jeremy Fears stars as Michigan State rides defense to decisive win over No. 2 Duke - MLive.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYVc0dVNNVXdveE9wUGNGbEZRYnhyNXZ2aWU1dUVISU4tbmxqaHFscXlBT3AzYzJzS0ZoYzZHcldpanktSG9iOUFURzRuT0NmU3FyNkhQT29nSF9abXloRENiODBsOU1xcW1zWWFvWm05VlFRV1N2LUxSRVJ2NWtReF9lcjRob2Fud0trY1NXWTF6LXUtNzhMY29xcFVQcXNLTVlMVC1KZ3lqR09Vek5ybkVjQ1pEVEFlRnN6WFQ3N1QxXzhDaXhFU2lCOElNTzY5cEE?oc=5",
+        "source": "MLive.com",
+        "pubDate": "Wed, 11 Nov 2026 02:30:00 GMT"
       }
     ]
   }
