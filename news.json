@@ -1,62 +1,68 @@
 {
-  "updated": "2026-11-13T22:40:52.427496+00:00",
+  "updated": "2026-11-14T02:42:40.383330+00:00",
   "feeds": {
     "world": [
       {
-        "title": "Ground stop ordered for all airports nationwide for ‘reasons of safety’ - NBC News",
+        "title": "Flights Grounded Across US After Air Traffic Communications Outage - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUpnSmw4QkxGNk83dkJIYnR4bnVrUzlISldjSVNJWVJ1TWRYZm10Ymw0aVZCdGpJUEtPelUzUGNDQmRNeHMwR3ZISU9ySWNrZTEyaFd2cko5Ump4X3JBODlxNXRQMFY3QmM2RnBscVJEREFFd05MYmpuWjhJalZBRU83S181TEhSSG1SalNXQUU2c3FSblFKT0d3eHo4VXNBNm5CVGM1VHFieUNBSjdPYTlOeGNUY24yUFNnc0NybWpydjU4RDlrZ05hYWZzazZpSHE4UTFLUFRoN3VNRnc?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 14 Nov 2026 00:44:41 GMT"
+      },
+      {
+        "title": "FAA Lifts Nationwide Groundstop that Upended More Than 14,500 Flights - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWttclRZeVZvN2JCTHVnXy1Hdko4UFhvRHY1TzNPcGo5cFkyMXFhZTRreUtwaW9fUUxCaGY0VDNhempMRzd1RHNaSUNITFY1VnpLSk5CWFhOR0JVeURzRG9uYnUzME9qM1g4LUNBcjdjeDcxR2JLa2FOeE1uRFBqWGd5RQ?oc=5",
+        "source": "WSJ",
+        "pubDate": "Sat, 14 Nov 2026 01:37:00 GMT"
+      },
+      {
+        "title": "FAA lifts hours-long ground stop that stemmed from communications problems - Scripps News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXBfUDZJZnVBTGdfTEVYUlVjYWlNV1JvaW5wS0ZMdUstdHZ2V0JWbnRHNnlSZTZXOEE3YWluMjR5ZDhadWlsNFQxaDNIX2RlUDFZUkkxcXFOX19PbkNuOWZ6b05nb3F4RzlqRDdWM0NObGR6Z2hfZjV6TW9yVDcxTzhEWmo0cmhnd1dYOEFPQjc?oc=5",
+        "source": "Scripps News",
+        "pubDate": "Sat, 14 Nov 2026 01:10:28 GMT"
+      },
+      {
+        "title": "Ground stop lifted hours after stranding thousands of flights across the U.S. - NBC News",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFpNUWJMU2ppemowM1BHcmRhZTc0YkhQTjl5ZVdTX0VIVlhwOGJESXdjcUhiM1lkbWZHUTJManlCYWRWc3FGWVpIUUNSSWhNeGM1TDN6UnJKSUZUUnlpS2Rac3J0M1RNcTg0WmRGYXlfRjlLTmtwd1FXcmpCU1hBX0sxUW4xbTczY1BOcUt6RkhyMzN5Y2x2TTg3MkJlTzBFLWxmdlNQbnlHVkRPeHg0TEI3VWg?oc=5",
         "source": "NBC News",
         "pubDate": "Fri, 13 Nov 2026 21:09:00 GMT"
       },
       {
-        "title": "Flights Halted at Airports Across US Due to Air Traffic Control Communications Problems - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM1BhN1YyMzNoakVkdDRaa1NCWHk0Y09jeW5Qbld0NzdqYVFXU2xnMS1DV1ozOWJfaWV4UmkzZWl5U1RtM0RMZUtqOVNmTVJNcXdFVE1JMWMwZGk4eW5XMnB4a2JTX3VMYkdrS1BsNFV1VW1XTEtBRGVqdHNCTDFDX1VNT1RZMGs5cy00LXVkbW51UmtJV0FjSXVqRWxtMkJlRkZXMlFQb0s1VmZjd1ZSUFo3MEZTU09SZU95bmREdWVmNzdrSWRzbWQ0UmExdXBPYW1QZQ?oc=5",
+        "title": "Chaos at US airports as flight stoppage grinds travel plans to a halt - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbl9oanAzMFY4d0Q0RGxsNzNUQnNqZ25wTGlwellNSVVJd0lfUUtvNWV3eXhmUVBkMHVGemV3WUdtRnBidkpuMW5SWm9NNElPdFNqbS01NmhnZ01XTG96bzRQZWcwVzZOVDVKaUEzNmlYOTRKR05SSkh1NGZSdlJSMQ?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Sat, 14 Nov 2026 00:46:00 GMT"
+      },
+      {
+        "title": "French Freezers and Pete Hegseth on Ice: Week in Review | U.S. News Decision Points | U.S. News - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTNqYXFoMU1uaERlZG9ZeGhYRkM3TTFNUzZTbHhDQzNHdFBSQ1ZDejFzM053Njc4d25XWHdFcUtKRm14dVlTUms0YXJFYmpSemRMRkFXeUlpeXNjOEZ6MWsyNkE4Z2V4VElkWHk0RmR0WFc1aHVGWUUzMUlwSkw0RkN1c080cGVZUHRoNnA2TTNzcXZaOEg2UGFKd0NSVWxiSVJ2WGl2U2VraWNQV3pvMFRyUkZza0s5M3ZIbm9uYzVjaW5hWGc?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Fri, 13 Nov 2026 21:17:00 GMT"
+        "pubDate": "Fri, 13 Nov 2026 21:06:10 GMT"
       },
       {
-        "title": "Flights halted at airports across the US due to ‘extraordinary circumstances,’ FAA says - FOX40",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMHByN0x6YS16SFVSLWFfZDhLb3R1akhTbVprdGRUR1BNZXJheDZYbnk3WU1fUmdfUzBSZlJqZDk4ZzNuTVRkMGlnamVlWFZkTlI0WGJjNVN2a1VjMDQ2Y1FqdW5MLW94YkFacnFvREdDVjgxVGt0Tkp0WXd6SjcwbnNDdVlOZzFQSjBQOUpRcUQ0VWpyMFFTdkpTYk04alVObzdzRlNSSmJETGdNc0dMa1VSa3JqeEVGWUZKMDVBQjR0LWppUHhCRll1dG11N0E4WXl4ODUxTXQ1eER30gHiAUFVX3lxTE9XWUN6alYwbV9xUGxnLVBaWERaT09CZFZGT1RHS2NuTF9QVFpWU1dHVGFCU2lTbDJHY2tTRVdsdUZ2NjJnX0VUelNyWllYSHEwaWFSNkl3RU1DWGhKakpVMXdpMFk5a3BjczRTQTJTODFXU0hfQUJzNFlTeWc5QklfNzdYUUJwTjZjVzFxWFJ6U1JseWRVdjI4WlNueC1wTU8tejZFT3RxMUUwSzgxTjlCUThLcWZLekw4NGVwYnBJX3lCcjJ6a3BhX1BCdHgxeEdYSUpIZV9iX2JYdW5jUVJBTkE?oc=5",
-        "source": "FOX40",
-        "pubDate": "Fri, 13 Nov 2026 21:25:18 GMT"
-      },
-      {
-        "title": "BREAKING NEWS: FAA grounds all flights - Westfair Communications",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEZGLWY4ai1BZHh3SUtDb0hvVWlWclByLUNJV0JOdTI2azFqNm43cWdUWHJHZ1R0UkpqQXhhT3dpbTJVZlp4TWhtSWtsbTFwT1ctMUZPdUxTSEFMX3FGR3hFSTMxSkg0VWVGUlRlVFhsa2ZVMXdIWk1IZUh6N2lubw?oc=5",
-        "source": "Westfair Communications",
-        "pubDate": "Fri, 13 Nov 2026 21:23:38 GMT"
-      },
-      {
-        "title": "FAA issues nationwide ground stop on US air traffic - Scripps News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXBfUDZJZnVBTGdfTEVYUlVjYWlNV1JvaW5wS0ZMdUstdHZ2V0JWbnRHNnlSZTZXOEE3YWluMjR5ZDhadWlsNFQxaDNIX2RlUDFZUkkxcXFOX19PbkNuOWZ6b05nb3F4RzlqRDdWM0NObGR6Z2hfZjV6TW9yVDcxTzhEWmo0cmhnd1dYOEFPQjc?oc=5",
-        "source": "Scripps News",
-        "pubDate": "Fri, 13 Nov 2026 21:07:05 GMT"
-      },
-      {
-        "title": "10 Good Samaritan locations earn best nursing home honors - Sanford Health News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVkxMTN5U2FvbE5UM1BPRTdfMGVhZFhyQnBieHR6ZFpDblQ0RkQyZTVTZHB3WksyaVFrOEZseUo2WHgwR2t6ZEhUbFBOTVhJMzdxTEJJMTM0WV9iNUVKNWxYVWdnOWx5WkhKOVJ0M1RicVIxS2NWdkI2a0RLR3E2WEN6NnF3VTc5Ty1XNXAzb2k5TUVYYm4wdzRrY1JhUTcwNTZWbUVHTjVKQXFsN28zdmlDZXhBZw?oc=5",
-        "source": "Sanford Health News",
-        "pubDate": "Fri, 13 Nov 2026 16:12:09 GMT"
-      },
-      {
-        "title": "FAA Temporarily Halts Flights Across U.S. - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWttclRZeVZvN2JCTHVnXy1Hdko4UFhvRHY1TzNPcGo5cFkyMXFhZTRreUtwaW9fUUxCaGY0VDNhempMRzd1RHNaSUNITFY1VnpLSk5CWFhOR0JVeURzRG9uYnUzME9qM1g4LUNBcjdjeDcxR2JLa2FOeE1uRFBqWGd5RQ?oc=5",
-        "source": "WSJ",
-        "pubDate": "Fri, 13 Nov 2026 21:21:00 GMT"
-      },
-      {
-        "title": "FAA Issues National Ground Stop Due to 'Extraordinary Circumstance and Reasons for Safety' - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUpnSmw4QkxGNk83dkJIYnR4bnVrUzlISldjSVNJWVJ1TWRYZm10Ymw0aVZCdGpJUEtPelUzUGNDQmRNeHMwR3ZISU9ySWNrZTEyaFd2cko5Ump4X3JBODlxNXRQMFY3QmM2RnBscVJEREFFd05MYmpuWjhJalZBRU83S181TEhSSG1SalNXQUU2c3FSblFKT0d3eHo4VXNBNm5CVGM1VHFieUNBSjdPYTlOeGNUY24yUFNnc0NybWpydjU4RDlrZ05hYWZzazZpSHE4UTFLUFRoN3VNRnc?oc=5",
+        "title": "US National Weather Service Says Its Radars Operating Normally - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWGkzcXNoZnU2MnkyZGhmS1JBdEZfMHIwOXBLc1c2dnJicGU4YXBOM0FZb25waXZkdnRwZjFHUjFLSWlDenlHYnhrd0tzT1BEMkZzNHNPX2xSS2RkQWtwdGRsdmpDbDdfYlJnV3F5VUk2R2V2dE9RMEtWbmRyOG5iOUlmc1hRTjhXVC1mYzBPY0xKYjNtWU5USVphMkpwQzN4R0tQeTFGOF9nSk5XY2psbUZSOEdKcDduQ0N4UTY2TVR0N1JtMWxhZnlRWmJMek0?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Fri, 13 Nov 2026 21:08:00 GMT"
+        "pubDate": "Fri, 13 Nov 2026 22:13:00 GMT"
+      },
+      {
+        "title": "US aviation agency lifts nationwide ground stop affecting all air travel - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVUV4MUNOVVV6ay1Xb18tS2pBeC1VeEQxNFFSYmd1Ql9QVS1BRkFwdE42dGJzWmkweFdLQTdQTzM1MFRNRTRaWWF3bUl6RUk2clFTbDZudmVXTDRHWF9VNmhBWTA1UUQ0NzJsRlpvcmVPXzBZdTJEdElEUk5ibDZNb3l4UHg2eDA?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Fri, 13 Nov 2026 21:44:00 GMT"
       }
     ],
     "local": [
       {
-        "title": "4 takeaways from Rich Haddad's media session - Detroit Lions",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU3lEdS10VERhWVJVMWtOeEZRc25vUjlFVjFIa1U5QWl4YzRZb1NwMVR5UTYzY2N4NU9WMUljdEYxTWZBakNFRHNzcXI5RUVfMVg0NlBEWnRzcDAxbnlXMTZMV3lnT3NsRDFHcjlDYW56c0swNlp3UERkTUJJU1QxZ3BZVkpaOC1rbUVtT0FoUQ?oc=5",
-        "source": "Detroit Lions",
-        "pubDate": "Fri, 13 Nov 2026 18:25:53 GMT"
+        "title": "Will stranded Detroit Lions fans make it to Germany for the big game? - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2o4VW41LUVIRDVVUWlXc2RsM2x1MURvLXlDd0I5bm9URllZbFI4NnlmNl9xOUFyY25UVHNLM1NnWklUbWZYeldCdjVXWXk2TV9kMlVaS2x6eC1ZN2VuQVZVMXJrek5JQVR5eDc5S1pOS0QtaFN2UFEyUWxuS3o5bU92OUhVOTZyWWFzWTFLRmt5dnI2UkN4QUEwSkNPRHVUU2lsbkFYcEJNOWRWdHpRSjlPM2RGemJtUm5oaUpCQU8tZFJrWXB6blhsWVRfZw?oc=5",
+        "source": "Detroit Free Press",
+        "pubDate": "Sat, 14 Nov 2026 01:28:00 GMT"
+      },
+      {
+        "title": "FAA ground stop delays Washington departure for Michigan State - The Detroit News",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQb0NfT2dUalFCRTNOU25sN1Qtc2g2dHZseXJOU0lhNXE1LXBPSkVuQ2F6b1lKZzZPY0t3V1NQZV9MNVZUYW5FU3VaOVp2eTg1T2hrcWR6dXhWWFN2Wm9KaXRxT0xrM3dNUlVMMUlXUC1aSHAzelpKNEU2Q09KT0dOQ2NMbVNRYnQ3Y29BRXRDUE9Tb0N0ZG1pdHhUdFNfdk45UEtpeVhoX1FXYllRb1VLdnBCeGhpN2p6bjFXRlRWQl9jUUR6ZUVnTmU3RXRMMjMyOG44b3I4dU4wZlowWmUwbXBYZmNJcVBFZGJrNXpKZG8yc19OOHVzOEZ6VFhzRDQ?oc=5",
+        "source": "The Detroit News",
+        "pubDate": "Sat, 14 Nov 2026 00:55:00 GMT"
       },
       {
         "title": "2026 Michigan Midterm Election Results - AP News",
@@ -65,7 +71,25 @@
         "pubDate": "Fri, 13 Nov 2026 21:25:47 GMT"
       },
       {
-        "title": "Nationwide ground stop impacts Detroit Metro, other airports - Audacy",
+        "title": "Michigan State football is scheduled to face Washington in East Lansing at 4:15 p.m. Saturday, Nov. 14, but the Huskies are grounded in Seattle on Friday. See link below ⬇️ 📸 Junfu Han, Detroit Free Press - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUHpjc0ZxUG91OWVmbzZiSVMzeXFEVF9qdlNuaXpURjdBNmxRZnpaNEZieTNISHRWcVNpd0N2cVV4ald5ZDNvQ3lQN3BockJfeXN0dHFzNXV5bW4tZHZuVmN0VFl1bGlWLWFELVoxMkVraWlTLWVzWGpuOVkwUnNJSkRRc0RqQ3RmZVQ2TjhaandUY2VaSVpQbHdzbXVlcXlOQ3JPX2dtUzYtU3NZLVE1SnFzcGNRMWVEaDN5M0syQl95Q1pqaTF5WGFNM012REMzb0lva3lnMDFKNmRIX19V?oc=5",
+        "source": "Facebook",
+        "pubDate": "Sat, 14 Nov 2026 02:16:38 GMT"
+      },
+      {
+        "title": "Michigan Wolverines arrive in Eugene before FAA grounding - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDJycUo4S1dnQ2FDUnVVQmNtMVo2Ums0ajc3ZVFsbk1lZ3huaElRT1J2OVpLVHYwcmxOYlNWRHNyM0dKSksxSmJpQW1wUWxHREhSbVZQU2RBLTJYcFNHQXJnRkozQVVIR3pselFaZ2pUWEhqRG9tbHBpTTBhYXQ3NkI5Q2htZVhCX0QxZTJMZw?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 13 Nov 2026 23:02:09 GMT"
+      },
+      {
+        "title": "Michigan football reportedly already in Eugene amid FAA ground stop - The Register-Guard",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMTNKb08tbmdhYTNCLXd2Vlo2WW0wWGVNSUNtMXVhZjNXVEtCNUh5Nk1tRHBYc0dZOTY1VjZNS01MLUNyQk52aG04dTdDYmJvM0xSN3FBSE5xczhRc0paSExwajYwZUVmYjdOaEpTNjVFakEtYjNpb2Vra3BDMTJLLXpJMkpHZ2ZXMktzSXF2OUtTVERzYjA3NzFZVE5kMFFac3hYcXFwWXY0SkFTNTdKd2pDdGpZTDV4QWhmUExuU3dkZjlDZGlqNGpVWWlFd3NJZEhxSW9tZEU0SDJVRlZmMWU1bEs?oc=5",
+        "source": "The Register-Guard",
+        "pubDate": "Fri, 13 Nov 2026 23:00:00 GMT"
+      },
+      {
+        "title": "FAA issues nationwide ground stop, impacting Detroit Metro Airport and all others on Friday - Audacy",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0NYSW4za1ZFLVZQOWJzbGN6OVVzRjZiSVM0REFuZmk5N0dVaVpDWE05bWNrVzBfYTZOOWNRMVRnVDRxQnVJWjZkSkRiWm5zS2lZb1dLckdKOWxHM1hUZEZXTFhnMjhPeWRlTWYwRUtYdGJSd0lpUF9DMEZzWVVVZmZsODhTMFV3R1NTbmFLR1ZybkJwSGZ0RjZMeDVBaUJvN2dhUmdVTWxXUQ?oc=5",
         "source": "Audacy",
         "pubDate": "Fri, 13 Nov 2026 21:21:00 GMT"
@@ -75,30 +99,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVVFMkd3MjNwTHhZMTBNbk02T2RPWWVDTXFCMU1lYWg5emdtMUc4MGQzQ3JrWElDdWxPRTVjQnhHUTVJajA2aDFnZ0stazZROW1JVjZnb3U1QmlPZ1FNc29rQW9ycTBxbVJCRk9hVzFibW9hTkthblhUazNtMk8tbzJpcDJRN1FvdVZQUG9DQTBZbHMzZWNiak5wMkNSNE1PQlJ6T0pmNUVWUQ?oc=5",
         "source": "CBS News",
         "pubDate": "Fri, 13 Nov 2026 21:45:00 GMT"
-      },
-      {
-        "title": "Ground stop ordered for all airports nationwide ‘due to extraordinary circumstances’ - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0JCQ3lCMkVtYWZ0cHFkdFlwNUllblllZW9PODRIU0JiQU9kTmg0QUc5Nm44OTJnWEpWUV9RQ1lZRXhRYVUzWHBNT0h3MXdOdE5mTWJxdkExV2Rib1ZsZ0ZmLWVkVlZPV3NYUVA5dm9xNC1xcFk3WEdScWxFc1VuTi1vWW90dS1vbGV0NlRmY2h0cU5FZHVOV20yN3BsMm5wVlBRRkVueWJfamJyUV9hU3hwWEVsVko4VVlfY3FLOXhoeWhob2VTVkNmc0RxWlhJZEE?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Fri, 13 Nov 2026 21:21:24 GMT"
-      },
-      {
-        "title": "Social Security trust fund to run short by 2032. What it means for benefits - The Detroit News",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU1Vfb0JGVEhkOC1DQUV1R1RCNWpnMEs4NndlTjJFamhBdUN4TklCLWctalBXbjB3Tk1LOF8wR1JjcGZOUTFqei1qeWlweWJSSFFWRHpxdXF1S1N2c25uV3RjN1ZEVEwyMGk1M0tqT3gyVUNpTUd3bnZSVWpfOHEtNUJzREZvREE5QzdCdngtTmxOaEFFbmpkb2xnLWk5amV0TUtBemFGYVFjSlN0dGxhdkxBbHZIbXFvQ2k4ek1JeEV5R1hxU2JqRExWcFh4TEJjQ1plVFZLdkgwS0Joam9sa1QwQXROQWpNMkR0UA?oc=5",
-        "source": "The Detroit News",
-        "pubDate": "Fri, 13 Nov 2026 18:11:00 GMT"
-      },
-      {
-        "title": "Ex-Michigan QB Suddenly Enters Transfer Portal After Medically Retiring - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSm0wZmxJRTVGcWFfdHdlSkxJVlhRakt3dWMyTVhzRVhfcGYzcmFHZm9CMnFoR0tDbkN0QU41N1BVSGFIM01tTVVsQ1JnSlhmU2JOcHd0N1h5czFjN1dEQm9sR2ZKdGFKc0p5OVY3Qmpucjl2TmpwdlExT1F3RFAzak40MW9kZw?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Fri, 13 Nov 2026 19:27:38 GMT"
-      },
-      {
-        "title": "Michigan to Wrap Two-Game Road Swing at CMU - University of Michigan Athletics",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0xHM1V4aEZNU3Q0U0lkYTBkcVM5OHE5ZkZQVUVmY3ZHeTVNYmdZcjRGZWk3RWl0akRlckdiamNtQ1RESHBUOHVkTkg3NzNqUHUzank3enBHSVpBcnNXYnNmZm9veWhNcllaT2hkZ0pJSFdQdDYtRzcxWWlFMExwQTZUNC14WXlOeFBBb3JVREJJWVdIOWlWdVNwOVYxUQ?oc=5",
-        "source": "University of Michigan Athletics",
-        "pubDate": "Fri, 13 Nov 2026 18:50:35 GMT"
       }
     ]
   }
