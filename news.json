@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T16:03:38.768989+00:00",
+  "updated": "2026-11-14T20:44:22.767544+00:00",
   "feeds": {
     "world": [
       {
@@ -9,16 +9,28 @@
         "pubDate": "Sat, 14 Nov 2026 11:00:07 GMT"
       },
       {
-        "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-        "source": "NBC News",
-        "pubDate": "Sat, 14 Nov 2026 00:54:51 GMT"
+        "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’ - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0tBOXFGNG5idV9xa21WcTFVMnhWdldTM1RNY0VJQUtFNG9rM1hJWnZUbUhJNjFfSUJRaS1SVkE4d2ZIOVNZMzZGdDJmakRpaEp2Ym9McUU1RTE5bkxMM24zVzN0bkxvOFNyN1Izb2ZWLWlhZEJ5eTRQVGZla2pHM2J4MHdjdw?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Sat, 14 Nov 2026 14:02:00 GMT"
       },
       {
-        "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Groundstop - WSJ",
+        "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop - WSJ",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWttclRZeVZvN2JCTHVnXy1Hdko4UFhvRHY1TzNPcGo5cFkyMXFhZTRreUtwaW9fUUxCaGY0VDNhempMRzd1RHNaSUNITFY1VnpLSk5CWFhOR0JVeURzRG9uYnUzME9qM1g4LUNBcjdjeDcxR2JLa2FOeE1uRFBqWGd5RQ?oc=5",
         "source": "WSJ",
         "pubDate": "Sat, 14 Nov 2026 13:10:00 GMT"
+      },
+      {
+        "title": "Airlines report cancellations 1 day after FAA issues historic ground stop - Scripps News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXBfUDZJZnVBTGdfTEVYUlVjYWlNV1JvaW5wS0ZMdUstdHZ2V0JWbnRHNnlSZTZXOEE3YWluMjR5ZDhadWlsNFQxaDNIX2RlUDFZUkkxcXFOX19PbkNuOWZ6b05nb3F4RzlqRDdWM0NObGR6Z2hfZjV6TW9yVDcxTzhEWmo0cmhnd1dYOEFPQjc?oc=5",
+        "source": "Scripps News",
+        "pubDate": "Sat, 14 Nov 2026 16:36:26 GMT"
+      },
+      {
+        "title": "Trump Tells Advisers He May Hold off on Iran Attacks Barring New Provocations, Sources Say - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNkFnT3dlc1RIQ2MyaEhva3RWWWhUTFFtWTA5N3pSS3lmVXFWZy0yQy0taElBZHYyeGJxdm50aHlyNVRKWmR0ZGxwVmJTRnk0alhXUFlGeFo2bmJjQ0FJa3BvMk1uTUM2NEZVaGpadm9CQnRjYkRMTXduNDFCU1UwRml0RHR4dmFqUzZ3Z2s1X3FGbFZuTTdLS19LS1c1RTNKMldwUWRtVjlRaFpmcHVaMFgwelNKbF9Cb09nUmF1V1BPNU9BX2psdGtfX3J3RTdYZTdLc3FLRlk1bHc?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Sat, 14 Nov 2026 11:03:00 GMT"
       },
       {
         "title": "Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois - NBC News",
@@ -27,78 +39,66 @@
         "pubDate": "Sat, 14 Nov 2026 10:25:02 GMT"
       },
       {
-        "title": "2028 Subaru Getaway: 8 Exterior Photos - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wcEhqVW1MX0ZhbW9aT2hJRXRLbmhtTS03OTk2LTZEYmozMmlBWTEwZVoyTzZ3dXd6Tjc4NEhRVmJSZEdTeTFobmFLeGc0RFNhN3luaEEyeUNyaG1lMU5BeWQ1QmhlMjFzNGZ2QjlTcGFkQXlt?oc=5",
+        "title": "After Midterm Sweep, Democrats Split Over Trump, Cost-Cutting Agenda - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQczk1TWJvMTNUaFFza25kSnplc004SWwwaXdzMVNBNlZTSllieEFkQWFJU2tvLUpiWkt1bVo5TmM3OUdUanpvWUpDVkRHekxMc0RYMlN6aE5tOGQ2N3MtNDZGT2VSM1NQVnhxMWtTM0h4UHJZVW8zd0VKeklqWTN0aHhGWUFIcWFVZWZHODJCLTdhc3hJMGl6ZHJSU1FvUG9HS2xYSEY4TUk4NlVOY012NHhzR0ZNdWM1M0lsWA?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Sat, 14 Nov 2026 14:39:10 GMT"
+        "pubDate": "Sat, 14 Nov 2026 16:39:07 GMT"
       },
       {
-        "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVM2SEVWUXlCWC1sdTJqWlJ5Tm8wTUVmYW12UHRHZF81eGtTZ25sWWVoYXRZNVIxOWt3QVFjdmU4WndCblZKUE1Nd3h6U09aUWRMOExaQ25pMjU5OFFVMFZRYUJWMk1TMk0xMWI2LUpWcVZ3TUpwNlc3TExkR3dJSUUwOFBvRDliV3pRNWEzd0dLQUlSQmVoVVZ3?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Sat, 14 Nov 2026 11:02:00 GMT"
-      },
-      {
-        "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’ - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQTE4UXZYZmtCU01zdy05WHJ6Wk9WTGhFVjlVV2t2UGM4QTdBenhGY0k4NWVGVGZUX1g4dDV5TGNwVWpqR2k1dHNJUGpWdlJYV0g2dzhhTGhmQUI1dHRTSkJPVWVtc0VzbXhNZnhZLWJWM2ZuaG4zT2hnMWp5WGhEZmE4dXNEZmZIU0NISXJ4aFBSZw?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Sat, 14 Nov 2026 13:00:00 GMT"
-      },
-      {
-        "title": "Race to Dubai: McIlroy and Chacarra Set for Sunday Showdown at Season-Ending World Tour Championship - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkpuY1p3eGpvYWhkTlhMMlVQSGlRN0huX3pqM0wzZUdMcXVWYTkyQjFpd2JZem1Ya2VDRm5zWU1ZNzJ3Ty0wYVVja3BXZDdJcW8zMVpWdzNlMFFmTE9Hc1BsUmE3Nzl3V0c1cGNKVkRVdklNWFFqYVJRNXE0enRCT3FGdEZheE9ERWpac3Q1VV9UcHBVNzAzRlV6cUhhNjBHTEtXdnVVdTBUdTMzdkc4Z0I5UlZDenczdjZnXzZuV0czWjJ3QUxBbVZPZkN5bEJ6aDB6aUxmS2JrQ1libGVxUzI2dW9GR0ZDV2c?oc=5",
+        "title": "Chiefs Rule Out Kenneth Walker, NFL's No. 2 Rusher, for Sunday's Game in Atlanta With a Groin Injury - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU1FxM01yWWVncUo3MHdKbk9MdUZLcm93WTdFN0VxdEtXTUd5RW9wQldoYTl2TEhIR1VicUNuQ1F5MnF3UHlCdWZHTUo0TEFCdFM0RGRzNk0xczExZVVBbjdIR2hXdHlDQkM2RkhCU3VnR0VCSzNIdEFEUlNfQmRPWXhaMFdqaWEzNkxoeHV3TWtkUjNPOXJKLUJ5XzBfNkhjbDM3c1BodkNnaEJPOFc0VERCZWgxQXJ1V1ZDbGhQRlVqbXp0ZENvVUhuNHNhaE1nZTNwM1Yyd3VjeExwX3dTSzZLbXo?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Sat, 14 Nov 2026 14:14:00 GMT"
+        "pubDate": "Sat, 14 Nov 2026 17:45:00 GMT"
       }
     ],
     "local": [
       {
-        "title": "Michigan State-Washington Game to Kick Off at 5:30 p.m. Saturday in Spartan Stadium - Michigan State University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVUNhenNza0Nzc3J0TXdTWGJUNVR0ajZaNHkzdko1eWpfaTNuc3J6S3JrWGlSdzE3UVFkVVEweVF2R3BzRGl6UnhFak0zSVpZS2pzRy1KSkEtdUlYX1FjVDZBWmpUclNYVElDWkE4X1JlRGxQc3EtNGRic1NYMk43WWRaT3kteXdrUUFJQk1zNUpTMkZReFl3RGNTUlltUDl3NENvNk83VWJSeEp4ZWJzRVp0Z0ZtYTNtMTVQeWtpOHQ2TGdiUlhMMnF3?oc=5",
-        "source": "Michigan State University Athletics",
-        "pubDate": "Sat, 14 Nov 2026 11:08:59 GMT"
-      },
-      {
-        "title": "5 things to watch: Lions vs. Patriots - Detroit Lions",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzZhaXZWVnd3Q0MzTzR6cjFuWThJN1BrT3N3eXNaTmdjVlJELUdOOXpqSnY1WmdfNkl1VVpvYlZMQzRrcS1PVFVnR0NHRmxzdWF1MXNMdnZvYmpoOWxYbWh3QWE2QXdNa0t5bXpZTm44ekF4a3BqUWo0bXp1VU9mMXFwWXBFRFJSa0VJN3FR?oc=5",
+        "title": "Lions vs. Patriots: How to watch, listen and follow - Detroit Lions",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa1hSR0k2OXJHWUl5eDB2N2tQRzBnWFdBclBlYWFVV2FjcTdLYl82S1dqendXbVhaU1FLT1pNWWI0UUo2Nzl6aVZRVFdfbmpYS0NtVWJYbzNoN2ZyQlFRVlpVMlJydWFRNGlSZmt0dWdseXpGMUZKYWxxOG10VDFNTWlNQlV3cmhrX1E?oc=5",
         "source": "Detroit Lions",
-        "pubDate": "Sat, 14 Nov 2026 12:05:53 GMT"
+        "pubDate": "Sat, 14 Nov 2026 16:05:44 GMT"
       },
       {
-        "title": "2026 Michigan Midterm Election Results - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzdVd0QWRXZVllV2lQR0pxamw0TWZ2ZjhBNlY4aGh2TmVETUhGSHlQdm1nV2pqVkhyZmZzWVJaUTNUdmttZXM0VF96OHFMR0dQdEdrNnhBSHVlTDZISHd4c0s3aE9MQU1BdEdoOQ?oc=5",
-        "source": "AP News",
-        "pubDate": "Sat, 14 Nov 2026 10:50:41 GMT"
+        "title": "Watch Michigan vs Oregon Live: Streaming, TV Channel & Start Time - Nov 14, 2026 | CFB Week 11 - FOX One",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbU1GYzdlSDdYXzd1RkZfUXhaZnVoMkdwY2hYYXR2Q3lXcHdmY1E2MW43UHJ1a1N6SnZGajZKMzlFQUgtYkxvR1ZmWDNNa25IckVUVTh2TjBPNkRSNUp6TFJvZU1RWDVWX0pscEowTXN2N1hzcXFFcTZaTFhpRHZKN1FLWjRHQnVoWGtPV01YX1RENXZuZHBGRUM0X3ZQNGdKa2tvVzZhUXQxZw?oc=5",
+        "source": "FOX One",
+        "pubDate": "Sat, 14 Nov 2026 17:15:41 GMT"
       },
       {
-        "title": "Meet the Wives and Girlfriends of the Detroit Lions Sporting Honolulu Blue This Season - Sports Illustrated Lifestyle",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93dzNmbi1UWG5CMTQzU2gyRGxOdWVtekh1Nk4tOG1oMkJaWGhHX0Z1ZjE3Z05rdnFNbldudnVSYlE3X1lFTllscV9CR3NLMnB3QkItNUZZU0NMNlZicS02YzYxQWJmUQ?oc=5",
-        "source": "Sports Illustrated Lifestyle",
-        "pubDate": "Sat, 14 Nov 2026 15:00:00 GMT"
-      },
-      {
-        "title": "Michigan State Football Game Time Changed Following Washington Travel Nightmare - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQXp5U1RtRzRTNW9BWXNETmtCZzhqUEI1djN5Nk5mVVFLNGFIZVZndE5hVmRTaUhHRTltdS1JMjhvdl8tYWJaQnlrcFdzeUlFWXVhVHFqZHBVektIZWNWRXhRRE5YX0xTam1PX2NBZXpMRVR6OEJLTHdMNHhON3NUV0ZqeURGOUV4UGc?oc=5",
+        "title": "Where Detroit Red Wings are with Simon Edvinsson 2 weeks from deadline - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWxtSVRGRm44aTF0NExYdlpQekROd09vMk1ZSVBBcUsta3dvaGtlNVhISjVKRmRaQ3o0QnZLSW1jUVFaZnU1bmZBM0Z4QXRBLWliVFFYRHNqNFBQTGluRTJub1YtenUtS3l4Q3h1Ti1YQU1VOWxJS0xUYnZHVkFhZnB5c2U?oc=5",
         "source": "Yahoo Sports",
-        "pubDate": "Sat, 14 Nov 2026 14:07:22 GMT"
+        "pubDate": "Sat, 14 Nov 2026 17:42:15 GMT"
       },
       {
-        "title": "5 Things to Watch: Michigan - University of Oregon Athletics",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sU3hJR3RwcGlWTEpsYXJjX01XT0dRSWdGRGYtLWo5a1lzaklqRXM1ZC1mNXVQLXk5d2R2TUhGOHZtOGpYZnpjbGppZGtoYndta0xISmxlMHkwajl1aXNCbThvTWkyTDF1N21ia1Z6NEhNT0c2aTY1R2p1WQ?oc=5",
-        "source": "University of Oregon Athletics",
-        "pubDate": "Sat, 14 Nov 2026 14:04:30 GMT"
+        "title": "Lions vs. Patriots prediction: Detroit seeks fifth straight victory, while New England looks to bounce back - CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJrelVXbHlGcUtHMExEa3BndVczU3h3Ni0yUWlpMjhVbVdPMXBaU0tqNG9PMC1qb09GRTh6cEFmWGExV2hQRlM2OVNVNURfRGhxXzBJeGs2MGhCcW5XYmItR2tfQ0Zic3BILXc4NlN4Qms2eXhRMUhWbDlNVWZnZkQ0SU9tYTBFbDlfVU5XeUtTcHljRHc?oc=5",
+        "source": "CBS Sports",
+        "pubDate": "Sat, 14 Nov 2026 19:51:21 GMT"
       },
       {
-        "title": "Women's Soccer Completes MAC Championship Three-Peat - Western Michigan University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVlpU1d4ZVdHN2FqY3JkbzNIel96dVVxWEg4SXZZLXY5b0ZfTTVtODZ6TkdGQXNVMkJDS0cwTTJYbGtkcmtwLXpnUE5zMDJ0Wk9qQ0s0ZTdYenhaTnNjdy1XelZFRGdpOThUbDJ5UWRsSVlWVHd3R2R4YzEzX0xkaFJEUThEY2xfSzdZaDQ3TXBsWDJjejE4V1g5Zw?oc=5",
-        "source": "Western Michigan University Athletics",
-        "pubDate": "Sat, 14 Nov 2026 12:25:17 GMT"
+        "title": "Michigan football vs Oregon time, TV channel and streaming for Big Ten game - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMjJaVlZ6V24wOVBzWUUteTNib08wZVJ4ZHBNU1o4S1pBeW1yLXdEZTFHUnp6Rm1rOUQ3eUhHa3FpbG1ScHpZUEs4aVJKV203NkNpZXNCd251eWxUSjV5S3djZ2lpclFzYjFQakUzOFFTcG1nRFpZVDNjV3Y2SU91ekN3SkgwaEljb3lsejlhNXB4TTVxR2hzYnJzQ3lmb0RoM0trZWl0OVFwdFJwMFowOE5wdFgtb2FMSGVYcWRBMFNrb0M4UXZSWERWOUZVWHhaOW0telpB?oc=5",
+        "source": "Detroit Free Press",
+        "pubDate": "Sat, 14 Nov 2026 20:23:00 GMT"
       },
       {
-        "title": "Hundreds of flights canceled at Detroit Metro Airport as FAA lifts ground stop - Crain's Detroit",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Xd3JGMDN3OW5Yc04yU0tETVRXVGpBcmlKZ0VpdmpmdHhiSUxtTVFzeHZZYkhyc0owbkZRTzhxRVUzcXh4eE5yUzJaQWhTQWs4aEl1bWh4UjJMeHprQkx5cjFHNXpKdHZuRFRWNjBUWnBmZnAzUE1rY0F5TjhBaHM?oc=5",
-        "source": "Crain's Detroit",
-        "pubDate": "Sat, 14 Nov 2026 11:40:00 GMT"
+        "title": "First Look at Oregon Ducks’ Godzilla Uniforms Against Michigan - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEMxSDd4bVR2dlduWDd4Tkl5VmUwazlJdTFtakxxMDYtRDlIY1djWjRJa1dBaklDUDNXcFptQ2lYYy1PYnlVNTQtOEx1YzZ0SWFnV3hWbF9sbENfOC1WWFc3WGhMR2R1T3dwbVNydGhTeTNONUtlVjRralVBWFptYks1RGJVanJILWdSOGlWSU9lY1FCYlBzVkxjNWZZYzcxTFZBaDRDOA?oc=5",
+        "source": "Sports Illustrated",
+        "pubDate": "Sat, 14 Nov 2026 20:14:23 GMT"
+      },
+      {
+        "title": "No. 25 Indiana Wrestling to Face Central Michigan in Road Dual - Indiana University Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1V0Y2FXUVJvcF95ejVvYVlua1FYUjVEbWxiWnNKdnVILUxFaFQ2ODNaLWtFMFpqYXNZZkhVdDRPbkROWUdzMXg4MFFWcG1aWEZrM0xzLWk4V2ZmZEdreGF0czBCWXAzZmJUaDJFUFg4eEFCZzVXM0ZwMEZEeHNqRm1LNXNNUWNJd0FQb3dkODZuMk9qaEx0c0EwT05DbUdtNUE?oc=5",
+        "source": "Indiana University Athletics",
+        "pubDate": "Sat, 14 Nov 2026 19:56:54 GMT"
+      },
+      {
+        "title": "No. 5 Michigan State Hits School Record 18 Three-Pointers in 106-72 Win Over Northern Iowa - Michigan State University Athletics",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSEh2ZFh4Rk90NUhaaHFrRWFRckE2MUJOX2JoQ2RkM0ltTXJ2TlM4cU5aUjBud251Vi12VDZOUk1CQ05oWTc0RWhxMnNIb1V1UUNOSmxQMjlROUxlS2ZlbjZtUjNCcTNoZnpYQjJUeHhpcjJYbXRRR0Z5RWxaaWtCNURDcDV0LWpMQ1BVV29mVTI5eFNGSE9sUGxvY3l5N2p6UEY3R091b2Q2RlZzbUJhM1d5djUzbV9wSm5nSUU3alByTDZ4YUY0dG02a1BxMlQ5UWJ4NDNTRmVsdklXbFE?oc=5",
+        "source": "Michigan State University Athletics",
+        "pubDate": "Sat, 14 Nov 2026 10:03:56 GMT"
       }
     ]
   }
