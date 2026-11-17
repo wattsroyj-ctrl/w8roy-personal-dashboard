@@ -1,57 +1,87 @@
 {
-  "updated": "2026-11-16T16:53:02.265474+00:00",
+  "updated": "2026-11-17T00:42:27.742858+00:00",
   "feeds": {
     "world": [
       {
-        "title": "Trump Says Administration Will Appeal Judge's Block of DC Golf Course Makeover - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQXlsdWNsd01XaGNVNGtmWmJrRWN0dU9kOUwzeVJDem5FODV6VWhIb1Z4WE80YmsyYjVZVGlFeXpGSmdxdGdiU1lmbWdmTnRvQUFmdTFzN2lTM1cyWktBY1hJQmJGOEFudkl4Mmg2RVJBcV9sS3phQVpoOFI2aW9ZVXV6X0o5T2JXbk1rNHVMVFc3aWZhOG9YdkowT1RTbDl0Y2ZpWTA2YUZzZ0V2NlRFZWowYkVBVkg1dWNxZFNDNU5GemZac0tuVWtOaDVvcE0?oc=5",
+        "title": "Wall Street Has Bad News for Your Wallet - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3AyenpEMTYxZ1V2UDhSdW9QTDdNQktMQk1OeWRsYWRoLW1nTjRPd194cDdZYVYwdlhtaElweUpwb3pUbk04YkdTcTJ1WHRtVWM0U3ZRVFoyc1ZjMG5qMWk1eldmSjRDb3ZoZTZwRXN4c0pKRTFOSF9sZVBzWnpnSl9KZFEyd1lEZGJvZ2hnTVZJRHIyaUx2RGJWWDhubUh0VVFaT2pmaEE4OWI5dGJhMzFldkdyWkg3QTlfZGRVVQ?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Mon, 16 Nov 2026 15:01:00 GMT"
+        "pubDate": "Mon, 16 Nov 2026 21:04:29 GMT"
       },
       {
-        "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRW5PaEo2MjhMYTFLZmloUU9xejNFOXBnTUpyb1E3Mml2ZW83UmhzRFU3NnNoZlZtSTJyWnRJVGVpNWlkamJsNXloUm1wNHVkYXliaXE0SUZ3YnZLcVdQOFRXbkRKVkgtbkZhTXZDaHpUbzQya21kWW5TYV9Ka2dlbERCVVI2UElfSGlDWV9oZ2gwampzanNDT1VFLVd4bkJsaUJYT3JTNGdBSUNJQjY2WHhnUjg5Qk5UbUlIUE5Vd0xUZVRmUlZrWXUyQVI2YlU?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Mon, 16 Nov 2026 12:26:00 GMT"
-      },
-      {
-        "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDM2WTVPLVNWcUk2V0JzdUY2VzhndjY2RFJuN2g4c1FxdzBLckpSOC1yVUZqWDhKRXQtbEIzX0ZrSnFITFFLaUJpQnFldE9OLUE2Z3RHSEJkTDhkV3Z3ZjRuRmxPQmpZalgxLUdwazVHR29zVlVOUWlWSWRzR09uR1IyNnVjVjBROWc?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Mon, 16 Nov 2026 11:26:00 GMT"
-      },
-      {
-        "title": "Flight delays, cancellations return to normal levels after weekend of travel chaos - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1BfV19QMDFadUlzSzY0Y2VmWlByZEpQeld0QjZaeWJVS0lNTTRwbzlwMUVRelkycmF0QndXSHpIdVBodHBfN0dYV2pkeU5kd0hKS3ZpMnhYdjV5RVZ2X0NzMDRfTUFtS2trcmZVa1V2TVZ5MDJwYzYxVmtZdUxqbGVCQk5QbDBmaVhUVnE2a2JObzliSVRhSEl3Zw?oc=5",
+        "title": "United Airlines says it has resolved a ‘widespread system outage’ - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1cwM1owOU9ZcllpZ3NJQ3Ffc3pERy1ZTG1ObEp3bmJWQnJ1UGF0cERIb1NqcGc3Zi1fQ3FOckdnbkZDQkxpaElOcWJ5bWZxVEI5Rk1rRDdtRnpnVWlDNUxQT0lpd2FjejJtcm1ocFVQNVF6RHZpS1VfWmZ5MF9GSE1NMA?oc=5",
         "source": "NBC News",
-        "pubDate": "Mon, 16 Nov 2026 14:33:53 GMT"
+        "pubDate": "Mon, 16 Nov 2026 23:38:33 GMT"
       },
       {
-        "title": "Study Estimates Magnitude of US Data Center Pollution as Climate Talks Unveil Clean AI Pledge - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT1JzMGREdGQxNUc0T1FsSzlHaUJNNWU5VEJlYm1ySUY4RjNvXzZ4VG4xajYzVWhVT0tPaUIzOVZueFVzcUZudlhkOTlwUU9mUl9Ha3NCZlBJcGhCTC12X21JV2JnXzZGWG15aFVuNF9ocVVfMjE4RWpXMHpCTTIyTlJwQVFMYXRuRDIzenZGUTdiY3dXaXF5OGlJLU8yLXFPTHA5NGRJMGNjSkNSRXFIaHJ1YXRFREp5WTdGcUdVWTJ5eEpkTC00RjBMTVpGSGJjemEwWTBidW1yQm5mcmpGbg?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Mon, 16 Nov 2026 16:03:00 GMT"
+        "title": "United Airlines says ‘widespread’ system outage resolved - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY3lfVmxFTnpuYTV1NFppVk9FV2ZIbkExb3JwdGZYM292TjNlc1R5UTlwNFY4VFJZaEFFbWo0TU9UR05sUl9GUEdsR0Y1SWRmSm9RZk5VMHFVZjhSS3VyZ0ZXd3dSMGpYM3B2NllvZ0FjYTV3cWR2NUZSWUF2TWJ5TmphVQ?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Mon, 16 Nov 2026 22:19:00 GMT"
       },
       {
-        "title": "Spain's Government to Raise Minimum Wage 5.3% as Election Looms - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3Q0Y2Iza01KMTlCRzRrLVpKUUxWZVd6azAxcmJEX0lSVUdPdFVFNzJzNkIyVS1TWF9jc0V5VzBmY0tHNlU5Z2dLLTlRVG5rYlJSMGotQllvN19yeXdIdmVlZExzMTN3dzFyak92UDZucFdQUkVSQ0xhV2ozRkltUktJbm5WM2tOSlNPV1otZ2RkUW1pVG01VThUdmlEM3hwRlk5bnQ3bXpLbGllMXdLVkY4ZDF1Zw?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Mon, 16 Nov 2026 15:29:00 GMT"
+        "title": "Shenendehowa leads the way in U.S. News school rankings - The Daily Gazette",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSGIzVE1IcXllWmJLcThsRXk1dUxCQkR1VGxSRDBPZktIaktxT2ZGUExCZlNCN3d6WjluLWNMNDB2bHBqdkk3SmZtUWwzX2xfSnpjMTdrUkkxT0cxMUpRc0tHY3NrTnA0RlpuV1pjdWo2MkI1LXZMdHpQYWNoWk1XOUZvdDhnVFJPWEZWeVVLc2V4UW1oMW5aSWx4WDF1X1pOZ29TQTQtVEpBOEJGVDhxdUhRS2o0dWJYNHZkam9EUHpEZVI1bEdtSDljdjYzSWpDSWJz?oc=5",
+        "source": "The Daily Gazette",
+        "pubDate": "Mon, 16 Nov 2026 22:21:00 GMT"
       },
       {
-        "title": "Kids Who Need Surgery Fare Worse If They Live Far From A Hospital - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2t6X3hGRnlka1MxWkpVOGYtdVhjVWtqc2tLN3FsZExNQkFfVTVpaUhzbFdNOENEN0hFQmoxWU90S1k2X1pMcVFaeFhXYmhMSm1MME84SFVUTEVoOXNxOVdMeXNYOUtTR3JNNDNTRU9LLVZ3dTRoNll1Z082M3FvWnpCRXloVkpHT3BMV0I4VS1hUUNMZVFfcUZiUzZCb3IxaVhVZkVLbkV0RWI2YkJqM3Y4X2VqY2ItLVlZYXY1SVdaZEE?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Mon, 16 Nov 2026 14:48:00 GMT"
+        "title": "More than 50 Colorado nursing homes stand out in U.S. News report - The Coloradoan",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWJyMTVKbXZEaEhmQTNWMTZaX2RKS3JwelAxZUVyc1ljdGlHQXNNalJyQUVaR3M4eGgtR1YtVU94REdBOXJnT2tjb2RCWVVRVXNhLWxyaUVBOVo5V19YVmNrb1YwWFBlUGdQTEVjQTJ0MTV3SFJ2ZS13S1Q0S05ZNE00ZmJsOG1pWDhKMTBfb083Z1BraWVqbTA3THVteGd0aWtYV2tRRUJ0WGx4LUI5R2h3?oc=5",
+        "source": "The Coloradoan",
+        "pubDate": "Mon, 16 Nov 2026 21:53:00 GMT"
       },
       {
-        "title": "Trump Says He Might Meet With North Korea's Kim Jong Un in China - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckNEWGFCZXRxNTZzbERHUjUtRE9sUHRVZ3NWZlozbl9sd2tDc1d6SGZoeTB1QXNjMGtqYXQtdFB5a05rYUliTTB1dXJKQWJTeGwweDB4Wl95cm4td1FGTXhScFoxZ2tYWm40cXZGRGVFaVJWVC1aVUpNb2o1VXA1QVZPQmYtdjRtWGlsTUJERkE0amdYdXQtYnRzdFNvbHFMMXB6Vzk1VDd0dlhUZlZiOC1hUXlOeWJU?oc=5",
+        "title": "International student enrollments at US universities plunge this fall, data shows - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGhoZjFfNWtlY1pOZzN6bzN3WjFhckk1MjFGYklaZk44elVCMEdwY1NPX2RleHhKM1BpYzRDcFIzNEJaWGtYYXo1dzUzSEtlYjN0dUx2dFJBVjljMnR0aEp6eF8zUkVaUnlhdXdyQk9MWmJQeW5uMlFaMXc2XzBXU2FWUUJwSUptVXpDSzBOR0Y2UmM?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Mon, 16 Nov 2026 23:54:00 GMT"
+      },
+      {
+        "title": "A Technical Issue at JPMorgan Chase Triggers Online Banking Delays for Major US Banks - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQelpzMFJLWktMOXJ1VWZ2RUMxeENqY2YxUGlwcHVRM2RHODJVS3ZnZ2FXbjFqN1ZIdmR3S0V6QzFDVWUyVG85X3djNWxlSklPNEFIaFdwUGlWNUNFbGNlSS1vX2VXemNHc2tRTE5feVpFd3M3ZElyaWZmWURNVEZUTk9hLWh5eWVCS3RULXdwUlQ5c2UzcmRId3RBLWdVU0ZITzVYSEhjVXE4dkluMnRTLThRZl9JWGJUaFF6Y045dXp5OW1GMm9RTHc3amVhSk1wX1RrNnByb3dMa3B2blBLcHZDNndpcGhpckE?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Mon, 16 Nov 2026 14:47:00 GMT"
+        "pubDate": "Mon, 16 Nov 2026 18:43:00 GMT"
+      },
+      {
+        "title": "Ground Stop Survival Guide: Here’s How to Get a Refund | National News | U.S. News - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmJGU1hoZVZmdXNSZWl4aXg4NHhENUVWVHdQRk13UFdpSTFZMENmX0pxZVo1a0M2S3pRN2NndjRUM0NKMm5ZYnpOeFBTTkZNMEd3QUlKYjRCcXFjbjJHUHVYakJza1pXZzUtSDJ5LU9yRDN4RkMwUHVMcTY1allWMEFJNFk5ZDdGWnBkWVNIX3Z0bmhzVnJVQ0t4RTgtY2xUWVVOUHdiTmdyMGFxT0FsTUZOc3Y?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Mon, 16 Nov 2026 22:37:20 GMT"
       }
     ],
     "local": [
+      {
+        "title": "New Report Reveals Why Detroit Red Wings Have Not Traded Dylan Larkin - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTlyeDRrb0lsblludWNUb1haSl9aT2pibE53TFo4WHJDTDNzU0xDTlRuR1VVVnZBR1FieEgzZlVuamg0Z1NUNlFWazV3dFNidldhSE0weHRXNHN4SlFIVjVPM19IZldCYUZxZUg3UDV5dFdZdjZmSnRzR0x6ZUd4UEItWXl1QQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Mon, 16 Nov 2026 22:33:16 GMT"
+      },
+      {
+        "title": "Detroit cop resigns after taking stranger's wallet, denies charging credit card - WXYZ Channel 7",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYW1nX1FkNEZTd2hrS281X1FrMGNMZVFCaGgzODEzc0FzQ1RRQlFaX1ZCcDBVQXhHcUprLTdqZl9qZU04N3FndEVMQmxRNk1wLW44WkNab0lLRFh3R25kSjRKcHNpM2Qya0hNQXUxQTQ1NHNlMVdXTWNSWGRzMUtuTllPSEhLRXg2WTJTQ3lyR1lSVF9hUzZFSjdjeTAxeUs0QVgzWW8tblJFX0FnSXgyNUw3NzFTQU5HeW1VTWtmdklNbTU5eXpBTg?oc=5",
+        "source": "WXYZ Channel 7",
+        "pubDate": "Mon, 16 Nov 2026 23:29:07 GMT"
+      },
+      {
+        "title": "McDonald’s giving away free turkeys at 12 Metro Detroit locations -- here’s where - ClickOnDetroit | WDIV Local 4",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaUxGSGRGVUFNcnRDdzdVSDBYNVFRU25rV00wVExmMld3WHp0ZHhaaGR4eEhDaVlnMkQ0SmtIYms2TkJRZlBrSENIT2s4OXZfb1J5dlNtdDFJNE9zWWUyZHBFay1xVDJMYmZUTlZOUzBwU2RUcUMxRnVwSmIwS1paQWdHWV9oTHJlTDFDTUVaRGRUZzZWeWhaLXFPaC1QYjhLSHhOa2VMU3oxV0ZwdXF1dThKWXZRcXAwWnFaQkU0d1ZGYS1UT2FuM0x3?oc=5",
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "pubDate": "Mon, 16 Nov 2026 19:02:16 GMT"
+      },
+      {
+        "title": "Lions star Aidan Hutchinson out for season with knee injury: Report - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGdCX0k4NUhYOG9GS21lUHFxN0VkNTI5U2J3MTZXVGE0dkRiR1NVNUd1N3RYMHNIUmFENE03Rk5YU2lCb3RwcWV3UlMtc25leV96SmZpR0lqcWRqOUpwQ3M5WVVIby1mN1doUDdyZHp5b0F2TEZqbGFySmpUVG1ORXlkX0Zva2IyRm5MNWZhQlZXbmw3TGwxR1FTTGVJZXBrR2xMT0NiZkQ3TTFOUmxNY3FfWTdVLXdnZHc?oc=5",
+        "source": "Detroit Free Press",
+        "pubDate": "Mon, 16 Nov 2026 23:01:00 GMT"
+      },
+      {
+        "title": "Stevie Wonder's Fox Theatre shows in December are abruptly canceled - The Detroit News",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmJRQUU1a3Fwd2lfblFVaWhMYmMyMDBaUWMzVWNTRFZfWmU3S1l6c2ZEMEQ2WlVmNzNRY2JEMVdWRFU4QUtpRWRGZnRZOTUzdndLSUF5Umptd2ozRmVNUHl3bUpRSnBsTWdtekd2UHN1dFZOamFzbXFGNjZwNGZPTmM4ZngyR3VIVDhya09RRVJvdVRIWFpTOXFaNWhJYTAzV1VCQ2RRWnlHd21pczBrSWk4VG1vUjZDYTlMUy1IeEduSS1LMzRqSDl0a0pBQnZ6?oc=5",
+        "source": "The Detroit News",
+        "pubDate": "Mon, 16 Nov 2026 23:49:00 GMT"
+      },
       {
         "title": "TWENTYMAN: Week 10 observations - Detroit Lions",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXJRUmhsbS1Fa1BhbnJBQmhBdFRMeWdRMjFSdzd6QkFlM204Umg3QXNJbVAyLVQ1TW5aRW9Ed0l2aFBXaGpuVnRScXBWZEJ5NjJOdG1hU1N4V1JXYlpxdlotWFpvZm1JQ00zaGI4NU9xZDRuVXlCT24yWWtOVy1Ydjd5WHB0Z1VycFROaXBnUTFXWXpXbnVQU05R?oc=5",
@@ -59,46 +89,16 @@
         "pubDate": "Mon, 16 Nov 2026 12:02:10 GMT"
       },
       {
-        "title": "What we learned after Michigan Football’s loss to Oregon: There’s no foundation - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX2pLM3o5cnlHSkNsZ2IzV0t2aXFFdTcza0hVWTlCQmNxMXlQOU9GWnozNlRwRkdwdlZfU0haWklLVXFWYXgySkJMVDI2RmtsbF9MRjRuM2huX1RLOVJOXzZVVVRrTTRGSzdSWTA0UFNqSWJWRWZXdzFsbm5vQmRvcWxwWHg0NkVVQVQxVFR1dw?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Mon, 16 Nov 2026 13:00:00 GMT"
-      },
-      {
-        "title": "Broncos Welcome Eastern Michigan for Tuesday Night #MACtion - Western Michigan University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUVNFVlFSNGpqeVo1ZV9MWWZtaUdmYkpSbGVWMUE4NkF3dVlqSTNITm9XQnFIbGJ5S2ZRanNjVk4wNzJOUzhOeUpNajc2QlZKbzNyeU9UTDJGSENvdmR4TUdqODFybURGSW56M2FDNEFad1JaVldycXM5UF9uclp4U0J6M1FkU01URzBJcmZlVXJJbm15OEZoOGlDTkVOeFdQbHF5akZlTGItcC1LTl9uWQ?oc=5",
-        "source": "Western Michigan University Athletics",
-        "pubDate": "Mon, 16 Nov 2026 13:09:01 GMT"
-      },
-      {
-        "title": "Detroit Lions Week 10 snap counts: Derrick Moore steps up after Hutchinson injury - Pride Of Detroit",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXRwWldnWGUzX3dscldwSFpTZDJGRFJYNGRHaWpPczBMdm5RRnQtdGxpSW5zSGpaXzIxUzBjM04xMjlucmZDR2pNa042LUw2SzlNZ0Z1ZnN1b0hNOVVRb3ppR28wQ0prOFBUWGpLYnB6dEVRaUdHZG41RmM0NlplXzVCUFNHZ0Y3ckM1RUJ6alhVYVRmeXktYmpwa3lfSnpNcWJqbURRTERKRncxRUkwZnhXSXJ3c2RaVmtOR0RBTzZCNHV4VUtJb0VYSUI1dFRJbzdHLUdsWU4?oc=5",
+        "title": "Detroit Lions re-claim EDGE rusher following Aidan Hutchinson injury - Pride Of Detroit",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnB1cG5KWXhILVpLNXd5eW5LNmh3dDNfM2tKRENJS0NwN0tjelYzYkVlYlRLMUhBeXQ4cThCV09SS2ZxZ1dJamhqVnFocmp4RHU5SnVlakdYQVZ2ZjZMcl9TMHViMTJPeElvNmFKLXRXSHlTSnhNT1I0dmtsZGFSWFZDVDA0SExKTEJiVU0zZ3F2ZzJ3eUJlZE5UTTBOUzJNZkVHRFd1T3V6Y2NuSFlIbTJvMUUtZG5iS0F2RDU2dFl1T1U?oc=5",
         "source": "Pride Of Detroit",
-        "pubDate": "Mon, 16 Nov 2026 15:30:23 GMT"
+        "pubDate": "Mon, 16 Nov 2026 22:36:57 GMT"
       },
       {
-        "title": "Kyle Whittingham Reveals Michigan's Passing Game Loses Top Contributor - Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSEhUa1N6c21lRV9hTXh5RFkwWmlUUVVXcldZUVlYaG1LZ2lDM1hCb3NPb1RtSnpIcnhJWkh4U0cyUTgtS3Jka194VlJQT1pJY3dvc2k1Z0ZROGctVWhWa2tyc3kwZHFLQW9PTktnXzd5TUtlX2loOXYyQWowS2xrTmNudmdUMGg0RHlfOVpnTmw2NlhpNmcwS0FZWXdGX1VJRWRub2cyN19PUTVTLVhqUXRnSmZSdw?oc=5",
+        "title": "3 Red Wings Players Who Have Changed Detroit's Outlook After 21 Games - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2RRZ21CSS11UjBTelUwOHdIUnFQQUFhd1lrMzJGdlhxbjM0WlgxcFVmWS1hYjV6UXBRLTVJSTd6R0lLajBUWWM1akVtX1E1aTFVRzE4NG9kR0NVQUQ5N1VWX2JhbGcwNDB6VW94cWJRMzdpNm9MTzd4bWNka25WT2owMkNzbUwxX3pFeXhaTUF3SDNtWFFDUUhmMzUxalMtX2kxSFZCZVY3ZmtDSERz?oc=5",
         "source": "Sports Illustrated",
-        "pubDate": "Mon, 16 Nov 2026 15:41:17 GMT"
-      },
-      {
-        "title": "Central Michigan Welcomes No. 2 Michigan for In-State Showdown on CBS Sports Network - Mid-American Conference",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR3J4bU1ZRVFMdldTWnVSYm5Na2RidTNyYjhlX1ZYOExXaHE2Q2plaGVQOVE3aUd1ZEFDYVV3U3hVQTJadlhuVWplNFR2cDFGT2Z6OUk2RGFoakJxaEZYUGNBSDJsek9JbnI2M183c0YyNDh2LUhEckFuWWdzZ0lqRVdSMExMb2dTRGZDZm9TWTNZQ0lyQWpDZmh1U2kyN1k0UTE4QVQteElFY05GbnEza3loOFotLXA4MENGUktxNEo1endRcFFUYnFyS3dPc3ZSZEM3Nkp1c1o5d3cwRS12UGNldw?oc=5",
-        "source": "Mid-American Conference",
-        "pubDate": "Mon, 16 Nov 2026 14:57:47 GMT"
-      },
-      {
-        "title": "Five takeaways from Michigan football's 31-7 loss at Oregon - 247Sports",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3N4d1pkSGxQOVZSN1Y0MDg0dW5lMjBkQUplQ0p3Q0FpdnA1UVlPd0tNZTZuNnVkSTU4N0NrNHlDcmdGTnRkRGFIUmxabk81VHFTZldGNUtQRm9VYVduTDl1SUp6RkpKWXdJSUppTWkyZmNRQ3NvSTViQXEzc0x0Sng2OXNfTmlSbDd1QWdDaWVTeXc4QWVjeWtvb0JreS11NUh4VDFoOXZ2MU94enNGYzRydEQtQ09hOU1mMXBVMHFaQQ?oc=5",
-        "source": "247Sports",
-        "pubDate": "Mon, 16 Nov 2026 15:59:29 GMT"
-      },
-      {
-        "title": "2026 Michigan Midterm Election Results - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzdVd0QWRXZVllV2lQR0pxamw0TWZ2ZjhBNlY4aGh2TmVETUhGSHlQdm1nV2pqVkhyZmZzWVJaUTNUdmttZXM0VF96OHFMR0dQdEdrNnhBSHVlTDZISHd4c0s3aE9MQU1BdEdoOQ?oc=5",
-        "source": "AP News",
-        "pubDate": "Mon, 16 Nov 2026 10:01:03 GMT"
+        "pubDate": "Tue, 17 Nov 2026 00:14:56 GMT"
       }
     ]
   }
