@@ -1,57 +1,63 @@
 {
-  "updated": "2026-11-24T00:58:49.167882+00:00",
+  "updated": "2026-11-24T10:50:18.128742+00:00",
   "feeds": {
     "world": [
       {
-        "title": "The Big Idea: Shaping Incoming Classes Through Direct Admissions - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUVRQUJZTmYydUo1N3lPNTBYS1NzU2czYjhJSmVuNHh3QW1NTVRubXpldVpEa0wxM2dWTzI5ZXNxNzBPS3JrNWs5Q0RDb1BFc3NKRHhSelJabDZNYnhJT1BacTJKc1p4MXNuSUVSQVNQd1I3NTA0UzVLWkRkMUVVZm8xSndnZXNtZkJCczlNNEs0RFBVNERPanVjVWEtOUVmb3gxaTd1dFVOeERvUkFJMUZNTW9IaGV5UEp6RVdFQV9xNm1k?oc=5",
+        "title": "Donald Trump News: Breaking Headlines and Video on President Trump - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aSmtma1NveGJ6Q2xJUmwxempzNzE2WmxGTUxjMklLVkZheWJrcFNPSGNKX2NRNmRnSnZGNzlWaHVvSmVpTDZCZHFBQjdfTU1RVGVHNWx3RUM?oc=5",
+        "source": "NBC News",
+        "pubDate": "Tue, 24 Nov 2026 08:31:22 GMT"
+      },
+      {
+        "title": "Iran War is One ‘TACO’ Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pYmdDNHlwVE5HeWF0T2FkRDQ0SmhVeUxwVDZ6YXd2bGxXZldGYTR2aEN2bVY3d3Rad1NaYXFQYzJGNzJTVl9HNDhtd21ENmMxelBpSHY2M3cxbjRHUGZ6dzVyZVRaalV6WDZKSXVyNWd1TEFncWlN?oc=5",
+        "source": "EnergyNow.com",
+        "pubDate": "Mon, 23 Nov 2026 22:58:16 GMT"
+      },
+      {
+        "title": "US Defense Chief Has Yet to Approve Patriot Missiles Already Allocated to Ukraine, FT Reports - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVjdEaG0wVExIbTU0QVdySzZlMUNtcFgyd1ZaSGVET3FTSERsRGJrcGZ1MXVfelVWQ1pYZVo1SmV4dDNZbmlsZllyMllLaTZwQ0w2WFBnaEo0VnpKcEd0WXNfeGhfQlVaZFliZXhnYkp2aF9HRnVXX1E5bnB1SldiamdQZDNpM05RdkRjR1dfTnlLdGZGZV9lbHE0ZG5GaXBzRkNIbEpxZWxiM2N6clRydUEwS2N0c0t2ZXNsMGZoMC1mYmdXYzhxOS1tRmJKa1ZGcWtVdWIyUFVzbkRwUG5R?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Mon, 23 Nov 2026 17:42:00 GMT"
+        "pubDate": "Tue, 24 Nov 2026 05:55:00 GMT"
       },
       {
-        "title": "Federal appeals court hands Trump way out of conviction in hush-money case - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2JaTzNuVXRfNVhTR1BKTkRUNFpMU2p2R1dnYjA1dG03a2ZhWXFOa040Vl9lLVZHQW1fYWtfaGI5b2F2SlVodzctX2NSNWFuWTV2U3FtVDZBbVMwNXFoT2ZZeXphWUFyR1g4bmhINHprbDgxcmlJcnZaLU14VjJCQmZBTldfUVg0RE9DYmVCVHJnYVh1Mnh4cEJNOFZFdEhh?oc=5",
-        "source": "The Guardian",
-        "pubDate": "Mon, 23 Nov 2026 21:59:00 GMT"
-      },
-      {
-        "title": "Local 10 World News @6:30 PM - WPLG Local 10",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRW1PWEFqT21nRHljYUZ6bmxhckVDbWZBdHpBMHlTSm9sVGhYRTNtNHJVaXpZak9wR3NFTHBObUhxbGx4WmNXbTRMYWNiUEZHQ2F6SlFoa0lwYlZtcGpJdmg3S2RjdGJ6TkFpUUszSGpsZlhEYUNVMjdDNGY3RUw4TkhMMFY5dw?oc=5",
-        "source": "WPLG Local 10",
-        "pubDate": "Tue, 24 Nov 2026 00:13:38 GMT"
-      },
-      {
-        "title": "Federal appeals court clears way for US Army to detonate degraded bomb-making material in Iowa - Scripps News",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSU9namR6QTNzTk8wWXhTNE9LVW8wMmR6dWJwSTFkajc2OElNazF2blF1aWVPZXgtVlRNbGtibk9hUm55dWZYOHRIZ0oyT29IM3VEdWNBRTRjakZndzdjNjRIZ29yYW12RlpJZnQwdDRHb3BwMWxXLUdhWXpCYnRCWXdxVTRzbkhqWFRRQWlrcVIyaUkzY0l4YW9EcUd6Tk9JZ2xadnJ3NHJtd3J2Nkx2bTJWSzhBTXVKY3pOQlVJaw?oc=5",
-        "source": "Scripps News",
-        "pubDate": "Tue, 24 Nov 2026 00:33:45 GMT"
-      },
-      {
-        "title": "Trump backs Nvidia boss's return as backlash grows - AFP.com",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByR0FxcUI3c0h1REdaMTRvVXY4MXRYUWJGdnVFY0RQQnFGTEpMeFAxaVFaVHROT1REYUhiVkFaQlJXaHh0Mzk5eDMzS0ZrX1RiV0Y3SUE2cTRBdlpYbU5fZ3lQeHNjX1I4Vjdnc3ZXbFA2ZjF0LXNUYQ?oc=5",
-        "source": "AFP.com",
-        "pubDate": "Mon, 23 Nov 2026 21:02:36 GMT"
-      },
-      {
-        "title": "How to Sell Medicare for All to Trump: Put His Name on It - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOU5ZMmZSWXpUMWhMcTNwNWpkOHp0YjVTRWxrWEhoQ3JhUUFBX1h3cnU4R28ybUU4Z3NuUWFSUTgyWDd0a1czSjBUQ2lDUkpLVHNQUEM2Y0piZW9TbmU3dVVpUklyWU5UbTdLTkI4RmVfME1XSzVBeUR1UmhnX0FmVWR0Qnh5UXNSUDc2MnZZWkR3S095YjVEbjhfV3pHZXA3YTJDNHpHdWhmdnd1NVVuRkRZLUF1VURBbm9qX2pRejFhUkp0NDY4eDBn?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Mon, 23 Nov 2026 21:02:15 GMT"
+        "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
+        "source": "Britannica",
+        "pubDate": "Tue, 24 Nov 2026 09:46:47 GMT"
       },
       {
         "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQalNpZG5KQVNvYTRDWm45eWpQZGJnQU9GdWZZOTQxajBtSXpId3FuY2RHbU0xMFhTN0VpUFZHdGY1TDEwajlJa3RYTUxpQm82SXJIN2RIMDhsY2lxd1BORlFtV0lBRHpnN3FaZzUwZ0JaOHpQeDE5YzU3d1gtYVNMWGpaRU1acFpQYWJqTEdjbk5WcGZOVURlVE15bC1VYkhEUTFwMUhVRWZleWRsZXFocGR2UQ?oc=5",
         "source": "The Guardian",
-        "pubDate": "Mon, 23 Nov 2026 18:23:00 GMT"
+        "pubDate": "Tue, 24 Nov 2026 02:30:00 GMT"
       },
       {
-        "title": "Explainer-What Are the Various US Federal and State Probes Faced by Nvidia and Jensen Huang? - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMTZJMGVKdFJQWG5QVFZaWDQ0T1h4dl9udHZjcXRSemg5TEVRb0xLQms1eW80WGpSYk1QMHhndEtzZGxFME9NNFQzWE9WSWZuc01NbHlCNDA0aUg1ZlJGZnBhMDVpeUdVZllmZUxPOXlXVVFFbUNlTVgwWkdXenV0VTNlTjlrTzR4bmxRNlBTNk1vRHZUMlZmXzlJc2hwRmlmQTB0OVYwNi1Vdm5IOGF1QkFwdGU5Tk5wUHh1czd4QUplTTRzUVFoVkkzYzNYT2xFSlFSamJFVVRfbjQ2TW5DWnd3?oc=5",
+        "title": "House Democrat Expands Investigation Into Donald Trump Jr.'s Investment Firm - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1haM2NOZjBSU1A2MFVJT1VaVTRQbmtJUDkyUHhzZVJjeDJUUjlJTGtNWksxUWFOaVlYQ09hSWpJQ1RjS2FQREV5dU9DNVNHYXU2OFVhX2NvZUo5VFVaaFRhRjZDdzVoVnJlSE5QZmNsb2lpY01WX0hCa3g1NU1ycGx5VzhWTGx6b3dtLWxhemV4UThEZHNkMFc2RlluQUxxb0lZUU0wS29rdTNGR1BfSkJrS2tzWnB3X3IxT2F0cW1HNXpIS1pIQTEyT3E?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Tue, 24 Nov 2026 00:43:24 GMT"
+        "pubDate": "Tue, 24 Nov 2026 10:03:00 GMT"
+      },
+      {
+        "title": "Japan Accelerates ICC Funding as US Sanctions Threaten Court - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk83Q3BrQk90OUFaOEJIY2hwcUFzMU9qamFSY1FJcEpsdlplcENxTTYxVXVQYlhFdnEzN18zLVFGcUhpZDdBeURSeFBxek9odWpkcF9yWUQ2ZW12aTN4VzRJR1Z2UUhxUUswemN2MWRkS0hlM095SUV1VmFhcmVDUkdlLUs1NXJlSGJGU1dCMGg4NUtmS2prQUhfcmZwaWNUY0lieFBRSUozY3JHR25NM1V6U1M?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Tue, 24 Nov 2026 08:27:20 GMT"
+      },
+      {
+        "title": "Some in Jensen Huang’s Native Taiwan Welcome His Return to Nvidia Despite Scandal - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmwzYnlERExWWUwtQUVLQW5OX04xeG9oU3BFLTRaVnV5RmxFQXlvM1FNMVZ6WEU4Sk5NOGZKYzVnWHM4R1k3eTBhVmN3REwwMjRxS2hibE5qUDdJZU9BV0NTMmNjc2FBY3NwLTFJSWp1MDhjRzhIREl0NFoyUmtFNmNlWTBrQW9NN0huUHpEZlJvbmYxb1VOQnpIUmpzYVpWeFJ4c0JXRTEtZWF3VE5SVE1Od1Exb3h0VnVJNXpjaEVUakhXQnNQb1BsblYyUERhYlpZ?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Tue, 24 Nov 2026 08:49:00 GMT"
       }
     ],
     "local": [
+      {
+        "title": "Men's Basketball Heads to Cancun for Two-Game Swing - Eastern Michigan University Athletics",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3FUNlpYVXVpTFNBOC1Uc0VRVy1PYzZmX29rN0dGVFJDQkdfTmdBbTFQck1KVDRXUmg5RmN3UG5qdndUMWNUdUJpX2pfQjNjTzFzVk9TTXJiWnJfOWN2U2trNUxZdjBSd0xncTExNjlfRVc2R2ZFUEVmRE1ya0hQX2ZHREMtclhrcllkU215RzhRdw?oc=5",
+        "source": "Eastern Michigan University Athletics",
+        "pubDate": "Tue, 24 Nov 2026 07:07:30 GMT"
+      },
       {
         "title": "Joseph return bolsters stout Detroit defense vs Buccaneers - Detroit Lions",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFZCaFFCNGpSNVJXemRuVUhOdlJJekdxZkZpNFl0a1BRcG1obDc3eGxkSWRiZk9yZmRWSTlUa2s5X0FlSGNYdVdUUFZIUG1SOWxBV1VLRGU1S1hRWnZUc2p1X0xLRk0teFlXdXdMcEdpRXRJamdHM0cxdkZCbEhKLXpxYlJsV3dFY1FCS0IyTEh4OVM0NzREamxfMWRSN05iM2tmU1RtSQ?oc=5",
@@ -59,46 +65,40 @@
         "pubDate": "Mon, 23 Nov 2026 18:58:59 GMT"
       },
       {
-        "title": "Michigan 79-58 Miami (Nov 23, 2026) Final Score - ESPN",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkVmRElQNjlUdGNKNFRVNmtlRGpkemVKRWhEWExxWElKV3c5U3Nsa1JzUTdzMnZSWG5CMFJLZnlQVHpEVXNyRC13Wm1YbGp4cjNPNVdtcUJwSzZEZzl6R0pycGpScFlKWGxnSHFKQjVWbTVUdUE1UU1Lc2hJVXN6QWN6NTFHQW9ETDR3dEt3?oc=5",
-        "source": "ESPN",
-        "pubDate": "Mon, 23 Nov 2026 20:49:34 GMT"
+        "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWhNTk1OR0RGZmdBN3RhdzFrLU4wQXFUNC1DbTF2eWNka0dYNmMyeE1VR2o2dHd0LWJ1cUYtbWlRTzlfazNKTFozOHpBWV9kSUVGYVBPQXc5NzVrU2FMdWlENjM4dzRTOGlRVXFDS3JoaDEydEJBVDhSUjBZWU5kZ2lQTDBkX1pJcEHSAY8BQVVfeXFMUFBtdWUxeGtRWWhwWTExNFJPWjhfM0JaUFFaeTJDcEVkSnlLbkpydl9zcGI1QzVIN1RwZkd2SER0UTNKcm40OGpXV2lRQWgzQXlhZUUzOEJSdFRod3hmazU1ZjluVm1jRVJfNGQzNmVFMWZMaVFwNEZOLUYxQVJMN1hkV09ubHlGTk45Sm5NNms?oc=5",
+        "source": "CNBC",
+        "pubDate": "Tue, 24 Nov 2026 00:55:00 GMT"
+      },
+      {
+        "title": "Detroit Lions film review: How Kerby Joseph was utilized and what he was able to show during season debut - Detroit Football Network",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tTV9ieERXbEN1RzFjUEZSRWdabDdFcGRfTFptNUlRS1ctaE9JT1BpZjZzaXhJLUZKYy00NmNkNnFSVnpMdmN2RjhoVndZZEl4T0drdWlYWUhraUZpZ25NdXdYR3pScDJBRTZwWWExWG8teTR0QUUzZg?oc=5",
+        "source": "Detroit Football Network",
+        "pubDate": "Mon, 23 Nov 2026 23:11:42 GMT"
+      },
+      {
+        "title": "Detroit woman shot and killed in Chicago while celebrating boyfriend's birthday - FOX 2 Detroit",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjVfdDE0OHhteFBkRW5xU254UmdhNDZhdU5OVVNfVUVBbDlvY01iQ3V0SDN0S2FuNjJhNm11UmNDU0tIWTQ0Wl9HcDNJZF9WcFFuZmRnSkEzdmQ5TF92ODlHbmdJVFMtX2Nqd1I3TmcxNklMSDlYaHMtY3N2clhadFBwS1FSeC05SU9qbzNyZVFHUlhUT1ZCUjYwTEU2cFRDVnh0VnYyYw?oc=5",
+        "source": "FOX 2 Detroit",
+        "pubDate": "Tue, 24 Nov 2026 03:45:09 GMT"
+      },
+      {
+        "title": "Lawyer for ex-Detroit Lions CB Terrion Arnold seeks sanctions over evidence withholding in Florida case - ClickOnDetroit | WDIV Local 4",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUkFLTEgwdGxzT0hTenFHaHAwSjJPeGF2YWtMX0hEaXJ2V0NyYUd1Um50NUptZlBreTlWX3otRU1KR0xVZEV3WHVHNTdkTi1JdGJpTHF5bG5zSndBSlN0Y24xSG8xUFFBYzJTSFY0X0NXb05FWnBHZzBoSDl1Y1JIdGZvaWY1MjFUREg5TWJ2RWtCWEpnZjZfTEJMREU5RURPeEJBOWc5dzNwQzB1YmZCd3MtR1NlbnhnR1ZOcnR1MFVJWXU3YW1aRXYzM1VMbkhxWU5fQV9QNmgzUDY2bmZtMHVrMnNDUTE3MDRQakJn?oc=5",
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "pubDate": "Mon, 23 Nov 2026 22:48:59 GMT"
+      },
+      {
+        "title": "Bears vs. Lions Injury Report: Chicago has 3 DNP, and Detroit has 4 - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNUlFaWx0blVVNTlIRVI5TVc5VGF5d3NpM0lwX3UtWFFvY1ZVVkw3SDI0VUw1ZmFNNHloTXpJWHZ2alF5RXhOYVl4bWFhanBTVHFnRDZBcGYtMW90R2VIUzZnNGg3dDNhT0t3UHJZU1ZjWWY5a2ZMU1Y0c3FYamdRaDRpTQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Tue, 24 Nov 2026 06:03:00 GMT"
       },
       {
         "title": "Shawn Horcoff Press Conference | Nov. 23, 2026 - NHL.com",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHlNT3RpZjRhMVBLbHJNajdMTm5IRFZHN1RZckxyVVNMSFdKYU1IeDdFOVJiQ3ZjYUdKY2pYS0ItNEtmQlp2REx4TlluN01yX0NFajQtTU9tNl8wWW1YUWdqWW9OcFdvaDZFQ0hzQ0NteGVqdkhkSkphSU8wNndPSS1wbGtFUHBMS0w2V1dMWEpicXczOEE?oc=5",
         "source": "NHL.com",
         "pubDate": "Mon, 23 Nov 2026 20:20:18 GMT"
-      },
-      {
-        "title": "Lady Braves Fall to Michigan State in Emerald Coast Classic Opener - Alcorn State University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUFDR0dnT1dJZW9XTWVLLWhIdmp5ZEwzN2F0cFBWWHhSajUzcGxkQUpkRHZ4c0pacGFBb3Uyei11R1p1d0I2UnlCZ3FxOGVWa0liVnU0RzBHRWFyem95QlY0M0NaNXBmLW9aVXh4OGtUQWJZdkRGdnF2UnVxRVRXbjJsSnUtT0R2T0trS3dBbnBRNVhmbWdFdnJzelBWaXZ6MjU4bTAxMFFZVnUxZnBWV3ZxRE0zSExOSTZ5RzZSTDRnZXZUdDNDQTVB?oc=5",
-        "source": "Alcorn State University Athletics",
-        "pubDate": "Tue, 24 Nov 2026 00:04:15 GMT"
-      },
-      {
-        "title": "Former Tigers Reliever Heads to Japan After Two Seasons in Detroit - Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemlySnFlNHctLXhTUlJzcjB4bVd1cVFFclVFc3VUMDRJTXEyMXlXck11NV9uaHMwQ2k2RWxhODB2cWI2RzF3NDk5a21TX0JMTFJKSjY2aGhoUl9HSndicDA2N1FIV2V4V1A1M0lOUVFETXJNb0ZTZjBhUEdZTERNSE5CZFAzdHdTdzhNcFQ2QldVUlhTWXFpazZHMDUyWTI1SlU4?oc=5",
-        "source": "Sports Illustrated",
-        "pubDate": "Mon, 23 Nov 2026 21:00:01 GMT"
-      },
-      {
-        "title": "The Detroit Lions are still no one’s favorites because of September - Pride Of Detroit",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3JIcUhhZVBid2xzSE5CRzd3dmdQZVRrMWIwTnlPbV9SSTJzRnJtT0dzdTVxNUtoM3c3UnZuYjhPOEJKOUdIaDU0WUtQc3hTWFpscEYxcVRQUDhWWjRkMS1iN0s4bllfbWxhSnpsNzdCWW1XeEw0QTRIZ3RFRldrcGtvcXMxUGpPVkpwVFlaaER0M0h4WExzTGxfWmwtbnJuaE0zZ2ZDVEdfaHNW?oc=5",
-        "source": "Pride Of Detroit",
-        "pubDate": "Mon, 23 Nov 2026 20:00:00 GMT"
-      },
-      {
-        "title": "Advance Notice for Monday, Nov. 23 - Michigan Advance",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Pa0l3YVJoTGRnSURtVnRyTmJsdDl2dkMyanJtZVZiejZsS2ZISHJxNnRMMi1tT0N6YkczTFd1a0tqRG1vTkV2V2t4M0tndFB0V2dRbHZnYWQ5R00xbmdZWGdzTnZRU0F5eVJoamN1ZzJmQ19BSm5HVWZoYm0?oc=5",
-        "source": "Michigan Advance",
-        "pubDate": "Mon, 23 Nov 2026 22:05:56 GMT"
-      },
-      {
-        "title": "Carley Piercefield Named to All-Tournament Team - Western Michigan University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlR4ZlY1RHhWeXdvQTItVmFkajlvNzJzYmEtWnR5NUNqNTNxaS1FWUM3MTUwb3N5MERPTmVDUHNnZGJZTklIRHA5WFhfOVB0cTZrN0tLZ2c2RUJ6a2xsUzB3YUkzbXBzOXlPMktkWHZOQjQ4dzBobE5xZnFKLXl1dDc5RW4yQm1maF9wa1hfeUpyRjNKd2VJQ3F6aVdwQ0dweTF1V3NabzNWNXBpNWc?oc=5",
-        "source": "Western Michigan University Athletics",
-        "pubDate": "Mon, 23 Nov 2026 17:54:24 GMT"
       }
     ]
   }
