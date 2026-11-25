@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-25T04:14:50.781232+00:00",
+  "updated": "2026-11-25T14:37:28.740440+00:00",
   "feeds": {
+    "world": [
+      {
+        "title": "How Does Bryant University Rank Among America's Best Colleges? - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ITEM5aklNbkhxZV9jT2Q1MGFCS3g1dkk4OXljSFh6d0g0SXpPYmtQaVFrQnRjcjR6alJsQzlmZTlib3J6MDBtNHJxbkpWLVgteUs4cW16Rm9KdkNoRHZOUlhxRFFyTWlXbjBj?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Wed, 25 Nov 2026 08:26:19 GMT"
+      },
+      {
+        "title": "Iowa braced for army blast that could spread lead plume over 100-mile radius - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXNUTnI0TjBCcXhtbExWNS1iNTZ5cHMwTWZ5ZzlZSldDYmNsbk5tc2F4ODMtR1JLSmgzcTVaWk5vQllsRVlVemw0bHZoMlg5MDFLZUs5djJyQkJ0TmFzWFNUdTNvd3ZFZFBVRWhPZ3FtV3R3dHpnaV9idmxOcXo4dWN4aVBoUVk?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Wed, 25 Nov 2026 13:13:00 GMT"
+      },
+      {
+        "title": "Kilmar Abrego Garcia lands in Spain a ‘free man,’ ending deportation battle with the Trump administration - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRWxvRG9YcHNVTloxWmJud3pCMGlBeV9QNjhueUx3UTNaUzdiT2lQal93c1VqWU5faTZJVUNyQTVQNWpSWVd0dnIwWEYwcEJzRWF1VFg3UzU5RUdhdks2aXB6OXFSTVRjek1ENHlfR0JmS1U2YlVz?oc=5",
+        "source": "NBC News",
+        "pubDate": "Wed, 25 Nov 2026 12:20:00 GMT"
+      },
+      {
+        "title": "Use Of Muscle-Building Creatine Nearly Doubles Among College Students - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlpyaEluY20zYVFfNWZ3bkFvekZwVW15SDZXbU5tcGpPTWx6UTF6X2lqN0RZTk9ZcEpUdm83bVRCbWx4YUZJbHNYOU9JWVEzMmxHVTZsRm5pLUYxMmxVYVRSMzJmVzI2LTNwWG54dzVrTVFjdzVyNzNsX1AxR2RSa2F2NENtc2pBeTZKOHdidF9YWDlKOGJhQ0wwS3hITjVwOEsybmktZE0tT2dTNndhRkZ0TEhsNHU4eFREOFNtZ1FNRDB4NXluTg?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Wed, 25 Nov 2026 13:29:27 GMT"
+      },
+      {
+        "title": "First Thing: Democrats say Trump risked US security over Nvidia as Huang apologises - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHZXMzJpdEV5LXVLYTJUaUt1aU90WnhDS05sWWV1Q056bDVORU1fNjFhZFd3TUUyM2RfTVhYSWdqOFFPNl9ha3hyaE96Z0VDQWFyRXVVMnR3T1hyUmp0NkVJYnZHejY0V29YbVFOVFVtRTEzM3k3cTJsSnlnZi1URGt0cHF5Y0RYb0ZnMURhQU1fekt6RVdPbThmUWpDcTJZZHRTTHBVd0h1d1RZelV5VlpYUnFrWWI3Z1E?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Wed, 25 Nov 2026 12:53:00 GMT"
+      },
+      {
+        "title": "Catalan Separatist Puigdemont to Return to Spain After Election - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWI0dWU4OGtObXpwWGwwVWFJem4ydDVmTXBqd2dQalE5TFZpelRDU1IyUDcwcWxPWUhnWW1tdFYtYVdMcEFJcVVsbzBGWnJZNUxDVTMzWTRiYVN4aHhqVGVZSFMtN2FTcjBHeEZtVzFzbnRzREhTOXhxYXdhNy1FQmVQUldua3ZzVHdOekR6ZTRhUXcyemc2UjFyQ2hVb0d4UWZjeHVKZ1ZFb0xZcU5KaG1XSzEzbUl5?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Wed, 25 Nov 2026 11:29:38 GMT"
+      },
+      {
+        "title": "Canada's Foreign Student Restrictions Test Carney's Push to Attract Research Talent - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa1pTREJlUlo0WFNGQVpIblhCV0kzQlFoSlU2TWROLWVTWF9YMVBSQ0w1ckhBUFBjUjJaYXRCc0RacDhjU1k4c193VTE1YlZ6MHF2MWFfR3FKU3RKOVBYNHYyUENTQTlKaGg4LU9yNjhkRmhFdy1sTEI5d1pYdVgwd29KdnJ6eTR6RGp4T2k3QzBtaXhMUmFzSEtRb1hXR1ZCZ3JUVzRzOE55X1liTDNpeXE5REVUMTkzQWVYTUM2R0R0Z1E2MzJiVzJ4UUl3WUhM?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Wed, 25 Nov 2026 11:03:00 GMT"
+      },
+      {
+        "title": "Army to detonate cache of lead explosives Wednesday, sending toxic plume across Iowa - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTNtRFRGTkF6aXZnazRaWTA1WTFhZWRyOWRpZERBSGd5UlU3bGpkazFHeGVZenRJdW1XNzdaZzZHeWpvcWwwTkc4OHNpUHhHanc1MkxYc1A2bU5iRG1iRjJkdlJOenUwYkVrc0p1M3VidzVvUE5Xb1E3S21ZV2RwZFlyeTU3UkRlZXZZ?oc=5",
+        "source": "NBC News",
+        "pubDate": "Wed, 25 Nov 2026 11:31:21 GMT"
+      }
+    ],
     "local": [
+      {
+        "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101 - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXVaVlh4T2Z4d0ltM25EUmVUYnU2eUdLN2szRVBHMlZ4V19SSGtTc1c1dmlVVmdycnJsRzhRSm85THhYX0h6dnc5VmpGY0RiQzZ6dVlhRkxua19sLVFWVnc5VWJHOFB0Q1RBUWczY2dITmxzN3ZINFFSMDljMEdRVA?oc=5",
+        "source": "The New York Times",
+        "pubDate": "Wed, 25 Nov 2026 12:51:00 GMT"
+      },
       {
         "title": "Lions Owner/Chair Emeritus Martha Firestone Ford passes away at 101 - Detroit Lions",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSG9uNFk5bzZvMzJDcmMxU05nVzdDbHlnajJmR2ZyNjRTczZQYVNndmtaUUtGTU9nOUZvcV9rbWV6Q3Y3cTJjaU9rM3JOeEFfOVEtWmFndnVjbVJ2TnNESVRCZnhPd2RNMkwydVJGVUZsQVNjYkMxX2loRzc4TVVrc0lnQ3dLMXlFa0t6QVpxdHlpbkROaVl2SVdCa2YtaUU2OXlz?oc=5",
@@ -9,46 +65,40 @@
         "pubDate": "Wed, 25 Nov 2026 02:04:14 GMT"
       },
       {
-        "title": "Martha Firestone Ford, longtime Detroit Lions owner, passes away at 101 - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONm5ZaVk4WVpxcmtDalhveDNrdTd4b3FiTHNrTjdqd2hhSTJJa3V4UFNjcG9tRGlrOWJoWXVOVWxoMjQtazdZTGNwUHRnTTdzOG42UC0td05LQmU1MktENU1pQzRlbnRvdG15NEVSR24xczdZTk0xYndqUm5BNk5VRWY2YnFpaXpnYy16UkdINkpUb2o2NDVhVUNQYk5wR20wQ013enBIYzhYU2pjREpHU2FGVEtKVk0?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Wed, 25 Nov 2026 03:14:54 GMT"
-      },
-      {
-        "title": "Detroit Police assistant chief suspended amid investigation, sources say - WXYZ Channel 7",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSk1LVUNCZVZQRU1QaDhRWjkyVEFuSzA1ZnJOSEdETm82QjhZT0NKRWctUnZkdU1QNGYxa25BdDN0QUs5N243X1NUVTZOZVljRGVscmtacUtHT21CSnYwWVppZHhqRmJpOFN4TlJnOGwxUWdRV3YwbEtReTAzMmRiM3JPb0ZReWVvUmhIQXpBdTAyQS00N2pGMGdMZXVOMm90cDdhUjVYck5yNmU2ZUhmRFpBbklJZzQtUk1kNWd0Yy0?oc=5",
-        "source": "WXYZ Channel 7",
-        "pubDate": "Wed, 25 Nov 2026 00:57:19 GMT"
-      },
-      {
-        "title": "Michigan Falls to Creighton in Players Era Opener - University of Michigan Athletics",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUlxcnA4Y1F6bW1kaldCYTRWRTlvb2oyMUpwLTRaWlVSMXV1WVBLaXFKRThXZmhfRG1TdDV1VkpvZ21uMmVGRVRPaU12T0xCS3BFcy1xclRwZWFKR3F6ck1GZmV0aHZWaFl0LTNVaXhDVU5kXzNtVzhaVl9RbjZVMHkyOWtjTWdnWnJsTm5VdEhrZnJDYkY4UVZjSnF3X05wOG53?oc=5",
-        "source": "University of Michigan Athletics",
-        "pubDate": "Wed, 25 Nov 2026 01:57:13 GMT"
-      },
-      {
-        "title": "Detroit Pistons dazzle Magic despite Cade Cunningham sitting out - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWJZZUR1ZW5vSWl4Mzd6MEF6TmdadGItRDhUWHZJLTM3VlRabENqX0lNeVpPa2dIV0JWUWw2OTRTSGNET3I1SnhON3c3MEhDazlmcHdxRlRQUmNfTWJyYWhHV0NFT01VQUd2RmM4REp6eGVsb3RfUnltZGp1cWNNVEFmN3doOUpJcHlaUXpOLUF3ZExiZEg0UUF3WUNDXzV4NDVGeDNCOFBKX2wweUtlSm1tZDM5NWl6N3UxV0JGeWgtUkxHZzcybmdfMVVpZw?oc=5",
-        "source": "Detroit Free Press",
-        "pubDate": "Wed, 25 Nov 2026 02:41:00 GMT"
-      },
-      {
-        "title": "Sam Montembeault figures to give the Detroit Red Wings three options to tend the net See link below ⬇️ 📸 Gregory Shamus, Getty Images - Facebook",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY1daQ2t4RlFUVDlzMk9mSk5MRFladUZBT0hjUUZGMW94bmhzcmdZbVdiakJ5eDF2YzRBTFRrdWxXb1ZxMU1IbGVYMTdBd2Y3S3NWNkdlVXdkRlplcjFvUmNGWWRCYkxDSERfbzRSQVcxazJ0MkstcXpUVTM2d2dNODlndHJEcEFEanNXOU1zblpQZnhPN1NkR2xzZGZNQUpmbHhrSzVqaFp2Mm5Uc2hfeXdlWTZkNjR2VGg1RWFrNkNMc0FIVEoxVmVGdHFMV0plY2dPRDFpTEFxMWgxQ1RJ?oc=5",
-        "source": "Facebook",
-        "pubDate": "Wed, 25 Nov 2026 02:17:49 GMT"
-      },
-      {
-        "title": "4 Instant Takeaways from Michigan Basketball's Embarrassing Loss to Creighton - Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdFNINXpXelBFR3RoY1B0RWg4Y01wUURLbms5NThrZzlZc2t2cHFwdnl5X3p1R001bG16V0FFTkRkSml4cDl2RDljeVJFcmlJdk1FaGdrMXhFdGNtLXN3cjZjVFBtbGZ5azM4aFAzUXBVNG1aOURNTDFBMTBZU3NCejROQXRKY0lqYmFmQTlZM3N3bjlDSHVMYnV4aGtOelY5bHBhVUQzQ1RsbEN1NUdERHZENzFVV0Z3eXVVQ0J5WmJMZw?oc=5",
+        "title": "Michigan's Athletic Director Fumble The Latest in a Long Line of Missteps - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMEVfcDBMclk1QUwxb0NOWDJBU2RxNWVKb2JrYi1hWU04dmE1VWJKV3hoRWZWV0VBeEFOSTBFVEZSWFNsLV83ZWJEdE9YVDBrWlBfZHRUY0RDOFozbGstR3Q4WGlxS2g4X3V3R2R2QTJYZkIyZXFxbm1KaF9Kd1p4RTJXeEdsUDlJUlptdFJLS1M5bEk3QjBCR05kTkI2cXp5T2ZJUnpLZ0NUd0N2MUYyNjZSbWczX1RXdkE?oc=5",
         "source": "Sports Illustrated",
-        "pubDate": "Wed, 25 Nov 2026 01:18:01 GMT"
+        "pubDate": "Wed, 25 Nov 2026 12:00:00 GMT"
       },
       {
-        "title": "What Is Going On At Michigan? Inside The Chaos Surrounding Kyle Whittingham - FOX Sports",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVnh6aGtzS3FsLWJQVXVTaWJHMXR3RFFBQTVlbkdVUHFKaHhrWW9GRWpaMjlBMGwxbDNHU1RmMTRkNy1NYnFxTjRQeUotMTd3ZzBLdkJhejJ5UnB1VlAzdmxFRFp3N1o1eENHdlNGeHJIcGVhN2RtUXVLZnR4RmNrT0JfZHlWTjFTZVHSAYoBQVVfeXFMT3V0Y19LUXVJV0FDUFFpSFMya1NIa1NXbTJpZVVzOW5CZG55UV95dHpHZGNJdGhxWlRPelF5S2RLTnh4YTJoM2loenFXdEhBc256TkFNTlVHemxjTUZOUlE1SGRvXzBVanAzbnlMU2lJZGdDZXBpVUFfazRTVF9KYnYwaHFiaVhmbjRR?oc=5",
-        "source": "FOX Sports",
-        "pubDate": "Tue, 24 Nov 2026 23:33:20 GMT"
+        "title": "With the news of the death of Detroit Lions matriarch Martha Ford on Tuesday, Nov. 24, tributes rolled in via social media, from around the NFL. See link below ⬇️ 📸 Junfu Han, Detroit Free Press - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXJXLWhmR3pBUE5BZkNfR2RXZWpkcnRZV29kZHZEZEdiQk5ZZzVQYk1VdGoxcFVXZEFvS1hEMjlEVDZTQ0tBT0NTV3QxekRHak9wdXJ1ZGYzZ2txTmx4ZlVEQTk2UTFIUjYtMm5CaldMM0JOQnUzVkZkWVFJek5iWElDWWM2UUNnVTNoV1J5M2ZXU0U3a0ZIWGxKMnB3RVE4dkJ0Ty1MdVhnQ1RkY01FVDVwUnV4LVhnZWllaTE1a0EybXk0QjlyN2ZhcUZnV0p3ei1nRDlUbm9hUXRZVmVn?oc=5",
+        "source": "Facebook",
+        "pubDate": "Wed, 25 Nov 2026 13:13:00 GMT"
+      },
+      {
+        "title": "How will data centers impact Michigan’s renewable energy goals? It’s complicated, new research says - Michigan Advance",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGk1dDdsWkFjZGtwMnVkTHpuc1E5R1hJdjlzMlhNUW1tbjBmSmtDb3g1cTZBZjdaM2pOWFlYSTVkaTlGX2lZdi05SmZObEo1U000SFltVXRPSzgwbTZ4aktrUTV0Z0g5NXpsM2hXRWkyWFpLcVdzRXdUV01DcGxwUTcyNnNEQl9nMDdyRmVCSHVXZk5oZFhBdlYtRHhFa0xqdklBOWZVTE5EVDJxQ2cyeXlteVVMa2l5dnFQdHhRU0NVeW9fUDd6UXExcmF5Wl9w?oc=5",
+        "source": "Michigan Advance",
+        "pubDate": "Wed, 25 Nov 2026 13:06:02 GMT"
+      },
+      {
+        "title": "What went wrong for Michigan and Ohio State in 2026? - ESPN",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3k5ZWdoVnk3VVNKbzd4QUJKTVR2ZF9Gb1Vzb2tVZzFsVHVxTWc5MzFnLXZrWldPLXJIRE5NSTBPdUFxdFJzOEduMzZ5T25ORGtTeGFWZGc4SVFoZTZ3dG9Bd3VMdEVmSVI1UFpVWVl2RGZMOExoQ29XWDQ4ZlptZ1JrMlY5b2R5MTBSTU5Jek9KNUNJUjUzWGZMSHZHaWI0TWU2dDdOVlZmXy13?oc=5",
+        "source": "ESPN",
+        "pubDate": "Wed, 25 Nov 2026 12:00:00 GMT"
+      },
+      {
+        "title": "Men's Basketball vs Players Era Championship on 11/27/2026 - Game Center - University of Michigan Athletics - University of Michigan Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90Z3d4am9pNS1XTXZ2bU1xRHVxclE3OHNNZThuT2YwVzVFUjJWZE1Zd1NtcW1RbU8zYVhyTXpEbElUWjNmMHJpLTBseTdQZw?oc=5",
+        "source": "University of Michigan Athletics",
+        "pubDate": "Wed, 25 Nov 2026 13:04:05 GMT"
+      },
+      {
+        "title": "3 bold predictions for Michigan Football vs Ohio State - Maize n Brew",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnhxbHVjWkh0dUpVMVRONW53TDYtUzkwSm9iOGQ1eHB3NlFYLTZqbzZiVDhaOHVub1hfRFhCT3FsbUUwQjZrcXVVem5VOG1acF9BMEJiLS1tcDlhUk9kRmxWa1ZOcDI5RU8tMnJaa3RKNHR3RndjNkxPRHZLMG1PM01JRFNjc3ZsbEtMVGt4Nl9PWHRocE1CV0ljdVJDOEZOOEpVR1lDa1hLU2JOTFphWjdYeXBucVJFSTNWZnp4U2FhY3VmRF9hSVM2QjdCbjZCMWc?oc=5",
+        "source": "Maize n Brew",
+        "pubDate": "Wed, 25 Nov 2026 13:00:00 GMT"
       }
     ]
   }
