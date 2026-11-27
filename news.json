@@ -1,57 +1,93 @@
 {
-  "updated": "2026-11-27T08:39:40.249229+00:00",
+  "updated": "2026-11-27T18:28:49.973425+00:00",
   "feeds": {
     "world": [
       {
-        "title": "As Google Threatens to Cut Schools' Search Access, Los Angeles Blocks AI Features - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMEoxUVFCQzltWXdzNG5oa181OFJUZUUtNlI0eFhlX05LUlcyMHhIaGlodGxwTmpFZnd3VWNidU5mZVdGN3dBYmxpU1BvdDQ2ZHZ1d0hjQnc0bU96UVlhdUQwQ1hjNFBNc2M1QnF2eENnNllMdFQ2elJ1cmRWaUtidmt2N0ZfeDB4NVcxd1NPSE9feHY2SGkyaFYxZnJqa2tQdXZ1dzM3d01zUUJSdXZHc0M5cjhkMjh0ZGdjeVhsb0Z2VHdZM09WeHZ3?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 27 Nov 2026 05:18:39 GMT"
-      },
-      {
-        "title": "Midterm Elections 2026: Congress Polls, Charts and More - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
+        "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
         "source": "NBC News",
-        "pubDate": "Fri, 27 Nov 2026 05:00:20 GMT"
+        "pubDate": "Fri, 27 Nov 2026 15:48:19 GMT"
       },
       {
-        "title": "Iran War is One ‘TACO’ Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pYmdDNHlwVE5HeWF0T2FkRDQ0SmhVeUxwVDZ6YXd2bGxXZldGYTR2aEN2bVY3d3Rad1NaYXFQYzJGNzJTVl9HNDhtd21ENmMxelBpSHY2M3cxbjRHUGZ6dzVyZVRaalV6WDZKSXVyNWd1TEFncWlN?oc=5",
-        "source": "EnergyNow.com",
-        "pubDate": "Thu, 26 Nov 2026 17:14:14 GMT"
+        "title": "UN's Turk Wants to Visit US to Raise Human Rights Issues - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkNIQTN0MW00VG0tV1N0cmZidzQtVUtBYzBQOFQyOERHOGRUSW50OGRmNGwtVUZVZjF1WkpwSE93YVVqZmhGSXhBSTItaGZSdnJoV1hjTHVfOHhCUlZ3Q1lLT2RtV0dLcU1XNzdQai04dzlUV3JUM3ZRLS1wcllQaHRuM2h6eXhIMU0zMDVxU0lMdHp6bUlZeEdsdWREcjBDYmNEd3M4MTdUU3F0TGc?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Fri, 27 Nov 2026 15:02:00 GMT"
       },
       {
-        "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTFcwRlp6TFNsWnE0UXRMQkdYbzZJOU82NDR6TVVmYnE2aGhSWnVBV1BEU0NqbExKLTJib3RVQ2FDWUpPZ1FjSVgwVzZYYUhqZjJDV1QwQUUyUGdYc3hwbXNKNC1SNld1Y01vaFVQdXFvVUdvNVNqV1pQNEw0SGZfaEY3UEMtczVLR0tLaHNGdXZtX1dCTUx6WWhvWTdmdXJIWWdWag?oc=5",
+        "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlg5WU5IT2FHWlo0ZW5QMTMxYWQwVnFWM1Bsc3I1bjFIQXliSEtGa2ZfVjZBQ1FWdWZtbF9qRDU0MjZ4X3R2V2xJQkxHUy0wSjVRaF9IbzQ1TFBRWl9GekxFTVpuTmpsOVQ5ekJfZ09kNzhheFhJYTdNZ3hIdGstY2VPQXA4LURlRVF3?oc=5",
         "source": "The Guardian",
-        "pubDate": "Fri, 27 Nov 2026 01:18:00 GMT"
+        "pubDate": "Fri, 27 Nov 2026 15:02:00 GMT"
       },
       {
-        "title": "America 250: David Muir climbs up to the Statue of Liberty's torch - ABC News - Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2RTVGNaQzliRnJOOGwyNGprNlpoTU1VTUo1RDNCSlA1Q1B3by13dTNaOVVXbGhyVFVHMmJBTE5Kak42WkpRRlBqbklreEdNdGVURGQ0RVhjZ1V2elNQVTBjX0hJRDVpZjdFempsZXl0M3cyNVNVV0tINEI0UmY3Z1FNcHJnNTFWODlYU2hqWjBrczN1RkNfRNIBngFBVV95cUxORHZRNTRYRnRyTHRLU2pTZ0VfZWpld28wT2JndWZ3STJ6YjBzUDVqdlRWRjdmaksyTDlfc0lSTjk0VzVaa2hhVVZEYzA3ZkdlbW8xLUdRUjlDSC1EOENvS0h1ZUVobFh2c0RJLTZIdU1pUV9tTHdidFZpdXB1d2tId0ZQZFlRMGlzZlV5VnczdXpFZV9KbTdTNXBaVWVQdw?oc=5",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "pubDate": "Thu, 26 Nov 2026 21:18:17 GMT"
-      },
-      {
-        "title": "Taiwan Candidates Campaign for Key Local Elections on Final Day - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmVyVEpKRi1PNk1PU2FPcXZYeU93aEp6c3hWZjI4cW42QlZFbW9yYVFRSnJoeFRTTEJHbFdhdzBONm8zNlhTZnJXaTVBV0dwZnhhT3N1Q2xJSzROM0hCOUVaSVBjakdBYjVua0x1WjUyaUQ5M3pFeTR6blFZdVFDR1o5ZUpUUVBmOUZJdEdhWTZpSzFzQ0tNQlpSaTFuWks0U1BBb2ZfMXc3dlN0RGVGQlB1NzJrTF9O?oc=5",
+        "title": "Columbia is keeping its gates closed, raising the question of what universities owe their neighborhoods - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdk9WYjZfRnlmVHgteS1aLTFTbXRyc2FJcm1vX25wRUp2UURsbWJvalFwUlp5R2haaEdrdUZ0OVdYZ0lMY0puek5kZ1Z5WW1SckZValhVWlZNREtwSUNqREUxTERFTGlDQ3RNN3hwTW9pX2VwdEFZaDRIY3AxNmRYWkFla2MzUFQzamFZQVpZVUxDYnZXaGNKNWRXYUg4Wjg0NkFRUlVqVWtRMEhCM0tfeTVSTnlWeVNWSFRpT25wbDE4MFVsNjVDOXdRalVteWJQbUlPMV9EdXB5NkJSdC1DOEZ3a3hJLWFfRDNVT0o1QTVsLUdEVEFB?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Fri, 27 Nov 2026 06:20:34 GMT"
+        "pubDate": "Fri, 27 Nov 2026 11:02:50 GMT"
       },
       {
-        "title": "Exclusive-US Pushed Venezuela, Iraq to Consider Leaving OPEC, Sources Say - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjIzNnY2eTNOVFE2UU8wRktuZXJ0TUExLWwzRFFwY0VEU2JjSjFNOGpZYmhETlppdVAtdjVBZ3B4c2owaGxzM1dmWUJZbHp3X3BrMm8yLVAzbjRXb0t1Z3VrWXlvLTROZ3FCNm5MWmthNHBkMXdxSS1rSm05NDdqYk4xOUtwMDVoWGRnNjRPOVRJaXMwdXU5aHZGc1piODNNSDBtQ283cEtUTVhoMTBJb3U2TEk5aGRCR0dwb2pzVFNpRjA?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 27 Nov 2026 06:02:00 GMT"
+        "title": "Trump claims revised economic data shows pre-midterms figures were ‘fake’ | First Thing - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGRXZ0hnTkZ2ajFXVmRtMHlxT2d2OF96bFlRXzZ5bS1ldzZienAtcDNEalBnVWg4NS1Oc3JpYm1SWkpmWnNGeTJEYkdaQkFHS3JJd0dWMDRtR1JfekZERkFpRFlLWnhULV9sT3N6b2hOSzdaRDJVNGdtcndQU1h5R3BlVVRhaURfS1d1a0FBZDl4YlFDd3RJdXhrYjVqbzA0ZDlOdUxaN0dXNk9RbnpCa1pTUGkxb2d0VGJCTy05U3d1TDNKel83WjVPRQ?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Fri, 27 Nov 2026 12:38:00 GMT"
       },
       {
-        "title": "Australian Mushroom Murderer Erin Patterson Files High Court Appeal Bid - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEFJY3RhNzBqWkhTMTNQaXpBTXNGRDF2M3RhNmU3Tmg3U3lSamtSUWcwZmZnNC05eGpFWkxHNGlmX2VqaUxMaE9VU1N4QUtxTHJ1cnpwTmZPcUptVk1ybGhNMXhheFp3RUoyUjVpN3ZNek1JQ29PdkdnZG8zVzNWay1rbHkyalY1dVBqeFEzUV9URldFa2w2V2hMMlllUXpoRHVlOGZ1TFFndHRSNHFjRC1XTVR6aWZHckpLRlNkLXI0ZjQ?oc=5",
+        "title": "Medicare Open Enrollment: Here’s What’s Changing, and What Mistakes To Avoid | National News | U.S. News - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdndtQTJhQTlIQm9feEkzZW04QVlidWF4NHh5MGljcHRxcTB6WlAybTZHYW1jem0xdUZDNXhNSktGYWZwYkU4UzhXZ3NyRDdwOUREV3I2QlNQMHN3eTFTNkdRSV94MnRGbWYtNkVrUjFwZFN4dnlUTDdtSmhZSzdRMXg2MHV2TU1GVHd4VjhxMzlHYlNyYnhTbFRoODBTWm9MSURSVGY3eWxvRHBPdUVEME1rSnFpVVJlZmFBanhYSDN2Z1BONjNEekFQVkZhTmc?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Fri, 27 Nov 2026 07:41:00 GMT"
+        "pubDate": "Fri, 27 Nov 2026 13:01:02 GMT"
+      },
+      {
+        "title": "Austrian Court Turns Ex-Tycoon Benko's Suspended Sentence Into 6 Months' Prison - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmxGSEw2YmJZNld6a0sxY2VxVHB1bVRCRmJ3MGpjZ0Y1ZFgtV1M5ZVVnRnZaUkt6YnRlUUNobXNQN2hEODJDbHVpTzVBTHFNVnJmNlhncUNlQ1NIdDJyMVdyeWVlbFpiY0ktMXRkd3ZCN3pVY0wtbjZLT1ZJazZqcWw4ZTlqbncxWWRFTTdETkx2SWdWUmRhdXhaLWs5Ynp0cTV4d01PVDhZNVJJUDlpN1hiY1YxOEp3MURjLWpIMlZRb2ozOGhhZFZBbw?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Fri, 27 Nov 2026 16:15:00 GMT"
+      },
+      {
+        "title": "Severe storms upend Thanksgiving travel and leave hundreds of thousands without power - NBC News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZDcGNBblpnR2Zwdy1RRWhBTmhpOTAwRWhNdDJHS1BXNDBsSFVHQml1eHU5NEVrUUM4bVpJN2xBMFdUTXp0VFYtcU1PYTVHS0lBb2ZuOWw3OGZRaEdDSlN3d1o2bU56Q2NBaXlVSTFWaS13bnp4NnhFQ3hhNW4zVlBvRHNUc2VEX2haa1hnQl9xdm5aX1J4RDVhQUk?oc=5",
+        "source": "NBC News",
+        "pubDate": "Fri, 27 Nov 2026 13:05:00 GMT"
       }
     ],
     "local": [
+      {
+        "title": "TWENTYMAN: Week 12 observations - Detroit Lions",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1o5UW84TWd3RWhKWldZeS00bHMxRHYwcm9SdjJiMlFNSk1yN0tmcVNDaE00YVItY01YeERELWMxYWYzc2dGb3VPSS1IVTAwLTBBU2dvSm50X25vSy0xRWhpbVRiSE9kM1hLVkxULUFsRmlJRlc1bVBtN0lwWGotUnpIRmNncDFBQmFQSUZLOEY4bFlGa1c1V2Jsdm0?oc=5",
+        "source": "Detroit Lions",
+        "pubDate": "Fri, 27 Nov 2026 12:04:29 GMT"
+      },
+      {
+        "title": "Ohio State vs. Michigan: One fatal flaw that could decide everything - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3FVeXZtT0RfaE00Vy1OQ2FZdVZTSEE0UDZnWTZzZzdaeHAtOW1iVFdYT04xMUlQRlB4N1ZuREVBRzFFa3BXR0lTUkQxeUNKWF9JLVJ1MlRfMmxIcWdmSTI3eWw1UmlfVXNLdk1MSXdpd2hCYmpyeUN3MG10ZkRKc19PbzRBVVhGVFNUeUc4ZVpNRllPeVQw?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 27 Nov 2026 17:19:38 GMT"
+      },
+      {
+        "title": "1 killed in shooting in downtown Birmingham - ClickOnDetroit | WDIV Local 4",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEtLZnZubDROSEhNZVEtNEN1TDJYY2JSMVZJaFZjbE5SVWhoc25Bc3NtZFBGSEJBUV9ZNEhTbmJPMl8zeVRZZG1kUUwzR0Z5WnhLR1dqTldiSTFyUTEtQnhlNWtxSllMOS0yNTdlR2RoRkg5NS1vRFYxMDBuY29tTU9ReGlxbl9NUU5EMkRxMzRidGVTd3Q1TVVWbUNkQQ?oc=5",
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "pubDate": "Fri, 27 Nov 2026 17:56:46 GMT"
+      },
+      {
+        "title": "Detroit Lions grades: Offense, defense, coaching all take blame in loss to Bears - Pride Of Detroit",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVWtWOHZMckVPT0J4X3EyTEdLbjR3a19TcW1kc2pOX1ltWU9pZkZvNUtfbXM2N2ktSFNDckNVblhRZmhvakNSUFpTN0dyVWFpd1RqYjY3bVU0S3VPNVFWREZ5aGlUR3NURUJZcDFsQWpvMVpaUU81QTBaMDk5c2VhTkpoVW1YaTdRb3NrYkNWaVloR01OaV9LX1JXSUFEYnZybFJjS2VkSXBMRlFrQzFBMzFOc0doMW5FdHowdHQyLWwzc3k0bV9yRjRONGlQNC1HNV9PSklCNA?oc=5",
+        "source": "Pride Of Detroit",
+        "pubDate": "Fri, 27 Nov 2026 15:33:03 GMT"
+      },
+      {
+        "title": "One person fatally shot during altercation in Birmingham, Michigan, police say - CBS News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVEhSSUtTbklKR2prRF9FaGFNa2xqSDhRajdPRWY4V3Y3TkJ3cDdiUzhuN0lGMDdBa3QtT2Q5OUF3YzBZLU9Tam83ODEyVUk3WXFJM1RQWV9tSENGcWhVRnNTVDRrNFV0Q0lPdXlNTU8tTEhwUmc2WVVld0d4WGs2WUt1c05KdmlXUFBYVHUtMUkwSE5PN0VVSS00WEctcDg?oc=5",
+        "source": "CBS News",
+        "pubDate": "Fri, 27 Nov 2026 17:58:00 GMT"
+      },
+      {
+        "title": "Grades: Detroit Lions Defense Falls Apart, Coaches Falter - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFpfTXNMbXdNZnF4WURqUWZkRGhVcU52U3N3SGVaSkpDcU5sTUc1ZjFHSnpiZUhNQzJiemd4bmZxZnAyRExQek12TWNTSWhPY29YSU1fRnh2b0hGd01hT3pwUHM3eXdjRHJCRDQzbExDX011ME1VaTRxQXc1SE9TeXJUcU9qOWRFejBrSlNRWnB2MzNscml1dVpiVQ?oc=5",
+        "source": "Sports Illustrated",
+        "pubDate": "Fri, 27 Nov 2026 13:08:48 GMT"
+      },
       {
         "title": "Michigan Falls to No. 17 Miami in Players Era Sixteen - University of Michigan Athletics",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3hwRWRqMnFBc2ppRXRjenRtc3pKcHVXZ0pXSG0tZlo2ZjgxZlVzYWF3Qlg0SkpBMVA4QUxXTTRFREsxS2Vpc2ljZmNsUFR3UHF5ZXFMX3JGcWxjdngyUktGRFM1ekl4UTNuOVpGWFpUOGlRVmpmYUVocEE0TGhNcHRUX1pFelpPVUpNNkd6Z09WMURPX1F4VnN3eFp3dkQzRjc4X3lMTQ?oc=5",
@@ -63,42 +99,6 @@
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd3RuS3M2M1NNdldSaGktQzF3a3FpaUpadEt4MHd2cmVzWUlkdFNFdWZ0QXh3S3k1NEFLMklJNWJUd1ZuV2JwMk11bFBGeWxpcDhCZWJLMzctd0VWNnRfZlQ5X1laWjg1M2pINVktWGRTX0ZvN29seVduQ1B1QzhLTmNhem80MDk0dkZIUU1OMG1GXzRWM01wUU01MlFlSHJWalMweWVRUmwyUDNGcC02aXZpYm5qc0ZIUlNwQl9lZno5X2Npc3RsN0tNbF92Q2xlSkFzZXlLb0dhaTZCNFNCeHB5azdhZkRqaUF3?oc=5",
         "source": "Michigan State University Athletics",
         "pubDate": "Fri, 27 Nov 2026 06:31:49 GMT"
-      },
-      {
-        "title": "NOTEBOOK: Lions look to clean up 'self-inflicted wounds' after loss to Bears - Detroit Lions",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeldJRlN4WUE0dnh3MEc0MzZiOU5DSnZLYllNY2ZOaUd2ZWROWWptSUF2cEMwclBqcTNna01EeFpMQWQ5VHJXMTZQbUFfUXkwcVhOUVBXR09zQTJ0ckpWUW0zcS03MjZ0SjNDMm1ybl9jcXZxTDRKWlkyN29FNGhLcUxhOFYwZXR5RzlYT2R4YlVySmItRUl5Qzh3RDJWd29lWnNJcGR1VjFLV2VrU2YzYVVTZERmT29WUmNTbDNSQXNpNWNYQVgw?oc=5",
-        "source": "Detroit Lions",
-        "pubDate": "Fri, 27 Nov 2026 00:19:29 GMT"
-      },
-      {
-        "title": "It’s a Shaolin Thanksgiving! Wu-Tang Clan, Chad Smith Light Up Halftime at Detroit Lions NFL Game - Billboard",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckgzeTBlTTBsczJxeDNMVzNnNVEwa0NXcExNaUEyQ3l0OHNUVW4tZTgzTEFpNHdKRjRESnRYVnc3dWpJS3VIYTBGRTlCTVJrRmQtVEtaNTZYdm5LSWVaNS15U3NRanM3cDZqemNFbUhRMlZReFVza1hiVG5FWUZMd05SUWRjM1JndXMyc0dvOTZ3aUkt?oc=5",
-        "source": "Billboard",
-        "pubDate": "Fri, 27 Nov 2026 03:58:53 GMT"
-      },
-      {
-        "title": "Arkansas’ last shot rims out in thriller vs. No. 11 Michigan State - Southeastern Conference",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmt0d2VtV1NEenNRcGF0MnVVZFRtQ2xUaURDSjBxUzBXR21INTItYlJOV3k4ZDlBcDViR1AyNzBpRGxtaHRsNXRrM2hfTGM0YUoyYnZpTTQ4OHpuZDhfUjBPS3U5WkFLOFZFU1dkcm5VOVlNTmVYUjFOV0JXS0xxU1BVNXU5WERzYU1XbU41eTg3RHRvN2VBX0J3dWx4TE1pNTBBWg?oc=5",
-        "source": "Southeastern Conference",
-        "pubDate": "Fri, 27 Nov 2026 06:33:45 GMT"
-      },
-      {
-        "title": "Christian Mahogany, Dan Campbell Address Costly Taunting Penalty in Detroit Lions Loss to Bears - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1RvSTBvM3RVdzZwRnFjZ1I4Xzd4ak9NVGE1a3FkQ3RwM1U4VmczVi1qV1RtdS01aDBfcTc4Ukkzb2MyVVZGME5uRHJTRk04TG9qeGZvNkN1UDBKdHRLcVdkLXBiQkdlOTZ5dHZwY0ZLZGo5NGo3eTV3N3dNUG9EZnlhLXo5WE9lMWluOHFoZTlYTUdHemVN?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Fri, 27 Nov 2026 03:57:00 GMT"
-      },
-      {
-        "title": "Michigan terrorized the Players Era Tournament last season; this year, the reigning champs are a November flop - CBS Sports",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUk9SYlg4Y1RneUlDODRVenI3WTlrZndNVUZSeHEyVDN1OEtQb0lfNUNQZm0xcDhrekdYeURtRzRRaF9OeGF6UjE5V1lPZ2ZFYU5YUW51U1pDaW5DUlJndVV3dmVpRTlXRjhYbllHRVpVSmU0Z1dIODdzOHhLb1FSWGVIUHpiMXZTbzVsTjQ4MlFUTERpYjF0RTNzMzRJbHNFendXY0NHeWxBRXEtUUNicnlQRlFpek5LVzhDdDhrc185d2lRbWVkUHhCdWRHTkYxSmNUbGd3?oc=5",
-        "source": "CBS Sports",
-        "pubDate": "Fri, 27 Nov 2026 02:12:00 GMT"
-      },
-      {
-        "title": "Bears 39-35 Lions (Nov 26, 2026) Game Recap - ESPN",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55dWhLRE9INjdfN1hoeGlJcDFaRFRJM2xkUEgyaTNmQzhNNW5va3FtOTdtQWZPQkpJRndaODBDcDVRd3lyb2Utay1zc3BtR1NjSkllYjFfZHlDSDg?oc=5",
-        "source": "ESPN",
-        "pubDate": "Fri, 27 Nov 2026 01:03:31 GMT"
       }
     ]
   }
