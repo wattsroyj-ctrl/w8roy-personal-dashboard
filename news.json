@@ -1,57 +1,87 @@
 {
-  "updated": "2026-11-27T18:28:49.973425+00:00",
+  "updated": "2026-11-28T01:37:53.690557+00:00",
   "feeds": {
     "world": [
       {
-        "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-        "source": "NBC News",
-        "pubDate": "Fri, 27 Nov 2026 15:48:19 GMT"
-      },
-      {
-        "title": "UN's Turk Wants to Visit US to Raise Human Rights Issues - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkNIQTN0MW00VG0tV1N0cmZidzQtVUtBYzBQOFQyOERHOGRUSW50OGRmNGwtVUZVZjF1WkpwSE93YVVqZmhGSXhBSTItaGZSdnJoV1hjTHVfOHhCUlZ3Q1lLT2RtV0dLcU1XNzdQai04dzlUV3JUM3ZRLS1wcllQaHRuM2h6eXhIMU0zMDVxU0lMdHp6bUlZeEdsdWREcjBDYmNEd3M4MTdUU3F0TGc?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 27 Nov 2026 15:02:00 GMT"
+        "title": "World News in Brief: UN chief condemns Kuwait drone attacks, hunger hotspots, Kordofan displacement, Albanese denied Costa Rica entry - UN News",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPUWFidmtINHBacUlYZVduaGhzM3hETU8zbVNBY1ZwU1JaQXB2OV9YU1lxVktSSUlIdHJlcUxBblBLTTZqQUtPdHUya3Q0aUFIejQzQWMyMA?oc=5",
+        "source": "UN News",
+        "pubDate": "Fri, 27 Nov 2026 20:31:59 GMT"
       },
       {
         "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlg5WU5IT2FHWlo0ZW5QMTMxYWQwVnFWM1Bsc3I1bjFIQXliSEtGa2ZfVjZBQ1FWdWZtbF9qRDU0MjZ4X3R2V2xJQkxHUy0wSjVRaF9IbzQ1TFBRWl9GekxFTVpuTmpsOVQ5ekJfZ09kNzhheFhJYTdNZ3hIdGstY2VPQXA4LURlRVF3?oc=5",
         "source": "The Guardian",
-        "pubDate": "Fri, 27 Nov 2026 15:02:00 GMT"
+        "pubDate": "Fri, 27 Nov 2026 19:52:00 GMT"
       },
       {
-        "title": "Columbia is keeping its gates closed, raising the question of what universities owe their neighborhoods - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdk9WYjZfRnlmVHgteS1aLTFTbXRyc2FJcm1vX25wRUp2UURsbWJvalFwUlp5R2haaEdrdUZ0OVdYZ0lMY0puek5kZ1Z5WW1SckZValhVWlZNREtwSUNqREUxTERFTGlDQ3RNN3hwTW9pX2VwdEFZaDRIY3AxNmRYWkFla2MzUFQzamFZQVpZVUxDYnZXaGNKNWRXYUg4Wjg0NkFRUlVqVWtRMEhCM0tfeTVSTnlWeVNWSFRpT25wbDE4MFVsNjVDOXdRalVteWJQbUlPMV9EdXB5NkJSdC1DOEZ3a3hJLWFfRDNVT0o1QTVsLUdEVEFB?oc=5",
+        "title": "Jadan Baugh Helps No. 20 Florida Beat Florida State for Third Straight Time, 26-10 - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ1pGbDdmQmZHdTFFNHBHQjFkaUNIZ0JWdFQwNHlWY2l1Mlc5UmRyYzdFSC1hTzE5b1hQb0ZhY0ZQTldzTWNoTk9fVG1BeEhCU3V1UTBxdFBoem9ZSkdOMDBSaXhWSkxIbkRwMWtDeHE0dm1XYWVzQy0xMHF2aVhneVJwc011MGRPQnJRMGwwbktlV1JjRkx3RlNMUEExQXdfbGw3UE5leXRpRTFmY2lHemc5TlAxTjlFanRYUlcydnFNeV8tS3VfeHRWNGdqSXFn?oc=5",
         "source": "U.S. News & World Report",
-        "pubDate": "Fri, 27 Nov 2026 11:02:50 GMT"
+        "pubDate": "Sat, 28 Nov 2026 00:15:00 GMT"
       },
       {
-        "title": "Trump claims revised economic data shows pre-midterms figures were ‘fake’ | First Thing - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGRXZ0hnTkZ2ajFXVmRtMHlxT2d2OF96bFlRXzZ5bS1ldzZienAtcDNEalBnVWg4NS1Oc3JpYm1SWkpmWnNGeTJEYkdaQkFHS3JJd0dWMDRtR1JfekZERkFpRFlLWnhULV9sT3N6b2hOSzdaRDJVNGdtcndQU1h5R3BlVVRhaURfS1d1a0FBZDl4YlFDd3RJdXhrYjVqbzA0ZDlOdUxaN0dXNk9RbnpCa1pTUGkxb2d0VGJCTy05U3d1TDNKel83WjVPRQ?oc=5",
+        "title": "QB Brock Purdy to Miss the 49ers' Game Vs. the Seahawks. Mac Jones Will Start in His Place - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM3ZrNURtS2UweFBhRXQ1a1NqNzRFZklQQlZJTjlmUDFUZnhwN2ZZUjY2SjFvTUE0RE5uZFg0b2w2TXY3ZjBVbmEwWDUyN2Z2TWk1LUk2Xy0yQzk2Vl9URmJtMDNFSXppZTA0UElwVUFUTUtHcnc5b1J4czU5T1N3dTNJNjQ4dlIzaVpJdWFoTXd5X3ZyMDR0X2dsV1lqZ202a19nckVIR3owNUIxdmwwWDZhZ1NGU1ZxR01md1I0RlVod2ROQllCMnRvQ09ZaUZ3V1NScWhWa1BoZw?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Fri, 27 Nov 2026 23:38:00 GMT"
+      },
+      {
+        "title": "Bigfoot enthusiasts hope government’s US sightings files are ‘just the beginning’ of proving the creature real - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXVWMWtlN0wxLXFncDdfcmxTV3VwRUZ5TzhpMnZoWDZUcE1GUW9mQzVhREJqQkQ5U0Z3STdjR2doMHFNcndIamFRLTV5aDVESWlEaXBqSFdJLWlzV3ZyWXR2QURNcW43WVhueVotTVdFUElkTXZaU2UxaE8xVGVTeFJOVQ?oc=5",
         "source": "The Guardian",
-        "pubDate": "Fri, 27 Nov 2026 12:38:00 GMT"
+        "pubDate": "Fri, 27 Nov 2026 19:08:00 GMT"
       },
       {
-        "title": "Medicare Open Enrollment: Here’s What’s Changing, and What Mistakes To Avoid | National News | U.S. News - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdndtQTJhQTlIQm9feEkzZW04QVlidWF4NHh5MGljcHRxcTB6WlAybTZHYW1jem0xdUZDNXhNSktGYWZwYkU4UzhXZ3NyRDdwOUREV3I2QlNQMHN3eTFTNkdRSV94MnRGbWYtNkVrUjFwZFN4dnlUTDdtSmhZSzdRMXg2MHV2TU1GVHd4VjhxMzlHYlNyYnhTbFRoODBTWm9MSURSVGY3eWxvRHBPdUVEME1rSnFpVVJlZmFBanhYSDN2Z1BONjNEekFQVkZhTmc?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 27 Nov 2026 13:01:02 GMT"
-      },
-      {
-        "title": "Austrian Court Turns Ex-Tycoon Benko's Suspended Sentence Into 6 Months' Prison - U.S. News & World Report",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmxGSEw2YmJZNld6a0sxY2VxVHB1bVRCRmJ3MGpjZ0Y1ZFgtV1M5ZVVnRnZaUkt6YnRlUUNobXNQN2hEODJDbHVpTzVBTHFNVnJmNlhncUNlQ1NIdDJyMVdyeWVlbFpiY0ktMXRkd3ZCN3pVY0wtbjZLT1ZJazZqcWw4ZTlqbncxWWRFTTdETkx2SWdWUmRhdXhaLWs5Ynp0cTV4d01PVDhZNVJJUDlpN1hiY1YxOEp3MURjLWpIMlZRb2ozOGhhZFZBbw?oc=5",
-        "source": "U.S. News & World Report",
-        "pubDate": "Fri, 27 Nov 2026 16:15:00 GMT"
-      },
-      {
-        "title": "Severe storms upend Thanksgiving travel and leave hundreds of thousands without power - NBC News",
+        "title": "Hundreds of thousands still without power after severe Thanksgiving weather - NBC News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZDcGNBblpnR2Zwdy1RRWhBTmhpOTAwRWhNdDJHS1BXNDBsSFVHQml1eHU5NEVrUUM4bVpJN2xBMFdUTXp0VFYtcU1PYTVHS0lBb2ZuOWw3OGZRaEdDSlN3d1o2bU56Q2NBaXlVSTFWaS13bnp4NnhFQ3hhNW4zVlBvRHNUc2VEX2haa1hnQl9xdm5aX1J4RDVhQUk?oc=5",
         "source": "NBC News",
-        "pubDate": "Fri, 27 Nov 2026 13:05:00 GMT"
+        "pubDate": "Fri, 27 Nov 2026 19:33:00 GMT"
+      },
+      {
+        "title": "ACLU Seeks Court Order Blocking Trump Administration's Efforts to Unmask ICE Critics on Social Media - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTTlTMEJXWjZqUjRKN3JrdGN4SVM5SGVDMUo2SzF4OHZlMjhONkNwYlRDQy1DYkJ2UWl0OVNsdTlQUnRBTzdsN0dHZ1o4Nmw3YWZfMVQ2ZVRSZnBRUXFHc2ZTa2VZU0xDb2M1RHlLZ0ljLWtuYk9lMS1KeUZnZWNKd0o5WHE4ZEpJZFUyZVQyZk41UGRTSjk4dXpudHJWTERjU1dRRWdyNU9LN3Fta010c3IwVnByaUJBQ21Jc3RjVDA1LTFXdnpUY1dIM2VSYlllVk5YZXJ1NnZrZWYzR1E2dVlCOWM2Z2p5N2JKSQ?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Fri, 27 Nov 2026 22:29:00 GMT"
+      },
+      {
+        "title": "Inspired Steelers Move on From Rodgers' Exit With Cathartic 27-5 Win Over Sloppy Broncos - U.S. News & World Report",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOVlzbTd3UU5uZGlqTHpTN3Z5WG1TbHM4ZWZNcFFQWnRHc2hKOVN0QzQ2ZlVSLU95OWU4ck5ONXVqdlRxZC1EdFZNRUFsWmsyNER1eS0wcW4yeEthN2Z0cE43Sk14WWlEcmdYUFNBNjE5QWFlME5hNGlsM3pPYkhPU01hYkF5V3ZaQkR3RjZrM01NY1ZrWHBKVkRkeHhOdDZjaGY3N1ZSaDJLdzJKU2lEX1IzNDJfanRwbXZfOXlITnBweEFhTWFuY01JZmNTZnd5Ynl0U3poTzlzdw?oc=5",
+        "source": "U.S. News & World Report",
+        "pubDate": "Fri, 27 Nov 2026 23:05:00 GMT"
       }
     ],
     "local": [
+      {
+        "title": "BROADCAST INFORMATION: No. 21 Ohio State vs. Michigan - Ohio State | Official Athletics Website",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVRzeDJWWS1rX201MWNsTFJDbV9Xc2xBVGUwTjBDU2pLSF9UNDFTdzktQlVfTHhqUDNrTVZHQzhfVDVQSnFkQXhPb1FnNEpxeXNGd3FfUHh4Rmw5OHMyRXZ4Sl85ZUcxaWVlbEtybTJZUk44OEdDTndMS09jVEhRdzlqUGR4UDE1OXFBcUtEb01uR0hHR2R0eWU3S1FLTVRZUmZhS3BuVFg?oc=5",
+        "source": "Ohio State | Official Athletics Website",
+        "pubDate": "Fri, 27 Nov 2026 21:30:30 GMT"
+      },
+      {
+        "title": "Detroit Tigers’ Puzzling Beau Brieske Roster Move Suddenly Makes Sense - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2czQ0RvajlhblhmVmlSOUV0VkczQ3FnUlhwUEpaSWdQcmlGMk1KRFM5Ri1Bb2hCTzl1Y1ZfakNwMlNfanBob0x6bko3M0ZYTjZlMUxla1VBSk9tYjc4ZXpVSzhkeW1FNWhjSTBaMWs4aUtueFA3WWtCNklUWVNfcTVYUUpMd0hwdFYxaHlLYnkxbmM?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 27 Nov 2026 23:35:11 GMT"
+      },
+      {
+        "title": "UMD Men's Basketball Faces Northern Michigan in Non-Conference Finale - UMD Bulldogs",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1lFSXlYQ0k1cWFkbWZ6aVhCMnVmYjNhQkxoM0dqS1d5SUozUVhROC1oSzZaamZzUTJHVmNpZTRvejZrTzRiXzMwXy1TOVYydzBzNjg1YmxiUlk5bDF0aml2WEQxM1VmTmVKaDBDSUJsMU5aV0pkNzIxNElhd3dVaXZaYklOdmx0WWx3Vnp2UmRkZG1QQTVYendHRmJIY3lDbGFxMzNMbEJsT0xDMFZ6QVR6cw?oc=5",
+        "source": "UMD Bulldogs",
+        "pubDate": "Fri, 27 Nov 2026 23:47:27 GMT"
+      },
+      {
+        "title": "2026 College Football Odds: Will Head Coach Kyle Whittingham Leave Michigan? - FOX Sports",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeTJsXzlLMS1fOE1QdzNvVGxMdjNiRDM4V01qNEx3Mk9jSjdjdTJ6TDZPSXZHOHp5bmFndzZBQUxiVEEzWnBNNU51QlcwanZ4aEt6R0RDbGE0YTl2NWhvZ2hYQ1dhZFNvNnRpNEZ5NTdjamJNaUZndFBqUzM3Y2dEMTk4TGFZN3UxakJueWdDQTBqQ3FCUGY5TS1WUklXYVhM0gGgAUFVX3lxTE9PR3lZbDFxNGJVdDlQalp2anJnUWlxUy1uWFFSdGpoR1h6SUFhLWZ5VmlnckY2VTF3ZDVaU2RYVkJJd1E0bVF4ZjhKNl9mTmZkYzBoWGVOTFllbEtsVGlkb01BdGxRY180ZGFvdVhybXhoazJiR0x0MlF2QWZfN2tibGdfbURmUVVXN1RUNjhsODRDNExjakFhemJfenJFNDI?oc=5",
+        "source": "FOX Sports",
+        "pubDate": "Fri, 27 Nov 2026 19:10:50 GMT"
+      },
+      {
+        "title": "The Detroit Lions have some catching up to do if they want homefield advantage throughout the playoffs, but they're still in good position. See link below ⬇️ 📸 Kimberly P. Mitchell, Detroit Free Press - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVjhSUXdOVTVNQk5jcmlUamhxOUFub180a044d0JTRldZZk85MDlUQl8xb083UzlpUm1KaHk1dnMtc2RMNEhCX1M4TU9INVFhQ2JwcFlUakVZaF9SRzVWeWRGT3B1b21yN2ZBYlctODc0bnlqc3B0eEVka0l2T2FxWXFjZjk1a0tFQ21SNkl2dmhoLWtOeDRqQ0JCalJzeVgtRlVCNUx3cm9HbWFQNW5uNFRiQkRZeHRQcEloeGhuM0JremFoamxtYUU1YzV1WG43eFpzX3J0QkVOYzVEcU1N?oc=5",
+        "source": "Facebook",
+        "pubDate": "Fri, 27 Nov 2026 20:30:13 GMT"
+      },
       {
         "title": "TWENTYMAN: Week 12 observations - Detroit Lions",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1o5UW84TWd3RWhKWldZeS00bHMxRHYwcm9SdjJiMlFNSk1yN0tmcVNDaE00YVItY01YeERELWMxYWYzc2dGb3VPSS1IVTAwLTBBU2dvSm50X25vSy0xRWhpbVRiSE9kM1hLVkxULUFsRmlJRlc1bVBtN0lwWGotUnpIRmNncDFBQmFQSUZLOEY4bFlGa1c1V2Jsdm0?oc=5",
@@ -59,46 +89,16 @@
         "pubDate": "Fri, 27 Nov 2026 12:04:29 GMT"
       },
       {
-        "title": "Ohio State vs. Michigan: One fatal flaw that could decide everything - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3FVeXZtT0RfaE00Vy1OQ2FZdVZTSEE0UDZnWTZzZzdaeHAtOW1iVFdYT04xMUlQRlB4N1ZuREVBRzFFa3BXR0lTUkQxeUNKWF9JLVJ1MlRfMmxIcWdmSTI3eWw1UmlfVXNLdk1MSXdpd2hCYmpyeUN3MG10ZkRKc19PbzRBVVhGVFNUeUc4ZVpNRllPeVQw?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Fri, 27 Nov 2026 17:19:38 GMT"
-      },
-      {
-        "title": "1 killed in shooting in downtown Birmingham - ClickOnDetroit | WDIV Local 4",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEtLZnZubDROSEhNZVEtNEN1TDJYY2JSMVZJaFZjbE5SVWhoc25Bc3NtZFBGSEJBUV9ZNEhTbmJPMl8zeVRZZG1kUUwzR0Z5WnhLR1dqTldiSTFyUTEtQnhlNWtxSllMOS0yNTdlR2RoRkg5NS1vRFYxMDBuY29tTU9ReGlxbl9NUU5EMkRxMzRidGVTd3Q1TVVWbUNkQQ?oc=5",
-        "source": "ClickOnDetroit | WDIV Local 4",
-        "pubDate": "Fri, 27 Nov 2026 17:56:46 GMT"
-      },
-      {
-        "title": "Detroit Lions grades: Offense, defense, coaching all take blame in loss to Bears - Pride Of Detroit",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVWtWOHZMckVPT0J4X3EyTEdLbjR3a19TcW1kc2pOX1ltWU9pZkZvNUtfbXM2N2ktSFNDckNVblhRZmhvakNSUFpTN0dyVWFpd1RqYjY3bVU0S3VPNVFWREZ5aGlUR3NURUJZcDFsQWpvMVpaUU81QTBaMDk5c2VhTkpoVW1YaTdRb3NrYkNWaVloR01OaV9LX1JXSUFEYnZybFJjS2VkSXBMRlFrQzFBMzFOc0doMW5FdHowdHQyLWwzc3k0bV9yRjRONGlQNC1HNV9PSklCNA?oc=5",
-        "source": "Pride Of Detroit",
-        "pubDate": "Fri, 27 Nov 2026 15:33:03 GMT"
-      },
-      {
-        "title": "One person fatally shot during altercation in Birmingham, Michigan, police say - CBS News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVEhSSUtTbklKR2prRF9FaGFNa2xqSDhRajdPRWY4V3Y3TkJ3cDdiUzhuN0lGMDdBa3QtT2Q5OUF3YzBZLU9Tam83ODEyVUk3WXFJM1RQWV9tSENGcWhVRnNTVDRrNFV0Q0lPdXlNTU8tTEhwUmc2WVVld0d4WGs2WUt1c05KdmlXUFBYVHUtMUkwSE5PN0VVSS00WEctcDg?oc=5",
-        "source": "CBS News",
-        "pubDate": "Fri, 27 Nov 2026 17:58:00 GMT"
-      },
-      {
-        "title": "Grades: Detroit Lions Defense Falls Apart, Coaches Falter - Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFpfTXNMbXdNZnF4WURqUWZkRGhVcU52U3N3SGVaSkpDcU5sTUc1ZjFHSnpiZUhNQzJiemd4bmZxZnAyRExQek12TWNTSWhPY29YSU1fRnh2b0hGd01hT3pwUHM3eXdjRHJCRDQzbExDX011ME1VaTRxQXc1SE9TeXJUcU9qOWRFejBrSlNRWnB2MzNscml1dVpiVQ?oc=5",
+        "title": "3 Fatal Flaws That Give Michigan Football a Chance to Beat Ohio State - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSE9tWW5zcWxIMDhaM084X3gzNUhsZVh2NjlGaEZEVUk1dUE2YmtCeUlaN29uR1JuRW5waFlQb0VMa3hJSllnQi1mZ2xxRHpXNjZldXJGZDhLcjBPbnllLTFQZTBzMDdwR0JHS1VLeEl4ZFhQZ2p0Z1RqZWhRaF9DTTZ1R3BGbkZnd1dIbzZWemY0eWxSU01kTXdxUlZJZkFkTVk1c1JoS2JZUEhJN0g5cWpyU2tuMDBjck0w?oc=5",
         "source": "Sports Illustrated",
-        "pubDate": "Fri, 27 Nov 2026 13:08:48 GMT"
+        "pubDate": "Fri, 27 Nov 2026 21:40:28 GMT"
       },
       {
-        "title": "Michigan Falls to No. 17 Miami in Players Era Sixteen - University of Michigan Athletics",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3hwRWRqMnFBc2ppRXRjenRtc3pKcHVXZ0pXSG0tZlo2ZjgxZlVzYWF3Qlg0SkpBMVA4QUxXTTRFREsxS2Vpc2ljZmNsUFR3UHF5ZXFMX3JGcWxjdngyUktGRFM1ekl4UTNuOVpGWFpUOGlRVmpmYUVocEE0TGhNcHRUX1pFelpPVUpNNkd6Z09WMURPX1F4VnN3eFp3dkQzRjc4X3lMTQ?oc=5",
-        "source": "University of Michigan Athletics",
-        "pubDate": "Thu, 26 Nov 2026 23:37:11 GMT"
-      },
-      {
-        "title": "Fears Leads the Way as No. 11 Michigan State Holds Off Arkansas, 70-67, on Thanksgiving Day in Detroit - Michigan State University Athletics",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd3RuS3M2M1NNdldSaGktQzF3a3FpaUpadEt4MHd2cmVzWUlkdFNFdWZ0QXh3S3k1NEFLMklJNWJUd1ZuV2JwMk11bFBGeWxpcDhCZWJLMzctd0VWNnRfZlQ5X1laWjg1M2pINVktWGRTX0ZvN29seVduQ1B1QzhLTmNhem80MDk0dkZIUU1OMG1GXzRWM01wUU01MlFlSHJWalMweWVRUmwyUDNGcC02aXZpYm5qc0ZIUlNwQl9lZno5X2Npc3RsN0tNbF92Q2xlSkFzZXlLb0dhaTZCNFNCeHB5azdhZkRqaUF3?oc=5",
-        "source": "Michigan State University Athletics",
-        "pubDate": "Fri, 27 Nov 2026 06:31:49 GMT"
+        "title": "UCLA vs. Michigan: Spread picks and bold predictions - 247Sports",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGZwLVdRb25aZnN3cGF6YlRsS2tqLWFYZU1MTUhsUkNXSVBOVHNMaGNsLXBsV0tvWUhEWTdkaHRYeTgtcTVZWU12d09GaVFLRHVHOEFlTndIQ3E0dkN1Q0JRdzJjODJyTFpyYnN5M0FXelVvWFNtdFRVbTNBXzhvWF9FWUdmRmdJYkVxdnJ0UHFvYUJvQU5kbmotNnNXelpodW1ONHlvaw?oc=5",
+        "source": "247Sports",
+        "pubDate": "Fri, 27 Nov 2026 22:46:09 GMT"
       }
     ]
   }
